@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTEC Collaboration Network</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+                    
+            <div class="guided-insights">
+                <h3 style="font-size: 0.9rem; margin-bottom: 10px; color: var(--text-muted);">Insights</h3>
+                <button id="btn-task1" class="insight-btn">Task 1: Show Key Bridges</button>
+                <button id="btn-task2" class="insight-btn">Task 2: Top Impact Faculty</button>
+                <button id="btn-task3" class="insight-btn">Task 3: Map Thematic Clusters</button>
+                <button id="btn-task4" class="insight-btn">Task 4: Spotlight Top Ego-Network</button>
+            </div>
+            <div class="controls">
+                <label for="filter-type">Filter by Entity:</label>
+                <select id="filter-type">
+                    <option value="all">All Entities</option>
+                    <option value="UTEC Faculty">UTEC Faculty</option>
+                    <option value="External Researcher">External Researchers</option>
+                    <option value="External Organization">External Organizations</option>
+                    <option value="Internal Organization">Internal Organizations</option>
+                </select>
+                <button id="reset-btn">Reset View</button>
+            </div>
+            
+            <div class="divider"></div>
+            <div class="sidebar-legend-container">
+                <div class="legend-header" id="legend-header">
+                    <h3 id="legend-title">Entity Types</h3>
+                    <span id="toggle-legend-btn" class="toggle-btn">▼</span>
+                </div>
+                <div id="legend-content" class="legend-content"></div>
+            </div>
+            <div class="divider"></div>
+            <div id="info-panel" class="info-panel empty">
+                <p class="placeholder-text">Click a node to view details.</p>
+                <img id="detail-photo" src="" alt="Profile" style="display:none;">
+                <h2 id="detail-name"></h2>
+                <span id="detail-type" class="badge"></span>
+                <!-- <div class="metrics"> -->
+                <div class="metrics" id="detail-hindex"></div>
+                <div class="metrics" id="detail-citations"></div>
+                <!-- </div> -->
+                <p id="detail-bio"></p>
+            </div>
+        </aside>
+
+        <main class="viz-container" id="viz-container">
+            <div id="tooltip" class="tooltip" style="opacity: 0;"></div>
+        </main>
+    </div>
+    <div class="divider"></div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

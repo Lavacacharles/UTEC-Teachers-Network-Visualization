@@ -1,0 +1,266 @@
+/* Base Styles & Minimalism */
+:root {
+    --bg-color: #fafafa;
+    --panel-bg: #ffffff;
+    --text-main: #333333;
+    --text-muted: #666666;
+    --border-color: #e0e0e0;
+    --accent-blue: #0056b3;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    height: 100vh;
+    overflow: hidden;
+}
+
+.app-container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+
+/* Sidebar & Information Panel */
+.sidebar {
+    width: 320px;
+    background-color: var(--panel-bg);
+    border-right: 1px solid var(--border-color);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.02);
+    z-index: 10;
+}
+
+.controls {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.controls label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-muted);
+}
+
+.controls select, .controls button {
+    padding: 8px 12px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background: #fff;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+.controls button {
+    background: var(--accent-blue);
+    color: white;
+    border: none;
+    transition: background 0.2s ease;
+}
+
+.controls button:hover {
+    background: #004494;
+}
+
+.divider {
+    height: 1px;
+    background-color: var(--border-color);
+    margin: 20px 0;
+}
+
+/* Details Panel Typography */
+.info-panel {
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+.info-panel.empty {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.placeholder-text {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+#detail-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 2px solid var(--border-color);
+}
+
+#detail-name {
+    font-size: 1.2rem;
+    line-height: 1.3;
+    margin-bottom: 5px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    background: #e9ecef;
+    color: var(--text-muted);
+    margin-bottom: 15px;
+}
+
+.metrics {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+#detail-bio {
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: var(--text-muted);
+}
+
+/* Visualization Canvas */
+.viz-container {
+    flex-grow: 1;
+    position: relative;
+    background-color: var(--bg-color);
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+    cursor: grab;
+}
+
+svg:active {
+    cursor: grabbing;
+}
+
+/* D3 Element Transitions */
+.node circle {
+    stroke: #fff;
+    stroke-width: 1.5px;
+    transition: opacity 0.3s ease;
+}
+
+.link line {
+    stroke: #cbd5e1;
+    transition: opacity 0.3s ease, stroke 0.3s ease;
+}
+
+/* Floating Tooltip */
+.tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    z-index: 20;
+    transition: opacity 0.2s ease;
+}
+
+.insight-btn {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 8px;
+    background: #f1f5f9;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+    text-align: left;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: background 0.2s;
+}
+.insight-btn:hover {
+    background: #e2e8f0;
+}
+/* --- Collapsible Sidebar Legend --- */
+.sidebar-legend-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.legend-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 5px 0;
+}
+
+.legend-header h3 {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin: 0;
+}
+
+.toggle-btn {
+    background: none;
+    border: none;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+/* Rotates the arrow when collapsed */
+.toggle-btn.collapsed {
+    transform: rotate(-90deg); 
+}
+.legend-content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 10px;
+
+    max-height: 180px;
+    overflow-y: auto;
+
+    transition:
+        max-height 0.3s ease,
+        opacity 0.3s ease;
+
+    min-height: 0;
+}
+
+.legend-content.collapsed {
+    max-height: 0;
+    opacity: 0;
+
+    overflow: hidden;
+    margin-top: 0;
+    padding: 0;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.legend-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 8px;
+    flex-shrink: 0;
+}

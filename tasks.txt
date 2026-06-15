@@ -1,0 +1,13 @@
+Task 1 (Topology & Hubs): Who are the primary "bridges" connecting UTEC to external organizations? * Goal: Identify UTEC faculty who act as key conduits between the university and institutions like INICTEL-UNI or UNMSM.
+
+Task 2 (Impact vs. Connectivity): Does a higher volume of collaboration correlate with a higher individual academic impact (h-index/citations)?
+
+Goal: Allow the user to visually compare a researcher's position in the network (centrality) against their actual academic output (encoded as size).
+
+Task 3 (Thematic Clusters): How do distinct research areas (fingerprints/topics) drive collaboration groups?
+
+Goal: Discover if specific groups of collaborators are tightly knit because they share specific dominant topics (e.g., "Silicon Photonics" or "Systems-on-a-Chip").
+
+Task 4 (Ego-Network Details): What is the specific collaboration history and organizational footprint of a selected faculty member?
+
+Goal: Provide a detailed, isolated view of a single researcher, showing exactly who they work with, where those people are located, and how many shared publications they have.	

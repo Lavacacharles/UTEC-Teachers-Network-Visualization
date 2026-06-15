@@ -1,0 +1,1204 @@
+[
+    {
+        "name": "Luz Antuanet Adanaque Infante",
+        "email": "ladanaque@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/luz-antuanet-adanaque-infante/"
+    },
+    {
+        "name": "José Manuel Aguilar Alfaro",
+        "email": "jaguilar@utec.edu.pe",
+        "dept": "Departamento de Negocios Digitales",
+        "groups": [
+            "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-manuel-aguilar-alfaro/"
+    },
+    {
+        "name": "Grace Alexandrino Ocaña",
+        "email": "galexandrino@utec.edu.pe",
+        "dept": "Departamento de Humanidades, Artes y Ciencias Sociales",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/grace-alexandrino-oca%C3%B1a/"
+    },
+    {
+        "name": "Helard Alvarez Sanchez",
+        "email": "halvarez@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Grupo de investigación en energía y minas",
+            "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/helard-alvarez-sanchez/"
+    },
+    {
+        "name": "Claudia Antonini Bova",
+        "email": "cantonini@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+        "groups": [
+            "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/claudia-antonini-bova/"
+    },
+    {
+        "name": "Sergio Aranda Egusquiza",
+        "email": "saranda@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/sergio-aranda-egusquiza/"
+    },
+    {
+        "name": "Patricia Araujo Pantoja",
+        "email": "paraujo@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Grupo de investigación en energía y minas",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/patricia-araujo-pantoja/"
+    },
+    {
+        "name": "Andrés Julián Arias Moreno",
+        "email": "aariasm@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/andr%C3%A9s-juli%C3%A1n-arias-moreno/"
+    },
+    {
+        "name": "Walter Sebastian Barrutia Alta",
+        "email": "wbarrutia@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/walter-sebastian-barrutia-alta/"
+    },
+    {
+        "name": "Luis Alberto Bedriñana Mera",
+        "email": "lbedrinana@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+            "Centro de Investigación del Cemento y Concreto - CIC",
+            "Centro de Investigación y Conservación del Patrimonio",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/luis-alberto-bedri%C3%B1ana-mera/"
+    },
+    {
+        "name": "Omar Bejarano Grández",
+        "email": "obejarano@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Grupo de investigación en energía y minas",
+            "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/omar-bejarano-gr%C3%A1ndez/"
+    },
+    {
+        "name": "Jesús Edwin Bellido Angulo",
+        "email": null,
+        "dept": "Facultad de Computación",
+        "groups": [
+            "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jes%C3%BAs-edwin-bellido-angulo/"
+    },
+    {
+        "name": "Carlos Alberto Benedetty Torres",
+        "email": "cbenedetty@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/carlos-alberto-benedetty-torres/"
+    },
+    {
+        "name": "Eric Javier Biagioli",
+        "email": "ebiagioli@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/eric-javier-biagioli/"
+    },
+    {
+        "name": "Juan Bueno Villanueva",
+        "email": "jbueno@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/juan-bueno-villanueva/"
+    },
+    {
+        "name": "Jhedmar Jhonatan Callupe Luna",
+        "email": "jcallupe@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jhedmar-jhonatan-callupe-luna/"
+    },
+    {
+        "name": "Ruth Canahuire Cabello",
+        "email": "rcanahuire@utec.edu.pe",
+        "dept": "Universidad de Ingeniería y Tecnología - UTEC",
+        "groups": [
+            "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "Centro de Investigación en Bioingeniería - BIO"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/ruth-canahuire-cabello/"
+    },
+    {
+        "name": "Paul Cardenas Lizana",
+        "email": "pcardenas@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/paul-cardenas-lizana/"
+    },
+    {
+        "name": "Ana Rocio Cardenas Maita",
+        "email": "acardenasm@utec.edu.pe",
+        "dept": "Departamento de Sistemas y Seguridad de la Información",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/ana-rocio-cardenas-maita/"
+    },
+    {
+        "name": "Jose Javier Cerda Hernandez",
+        "email": "jcerda@utec.edu.pe",
+        "dept": "Universidad de Ingeniería y Tecnología - UTEC",
+        "groups": [
+            "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+            "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jose-javier-cerda-hernandez/"
+    },
+    {
+        "name": "Samuel Charca Mamani",
+        "email": "scharca@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Centro de Investigación y Conservación del Patrimonio",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/samuel-charca-mamani/"
+    },
+    {
+        "name": "Xyoby Chavez Pacheco",
+        "email": "xchavez@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/xyoby-chavez-pacheco/"
+    },
+    {
+        "name": "Sheyla Chero Osorio",
+        "email": "schero@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Centro de Investigación y Tecnología del Agua - CITA",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/sheyla-chero-osorio/"
+    },
+    {
+        "name": "Fabien Cornillier",
+        "email": "fcornillier@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+        "groups": [
+            "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/fabien-cornillier/"
+    },
+    {
+        "name": "Antuané De La Flor Basterrechea",
+        "email": "adelaflor@utec.edu.pe",
+        "dept": "Departamento de Humanidades, Artes y Ciencias Sociales",
+        "groups": [
+            "Centro de Impacto y Responsabilidad Social - CIRSO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/antuan%C3%A9-de-la-flor-basterrechea/"
+    },
+    {
+        "name": "Jose De La Puente Maldonado",
+        "email": "jdelapuente@utec.edu.pe",
+        "dept": "Universidad de Ingeniería y Tecnología - UTEC",
+        "groups": [
+            "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jose-de-la-puente-maldonado/"
+    },
+    {
+        "name": "José Andrés De Leo Martínez",
+        "email": "adeleo@utec.edu.pe",
+        "dept": "Departamento de Humanidades, Artes y Ciencias Sociales",
+        "groups": [
+            "Centro de Investigación y Conservación del Patrimonio",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-andr%C3%A9s-de-leo-mart%C3%ADnez/"
+    },
+    {
+        "name": "Jose Gerardo Deustua Rossel",
+        "email": null,
+        "dept": "Dirección General de Innovación e Investigación",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jose-gerardo-deustua-rossel/"
+    },
+    {
+        "name": "Manuel Arturo Deza Figueroa",
+        "email": null,
+        "dept": "Unknown",
+        "groups": [
+            "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/manuel-arturo-deza-figueroa/"
+    },
+    {
+        "name": "Alberto Donayre Torres",
+        "email": "adonayre@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/alberto-donayre-torres/"
+    },
+    {
+        "name": "Jose Fiestas Iquira",
+        "email": "jfiestas@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jose-fiestas-iquira/"
+    },
+    {
+        "name": "Carmen Elena Flores Barreda",
+        "email": "cfloresb@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/carmen-elena-flores-barreda/"
+    },
+    {
+        "name": "Luis Ernesto Flores Luyo",
+        "email": "lfloresl@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+        "groups": [
+            "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/luis-ernesto-flores-luyo/"
+    },
+    {
+        "name": "Christian Flores Vega",
+        "email": "cflores@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/christian-flores-vega/"
+    },
+    {
+        "name": "José Tomás Gálvez Ghersi",
+        "email": "jgalvezg@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Grupo de Investigación en Física Fundamental (GIFF)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-tom%C3%A1s-g%C3%A1lvez-ghersi/"
+    },
+    {
+        "name": "Oscar Gamonal Pajares",
+        "email": "ogamonal@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/oscar-gamonal-pajares/"
+    },
+    {
+        "name": "Germain García Zanabria",
+        "email": "ggarciaz@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/germain-garc%C3%ADa-zanabria/"
+    },
+    {
+        "name": "Jorge Gonzalez Reaño",
+        "email": "jgonzalez@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jorge-gonzalez-rea%C3%B1o/"
+    },
+    {
+        "name": "Heinner Hilario Guio Chunga",
+        "email": "hguio@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/heinner-hilario-guio-chunga/"
+    },
+    {
+        "name": "Ronald R. Gutierrez",
+        "email": "rgutierrezl@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/ronald-r-gutierrez/"
+    },
+    {
+        "name": "Juan Gabriel Gutierrez Alva",
+        "email": "jgutierreza@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/juan-gabriel-gutierrez-alva/"
+    },
+    {
+        "name": "Julio Gutierrez Alva",
+        "email": "jgalva@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/julio-gutierrez-alva/"
+    },
+    {
+        "name": "Yuri Herrera Burstein",
+        "email": "yherrera@utec.edu.pe",
+        "dept": "Departamento de Negocios Digitales",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/yuri-herrera-burstein/"
+    },
+    {
+        "name": "Oscar Hidalgo Wuest",
+        "email": "ohidalgo@utec.edu.pe",
+        "dept": "Departamento de Humanidades, Artes y Ciencias Sociales",
+        "groups": [
+            "Centro de Impacto y Responsabilidad Social - CIRSO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/oscar-hidalgo-wuest/"
+    },
+    {
+        "name": "Daniel Vicente Horna Muñoz",
+        "email": null,
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)",
+            "Universidad de Ingeniería y Tecnología - UTEC",
+            "Centro de Investigación y Tecnología del Agua - CITA"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/daniel-vicente-horna-mu%C3%B1oz/"
+    },
+    {
+        "name": "Rocío Hoyos Diaz",
+        "email": "rhoyos@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/roc%C3%ADo-hoyos-diaz/"
+    },
+    {
+        "name": "Deyby Huamanchahua Canchanya",
+        "email": "dhuamanchahua@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Grupo de Investigación en Innovación Educativa y Competencia Docente (INECOD)",
+            "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/deyby-huamanchahua-canchanya/"
+    },
+    {
+        "name": "Dante Inga Narvaez",
+        "email": "dinga@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/dante-inga-narvaez/"
+    },
+    {
+        "name": "Elvis Jara Alegria",
+        "email": "ejara@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/elvis-jara-alegria/"
+    },
+    {
+        "name": "Enrique Juarez Aquino",
+        "email": "ejuarez@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/enrique-juarez-aquino/"
+    },
+    {
+        "name": "Wangdo Kim",
+        "email": "mwdkim@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/wando-kim/"
+    },
+    {
+        "name": "Jose Larco Martinelli",
+        "email": "jlarco@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+        "groups": [
+            "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jose-larco-martinelli/"
+    },
+    {
+        "name": "Cristian Lopez Del Alamo",
+        "email": "clopezd@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/cristian-lopez-del-alamo/"
+    },
+    {
+        "name": "Milagros Lunga Calderón",
+        "email": "mlunga@utec.edu.pe",
+        "dept": "Departamento de Negocios Digitales",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/milagros-lunga-calder%C3%B3n/"
+    },
+    {
+        "name": "José Luis Mantari Laureano",
+        "email": "jmantari@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-luis-mantari-laureano/"
+    },
+    {
+        "name": "Giancarlo Marcone Flores",
+        "email": "gmarcone@utec.edu.pe",
+        "dept": "Departamento de Humanidades, Artes y Ciencias Sociales",
+        "groups": [
+            "Centro de Impacto y Responsabilidad Social - CIRSO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/giancarlo-marcone-flores/"
+    },
+    {
+        "name": "Diego Alejandro Milanés Carreño",
+        "email": null,
+        "dept": "Departamento de Física",
+        "groups": [
+            "Grupo de Investigación en Física Fundamental (GIFF)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/diego-alejandro-milan%C3%A9s-carre%C3%B1o/"
+    },
+    {
+        "name": "Rensso Victor Hugo Mora Colque",
+        "email": "rmora@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/rensso-victor-hugo-mora-colque/"
+    },
+    {
+        "name": "Angel Napa Bernuy",
+        "email": "anapa@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/angel-napa-bernuy/"
+    },
+    {
+        "name": "Leandro Neodini Remedio",
+        "email": "lneodini@utec.edu.pe",
+        "dept": "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
+        "groups": [
+            "Departamento de Bioingeniería e Ingeniería Química",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/leandro-neodini-remedio/"
+    },
+    {
+        "name": "Moises Nuñez Ochoa",
+        "email": "mnunez@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/moises-nu%C3%B1ez-ochoa/"
+    },
+    {
+        "name": "Vanessa Orihuela Munive",
+        "email": "vorihuela@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/vanessa-orihuela-munive/"
+    },
+    {
+        "name": "Bryam Orihuela-Pinto",
+        "email": "lorihuela@utec.edu.pe",
+        "dept": "Universidad de Ingeniería y Tecnología - UTEC",
+        "groups": [
+            "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/bryam-orihuela-pinto/"
+    },
+    {
+        "name": "Maria Belén Ortiz García",
+        "email": null,
+        "dept": "Departamento de Sistemas y Seguridad de la Información",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/maria-bel%C3%A9n-ortiz-garc%C3%ADa/"
+    },
+    {
+        "name": "Hermes Pantoja Carhuavilca",
+        "email": "hpantoja@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/hermes-pantoja-carhuavilca/"
+    },
+    {
+        "name": "Carolina Parada Quinaya",
+        "email": "dparada@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/carolina-parada-quinaya/"
+    },
+    {
+        "name": "Alexander Peña Nevado",
+        "email": "apena@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/alexander-pe%C3%B1a-nevado/"
+    },
+    {
+        "name": "Sergio Quispe Rodriguez",
+        "email": "squispe@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/sergio-quispe-rodriguez/"
+    },
+    {
+        "name": "Elmer Ramirez Quiroz",
+        "email": "eramirez@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Grupo de investigación en energía y minas",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/elmer-ramirez-quiroz/"
+    },
+    {
+        "name": "Oscar Ramos Ponce",
+        "email": "oramos@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/oscar-ramos-ponce/"
+    },
+    {
+        "name": "José Ramos Saravia",
+        "email": "jramos@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Grupo de investigación en energía y minas",
+            "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jos%C3%A9-ramos-saravia/"
+    },
+    {
+        "name": "Alejandra Ratti Parandelli",
+        "email": "aratti@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/alejandra-ratti-parandelli/"
+    },
+    {
+        "name": "Pedro Rau Lavado",
+        "email": "prau@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)",
+            "Universidad de Ingeniería y Tecnología - UTEC",
+            "Centro de Investigación y Tecnología del Agua - CITA"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/pedro-rau-lavado/"
+    },
+    {
+        "name": "Jose Renom Andara",
+        "email": "jrenom@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jose-renom-andara/"
+    },
+    {
+        "name": "Alejandro Rios Cuadros",
+        "email": "arios@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/alejandro-rios-cuadros/"
+    },
+    {
+        "name": "Lucia Rivera Charún",
+        "email": "mriverac@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/lucia-rivera-char%C3%BAn/"
+    },
+    {
+        "name": "Juan Carlos Rodríguez Reyes",
+        "email": "jcrodriguez@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Grupo de investigación en energía y minas",
+            "Centro de Investigación y Conservación del Patrimonio",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/juan-carlos-rodr%C3%ADguez-reyes/"
+    },
+    {
+        "name": "Ursula Rodriguez Zuñiga",
+        "email": "urodriguez@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/ursula-rodriguez-zu%C3%B1iga/"
+    },
+    {
+        "name": "Luciano Arnaldo Romero Calla",
+        "email": "lromeroc@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/luciano-arnaldo-romero-calla/"
+    },
+    {
+        "name": "Harry Gustavo Saavedra Espinoza",
+        "email": "hsaavedra@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/harry-gustavo-saavedra-espinoza/"
+    },
+    {
+        "name": "Heider Sánchez Enriquez",
+        "email": "hsanchez@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/heider-s%C3%A1nchez-enriquez/"
+    },
+    {
+        "name": "Nedher Sanchez Ramirez",
+        "email": "nsanchezr@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/nedher-sanchez-ramirez/"
+    },
+    {
+        "name": "Monica C. Santa-Maria",
+        "email": "msantamaria@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC",
+            "Centro de Investigación y Tecnología del Agua - CITA"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/monica-cecilia-santa-mar%C3%ADa-fuster/"
+    },
+    {
+        "name": "Yamilet Rosario Serrano Llerena",
+        "email": "yserrano@utec.edu.pe",
+        "dept": "Departamento de Sistemas y Seguridad de la Información",
+        "groups": [
+            "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+            "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/yamilet-rosario-serrano-llerena/"
+    },
+    {
+        "name": "Evgenii Vladimirovich Shmanin",
+        "email": "evladimirovich@utec.edu.pe",
+        "dept": "Departamento de Física",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/evgenii-vladimirovich-shmanin/"
+    },
+    {
+        "name": "Aurea Rossy Soriano Vargas",
+        "email": "asoriano@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/aurea-rossy-soriano-vargas/"
+    },
+    {
+        "name": "Enrique Stiglich Labarthe",
+        "email": null,
+        "dept": "Universidad de Ingeniería y Tecnología - UTEC",
+        "groups": [],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/enrique-stiglich-labarthe/"
+    },
+    {
+        "name": "Matteo Stiglich Labarthe",
+        "email": "mstiglich@utec.edu.pe",
+        "dept": "Departamento de Humanidades, Artes y Ciencias Sociales",
+        "groups": [
+            "Centro de Impacto y Responsabilidad Social - CIRSO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/matteo-stiglich-labarthe/"
+    },
+    {
+        "name": "Sashwat Tanay",
+        "email": "stanay@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/sashwat-tanay/"
+    },
+    {
+        "name": "Jonathan Tapullima",
+        "email": "jtapullima@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Electrónica y Mecatrónica",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jonathan-tapullima/"
+    },
+    {
+        "name": "Francisco Tarazona Vásquez",
+        "email": "ftarazona@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/francisco-tarazona-v%C3%A1squez/"
+    },
+    {
+        "name": "Jimmy Tarrillo Olano",
+        "email": "jtarrillo@utec.edu.pe",
+        "dept": "Universidad de Ingeniería y Tecnología - UTEC",
+        "groups": [
+            "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)",
+            "Departamento de Ingeniería Electrónica y Mecatrónica"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jimmy-tarrillo-olano/"
+    },
+    {
+        "name": "Candy Veronica Tenorio Gonzales",
+        "email": "ctenorio@utec.edu.pe",
+        "dept": "Departamento de Sistemas y Seguridad de la Información",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/candy-veronica-tenorio-gonzales/"
+    },
+    {
+        "name": "Jorge Tipe Villanueva",
+        "email": "jtipe@utec.edu.pe",
+        "dept": "Departamento de Ciencia de Computación y de Datos",
+        "groups": [
+            "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/jorge-tipe-villanueva/"
+    },
+    {
+        "name": "David Wilfredo Torres Escobar",
+        "email": "dtorres@utec.edu.pe",
+        "dept": "Universidad de Ingeniería y Tecnología - UTEC",
+        "groups": [
+            "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/david-wilfredo-torres-escobar/"
+    },
+    {
+        "name": "Julio Ernesto Valdivia Silva",
+        "email": "jvaldivias@utec.edu.pe",
+        "dept": "Departamento de Bioingeniería e Ingeniería Química",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/julio-ernesto-valdivia-silva/"
+    },
+    {
+        "name": "Elba Rosaura Vazques Arrieta",
+        "email": "rvasqueza@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Civil y Ambiental",
+        "groups": [
+            "Centro de Investigación del Cemento y Concreto - CIC",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/elba-rosaura-vazques-arrieta/"
+    },
+    {
+        "name": "Emir Augusto Vela Saavedra",
+        "email": "evela@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Centro de Investigación en Bioingeniería - BIO",
+            "Escuela de Posgrado",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/emir-augusto-vela-saavedra/"
+    },
+    {
+        "name": "Rafael Vera Pomalaza",
+        "email": "rvera@utec.edu.pe",
+        "dept": "Departamento de Ingeniería Mecánica y de la Energía",
+        "groups": [
+            "Grupo de investigación en energía y minas",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/rafael-vera-pomalaza/"
+    },
+    {
+        "name": "Eunice Villicaña Ortiz",
+        "email": null,
+        "dept": "Facultad de Ingeniería",
+        "groups": [
+            "Grupo de investigación en energía y minas",
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/eunice-villica%C3%B1a-ortiz/"
+    },
+    {
+        "name": "Akira Armando Wong Sato",
+        "email": "awong@utec.edu.pe",
+        "dept": "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/akira-armando-wong-sato/"
+    },
+    {
+        "name": "Katia Zegarra Sierra",
+        "email": "kzegarras@utec.edu.pe",
+        "dept": "Departamento de Ciencias",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/katia-zegarra-sierra/"
+    },
+    {
+        "name": "Carlos Zorrilla Aranguren",
+        "email": "czorrilla@utec.edu.pe",
+        "dept": "Departamento de Humanidades, Artes y Ciencias Sociales",
+        "groups": [
+            "Universidad de Ingeniería y Tecnología - UTEC"
+        ],
+        "role": null,
+        "photo_url": null,
+        "profile_url": "https://cris.utec.edu.pe/es/persons/carlos-zorrilla-aranguren/"
+    }
+]
