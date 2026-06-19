@@ -9,6 +9,11 @@
             "citations": 12.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/31284574/adanaque-infante-luz-antuanet.jpg?w=160&f=jpg",
             "bio": "Docente de Enseñanza e Investigación de la Universidad de Ingeniería y Tecnología (UTEC). Candidata a Doctora en Ciencias de la Computación por la Pontificia Universidad Católica del Perú (PUCP). Experiencia como Investigadora especializada en el Grupo de Radiofrecuencia, Microondas y Óptica de la Dirección de Investigación y Desarrollo Tecnológico del INICTEL-UNI, participación en programas de divulgación de la ciencia y tecnología (Innóvate Perú) y gestión espacial como Team Leader Perú en el proyecto Student Small Satellite de APSCO. Magíster en Sistemas Embebidos para el Procesamiento de Datos por la Universidad de Bolonia (Italia). Ingeniera Electrónica por la Universidad Nacional de Ingeniería (UNI) con diez años de experiencia académica y profesional en diversas universidades peruanas, destacando como expositora en congresos y asesora de capítulos estudiantiles IEEE.",
+            "areas": [
+                "Arquitecturas reconfigurables",
+                "Procesamiento de imágenes",
+                "Sistemas embebidos"
+            ],
             "degree_centrality": 0.0077,
             "betweenness_centrality": 0.0272
         },
@@ -178,6 +183,12 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/25754110/aguilar-alfaro-jose-manuel.jpg?w=160&f=jpg",
             "bio": "Doctor en Ciencias de la Administración de ESAN Graduate School of Business. Docente experimentado en formulación y metodología de investigación, modelos estadísticos, análisis de datos, análisis financiero, estrategia organizacional, innovación organizacional y evaluación de proyectos. Miembro de la sociedad Beta Gamma Sigma. Actualmente, realizando investigaciones sobre ambidiestralidad organizacional y orquestación de recursos, profundizando en cómo las organizaciones equilibran la exploración de nuevas oportunidades con la explotación de capacidades existentes para un alto desempeño sostenido.",
+            "areas": [
+                "Estrategia Organizacional",
+                "Gestión de la Innovación",
+                "Gestión Financiera",
+                "Comportamiento del Consumidor"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -190,6 +201,11 @@
             "citations": 16.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/24799661/alexandrino-ocana-grace.jpg?w=160&f=jpg",
             "bio": "Grace Alexandrino Ocaña es doctora y magister en antropología por la Universidad de Stanford y licenciada en arqueología por la PUCP. Actualmente es una Dean Fellow de la Universidad de Stanford y esta afiliada como profesora e investigadora al Departamento de Antropología y al Centro de Arqueología de la misma universidad. Su investgación se centran en la relación entre el patrimonio cultural pre-colonial, su administración, uso social y el activismo cultural asociado al concepto de ciudadanía. Antes de iniciar sus estudios de posgrado se dedicó a la arqueología de campo en diferentes proyectos en la Costa Central y Sur como en la sierra de la región Lima y Nazca. Como arqueóloga peruana con más de una década de experiencia en el campo, ha participado en numerosos proyectos de excavación en la región de los Andes Centrales. En Stanford, ha coordinado el Grupo de Trabajo de América Latina y el Caribe y el Programa de Difusión del Centro de Arqueología de Stanford. Además, fue Coordinadora de Académicos Emergentes del Instituto de Estudios Andinos y actualmente es miembro del Centro Peruano de Arqueología Marítima y Subacuática y del grupo de investigación PACUN-PUCP enfocado en temas de Patrimonio Cultural y Natural. Ha sido galardonada con la Beca de Docencia para Graduados de Stanford Provost, y también es Becaria del Instituto de Investigación en Ciencias Sociales de Stanford. Su tesis doctoral examina la relación entre el patrimonio cultural prehispánico, su administración, uso social, activismo cultural y el concepto de ciudadanía en Lima metropolitana, Perú.",
+            "areas": [
+                "Arqueología",
+                "Antropología",
+                "Estudios de Patrimonio"
+            ],
             "degree_centrality": 0.0053,
             "betweenness_centrality": 0.0069
         },
@@ -291,6 +307,10 @@
             "citations": 9.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/18891305/alvarez_sanchez_helard.jpg?w=160&f=jpg",
             "bio": "Ingeniero Mecánico, postgrado en Diseño Mecánico, con experiencia en empresas del sector metalmecánico, minero, estudios técnicos mecánicos. He participado en el proyecto de desarrollo de estructuras para Minera Barrick proyecto PIERINA – HUARAZ. Proyecto de ampliación de fajas transportadoras para ANTAMINA. He participado en el desarrollo de proyectos con un promedio de 700 Ton/ mes en estructuras para clientes como CBI, ANTAMINA, MINERA GOLD FISH, FLUOR, HATCH, BECHTEL, XSTRATA, etc. He desarrollado actividades de consultoría para diferentes compañías relacionadas con el diseño, fabricación y construcción. Debo resaltar mi participación como jefe de ingeniería de empresas metalmecánicas como LAGOS INDUSTRIAL y SERMINSA. Además me he desempeñado como asesor técnico para diferentes empresas como Brida Ingeniería de Proyectos, Service Technology, Fiansa, GMI, Haug, Aceros Operadores, Petroaceros, Haug, Graña y Montero, Petrex, Lima Trayler. Soy miembro del Colegio de Ingenieros del Perú y en mi ultimo trabajo ocupe el cargo Lider del área de Mecánica en COSAPI. Estoy en continua actualización dado que soy docente a tiempo completo en la universidad UTEC.",
+            "areas": [
+                "Diseño, fabricación y construcción de estructuras mecánicas.",
+                "Estructuras mecánicas para minería."
+            ],
             "degree_centrality": 0.0089,
             "betweenness_centrality": 0.0137
         },
@@ -303,6 +323,17 @@
             "citations": 4270.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21820910/mantari_laureano_jose_luis.jpg?w=160&f=jpg",
             "bio": "Después de egresar de la Facultad de Ingeniería Mecánica de la Universidad Nacional de Ingeniería (UNI), JL Mantari recibió el grado de master y doctor en Arquitectura Naval e Ingeniería Marina de la Universidad Técnica de Lisboa (UTL), Top2 del mundo en la especialidad. El tema de investigación de JL Mantari durante el doctorado fue el comportamiento de estructuras en materiales compuestos clásicos y avanzados en ingeniería naval. Posteriormente extendió su trabajo a la ingeniería aeroespacial, ingeniería médica, ingeniería mecánica, ingeniería de materiales, ingeniería civil y matemáticas aplicadas. Sus principales temas de investigación son: diseño de productos, simulaciones computacionales, biomecánica, diseño y cálculo estructural en acero y materiales compuestos y plásticos, elementos finitos, elementos discretos, estructuras inteligentes, estrés térmico, estabilidad y seguridad de embarcaciones pesqueras y buques, etc. Es autor de más de 90 artículos sobre estos temas indizadas en SCOPUS, los cuales han sido publicados en revistas internacionales de elevado factor de impacto (Q1 en la mayoría de casos). JL Mantari es revisor de más de 20 revistas indizadas, Board member de revistas reconocidas y miembro del Consejo Directivo de Proinnovate. Fue Vicerrector de Investigacion en USIL, Director de investigación y desarrollo en la UNI, IPEN e USIL. Ingeniero y Profesor con experiencia internacional (Bahamas, USA, Italia, Inglaterra, España y Portugal). Innovador de productos escalables y CEO de D+Imac Lab SAC. Fue profesor investigador en UNM (USA), UTEC, UNI y profesor invitado en universidades internacionales. JL Mantari tiene potencial y capacidad para organizar, junto con habilidades de liderazgo, para desarrollar relaciones interpersonales. Ganador del Premio Orgullo Peruano 2013, Elsevier 2017, ECI 2019, VRI 2021, Red IDI 2021.",
+            "areas": [
+                "diseño de productos",
+                "simulaciones computacionales",
+                "biomecánica",
+                "diseño y cálculo estructural en acero y materiales compuestos y plásticos",
+                "elementos finitos",
+                "elementos discretos",
+                "estructuras inteligentes",
+                "estrés térmico",
+                "estabilidad y seguridad de embarcaciones pesqueras y buques"
+            ],
             "degree_centrality": 0.0308,
             "betweenness_centrality": 0.0474
         },
@@ -315,6 +346,11 @@
             "citations": 127.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19169709/canahuire_cabello_ruth.jpg?w=160&f=jpg",
             "bio": "Doctorado y Maestría en Ingeniería Mecánica por la Universidade Estadual de Campinas, UNICAMP (2014) en el área de mecánica de sólidos y proyecto mecánico. Ingeniera Mecatrónica por la Universidad Nacional de Ingeniería, UNI (2006). Actualmente es Directora del Departamento de Ingeniería Electrónica y Mecatrónica en la Universidad de Ingeniería y Tecnología – UTEC. Posee experiencia como docente universitaria en pregrado y posgrado y en el desarrollo de proyectos de investigación consiguiendo fondos nacionales e internacionales en el área de modelado y control de sistemas mecánicos y mecatrónicos, robótica médica, control robusto de sistemas mecánicos y robótica móvil. Algunos de sus proyectos son en colaboración con Universidades extrajeras como Purdue University (USA), MIT (USA), University of Campinas – UNICAMP (Brasil) y The University of Liverpool (UK).",
+            "areas": [
+                "Modelado y control de sistemas mecánicos y mecatrónicos",
+                "Robótica médica",
+                "Robótica móvil"
+            ],
             "degree_centrality": 0.0097,
             "betweenness_centrality": 0.0297
         },
@@ -327,6 +363,12 @@
             "citations": 589.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170595/kim_wangdo.jpg?w=160&f=jpg",
             "bio": "Ph.D. en Biomecánica ortopédica, Ph.D. en Ingeniería Mecánica y Master en Ingeniería Mecánica en la Universidad de Lehigh. Bachiller en Ingeniería Mecánica en la Universidad Nacional de Seúl (Corea). En el 2014 fue elegido como uno de los cuatro contendientes del mundo del ‘2010 ASME Summer Bioengineering Conference’. Autor de publicaciones como “Topological Space of the Knee Tensegrity System\" , \"A Tensegrity Model of a Knee Manages the Balance between Tension and Compression\", \"The Duality of Knee Functional Axes and Foot Contact\", entre otros.",
+            "areas": [
+                "Biomechanics",
+                "Bioengineering",
+                "Rehabilitation",
+                "Biocemánica ortopédica"
+            ],
             "degree_centrality": 0.0251,
             "betweenness_centrality": 0.0287
         },
@@ -451,6 +493,15 @@
             "citations": 28.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/18891487/antonini_bova_claudia.jpg?w=160&f=jpg",
             "bio": "Lic en Matemáticas, USB 1992. PhD, ISyE, Gatech 2005. Experta en resolución de problemas probabilísticos y estadísticos para el diseño de experimentos simulados a gran escala, incluyendo: modelado, estimación y generación de procesos estocásticos indexados en el tiempo y en el espacio; análisis de los datos, machine learning y técnicas de reducción de varianza en la estimación. Actualmente estudia las cadenas de suministro agrícolas de la papa y el mango en el Perú a través del levantamiento de información en campo y el cruce con datos demográficos satelitales. Ha sido parte del equipo de desarrollo académico de la herramienta de trazado de contacto del aplicativo Perú en tus manos junto a más de 40 investigadores del Perú y el extranjero. Ha estudiado aspectos relacionados con el comportamiento humano en operaciones en pequeñas y medianas empresas. Cuenta con más de 20 años de experiencia docente repartidos entre la Universidad Simón Bolívar, en Caracas, Venezuela, el Instituto Tecnológico de Georgia en Atlanta, EEUU, donde dictó cursos del postgrado en Ingeniería Industrial y en la Universidad de Ingeniería y Tecnología en Lima, Perú en donde ha estado trabajando desde hace más de 3 años. Ha asesorado alrededor de 10 tesis de pregrado y 3 de maestría. Es miembro activo del MIT Scale Latam Network y lidera el área de investigación en Agroindustria de dicha red junto a los profesores José Antonio Larco Marinelli (Director Adjunto de Investigación UTEC) y Christopher Mejías (Director del MIT Food and Retail Operations Lab/ MIT Scale Latin American Network/ MIT GCLOG Program). Ha arbitrado diversos artículos para el Emerald Group y para el Winter Simulation Conference. Es primera autora del mejor artículo de investigación en ingeniería de operaciones y análisis de la revista IIE Transactions, 2008. Segundo lugar Doctoral Pristker Award, 2006 otorgado por el Instituto de Ingenieros Industrial IIE.",
+            "areas": [
+                "Matemática aplicada",
+                "estadística",
+                "geoestadística",
+                "investigación de operaciones",
+                "simulaciones",
+                "sistemas logísticos alimentarios",
+                "logística y ventas del canal tradicional."
+            ],
             "degree_centrality": 0.0089,
             "betweenness_centrality": 0.0098
         },
@@ -463,6 +514,11 @@
             "citations": 457.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171063/santamaria_fuster_monica.jpg?w=160&f=jpg",
             "bio": "Doctora en biotecnología de la Universidad de Carolina del Norte (NCSU), EEUU. Especialista en biología molecular, genética, genómica e ingeniería de sistemas biológicos. Investigación enfocada en la bioconversión de biomasa vegetal para la producción de energía renovable y bioproductos, tratamiento de residuos y efluentes contaminados usando sistemas biológicos, identificación de especies y monitoreo ambiental usando códigos de barra de ADN y metagenómica, e ingeniería genética de microorganismos y plantas para la producción de compuestos con valor agregado.",
+            "areas": [
+                "Barcoding, metabarcoding y ADN ambiental para monitoreo ambiental",
+                "Ingeniería de sistemas biológicos para aplicaciones ambientales",
+                "Epidemiología basada en aguas residuales"
+            ],
             "degree_centrality": 0.038,
             "betweenness_centrality": 0.0961
         },
@@ -475,6 +531,12 @@
             "citations": 150.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170083/donayre_torres_alberto.jpg?w=160&f=jpg",
             "bio": "El Dr. Alberto Donayre es profesor en el Departamento de Bioingeniería e Ingeniería Química en UTEC. Tiene un doctorado en Genética y Biotecnología de Plantas del Programa de Posgrado de CINVESTAV-Instituto Politécnico Nacional (IPN), México (2009). Realizó trabajo postdoctoral en la Universidad Nacional Autónoma de México (UNAM) de 2009 a 2011, y tuvo estancias postdoctorales durante cinco años en la Universidad Estatal de Colorado (CSU), Fort Collins, EE. UU., desarrollando proyectos en Biología Sintética. Fue profesor de Ingeniería en Biotecnología en el Tecnológico de Monterrey, México, de 2014 a 2016. Sus áreas de investigación incluyen Biología Sintética, Biotecnología y Regulación Génica (Genómica Funcional).",
+            "areas": [
+                "Biología Sintética",
+                "Biotecnología",
+                "Síntesis y producción de bioproductos",
+                "Bioinformática"
+            ],
             "degree_centrality": 0.0174,
             "betweenness_centrality": 0.0199
         },
@@ -613,6 +675,18 @@
             "citations": 1.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19172342/aranda_egusquiza_sergio.jpg?w=160&f=jpg",
             "bio": "Ingeniero Electrónico colegiado y MSc. Sistemas Automáticos y Electrónica Industrial con mencion en Sistemas Inteligentes.",
+            "areas": [
+                "Transformacion digital industrial",
+                "Sistemas ciberfísicos",
+                "Industria 4.0",
+                "SoftPLC",
+                "Instrumentación industrial",
+                "Redes de comunicación industrial",
+                "Sistemas Neumaticos Industriales",
+                "Sistemas Hidraulicos Industriales",
+                "Protocolos de comunicación",
+                "Sistemas inteligentes"
+            ],
             "degree_centrality": 0.004,
             "betweenness_centrality": 0.0038
         },
@@ -691,6 +765,15 @@
             "citations": 71.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/25783439/araujo-pantoja-patricia.jpg?w=160&f=jpg",
             "bio": "Actualmente profesora en la Universidad de Ingeniería y Tecnología - UTEC. Finalizó su segundo Posdoctorado en Ingeniería Química en la Universidad de Sao Paulo (USP) en Junio del 2013. Posee títulos de Maestría y Doctorado obtenidos en esta casa de estudios. Tiene experiencia en caracterización de petróleo a través de técnicas espectroscópicas como Infrarrojo cercano (NIR), espectrometría de masa y espectroscopia de Fluorescencia utilizando métodos matemáticos multivariables y estadísticos para extraer la información química contenida en los espectros y correlacionarlos adecuadamente con propiedades físico químicas que ayuden al control de proceso. Estas técnicas espectroscópicas son utilizadas en otros campos de estudio, como contaminación ambiental (mar, suelos, aire), análisis de polímeros, bioquímica, entre otros. Tiene experiencia con análisis de Control de Calidad de petróleo y subproductos bajo normas de laboratorio 17025, ASTM e ISO 9000.",
+            "areas": [
+                "Área de energía",
+                "Responsabilidad social.",
+                "Educación",
+                "Medio ambiente",
+                "Énfasis en hidrocarburos (captura y almacenamiento de CO2, combustibles sintéticos, tecnología emergentes como creación de nuevos catalizadores,  nanotecnología, tecnologías de gasificación)",
+                "Biogás y energías de biomasa",
+                "Procesos químicos industriales,"
+            ],
             "degree_centrality": 0.0109,
             "betweenness_centrality": 0.0177
         },
@@ -900,6 +983,12 @@
             "citations": 78.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19169634/arias_moreno_andres.jpg?w=160&f=jpg",
             "bio": "Ingeniero Mecánico y Magister en Ingeniería Biomédica de la Universidad Nacional de Colombia (Colombia). Especialista en Bioingeniería de la Universidad Distrital (Colombia), y Doctor en Ingeniería Biomédica de la Eindhoven University of Technology (Países Bajos). Investigador en Biomecánica.",
+            "areas": [
+                "Biomecánica",
+                "Biomateriales",
+                "Elementos micro-finitos",
+                "Estructura ósea"
+            ],
             "degree_centrality": 0.0036,
             "betweenness_centrality": 0.0
         },
@@ -993,6 +1082,11 @@
             "citations": 23.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/31116315/walter-barrutia.jpg?w=160&f=jpg",
             "bio": "El Dr. Walter Sebastian Barrutia recibió el grado de Bachiller en Ingeniería Mecánica y Biomédica de Rensselaer Polytechnic Institute, Estados Unidos, en 2019. Obtuvo el grado de Doctor en Ingeniería Biomédica de la University of Florida, Estados Unidos, en 2025. Su investigación se centra en el diseño, desarrollo y validación experimental de exoesqueletos pasivos de rodilla para asistencia de la marcha, incluyendo la creación de modelos físicos instrumentados para cuantificar la transferencia mecánica y las pérdidas de energía en la interfaz humano-dispositivo. Ha participado en proyectos de investigación en biomecánica y robótica de asistencia, y cuenta con experiencia en diseño mecánico, impresión 3D avanzada, modelado computacional y evaluación experimental con instrumentación biomecánica. Sus intereses de investigación comprenden exoesqueletos pasivos, biomecánica de la marcha, diseño centrado en el usuario y desarrollo de tecnologías de asistencia seguras y de bajo costo orientadas a población pediátrica.",
+            "areas": [
+                "Biomecánica",
+                "exoesqueletos",
+                "prótesis"
+            ],
             "degree_centrality": 0.0016,
             "betweenness_centrality": 0.0
         },
@@ -1041,6 +1135,17 @@
             "citations": 118.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/18892117/bedrinana_mera_luis.jpg?w=160&f=jpg",
             "bio": "Bachiller en Ciencias con mención en Ingeniería Civil de la Universidad Nacional de Ingeniería, Lima, Maestro en Gestión de Desastres en el National Graduate Institute for Policy studies (GRIPS), Tokio, Japón, y Ph.D. en ingeniería estructural de la Universidad de Kioto, Japón. El Dr. Bedriñana es actualmente profesor e investigador del departamento de Ing. Civil en la Universidad de Ingeniería y Tecnología - UTEC, además de ser el coordinador de la división de Ingeniería Estructural y profesor en la Escuela de Posgrado - UTEC. El Dr. Bedriñana es miembro afiliado del American Society of Civil Engineers (ASCE), Earthquake Engineering Research Institute (EERI), y del ASTM International, donde es parte del comité C27 - Productos de Concreto Prefabricado. Sus intereses de investigación incluyen la evaluación numérica-experimental del desempeño sísmico de estructuras de concreto reforzado y concreto prefabricado, aislamiento sísmico y control de la respuesta estructural, evaluación y diagnostico estructural de estructuras patrimoniales, y aplicaciones de Machine Learning en Ing. Sísmica. En el 2016, el Dr. Bedriñana fue acreedor al premio del mejor artículo en el marco del 11vo Simposio de estudiantes de doctorado en Ingeniería Civil, otorgado por el International Federation for Structural Concrete (fib). El Dr. Bedriñana es investigador certificado en el Perú (Investigador RENACYT) y cuenta con diversas publicaciones científicas en Journals de alto impacto y conferencias internacionales. Revisor (peer-reviewer) de Journals internacionales y revisor de propuestas de investigación en universidades peruanas. Además, cuenta con experiencia como Ingeniero Estructural y consultor en el diseño sísmico, evaluación estructural y reforzamiento de estructuras de concreto reforzado como edificios, puentes, reservorios elevados y túneles. El Dr. Bedriñana es ingeniero colegiado en el Perú (CIP-CDLima).",
+            "areas": [
+                "Evaluación experimental y numérica de estructuras de hormigón armado sometidas a cargas extremas",
+                "ingeniería sísmica basada en el rendimiento y el riesgo sísmico",
+                "sistemas estructurales innovadores de bajo daño",
+                "aislamiento sísmico y control de respuesta estructural",
+                "vigilancia de la salud estructural",
+                "materiales de construcción innovadores",
+                "\"ciívionoics\" para respuestas ambientales y mecánicas",
+                "materiales concretos en 3D",
+                "sistemas estructurales con materiales reciclados."
+            ],
             "degree_centrality": 0.0093,
             "betweenness_centrality": 0.0085
         },
@@ -1053,6 +1158,14 @@
             "citations": 154.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/24489212/benedetty-carlos.jpg?w=160&f=jpg",
             "bio": "Ingeniero civil por la Universidad del Magdalena (Colombia). Magíster y Doctor en Ingeniería Estructural por la Universidad Estatal de Campinas UNICAMP (Brasil), y Especialista en diseño de estructuras de concreto reforzado por la escuela de extensión de la UNICAMP. Cuenta con experiencia como investigador postdoctoral en la Universidad Estatal de Maringá UEM (Brasil). Es miembro asociado del Instituto Brasileño del Concreto (IBRACON). Algunas de sus áreas de interés en investigación son: análisis no lineal de estructuras, concretos reforzados con fibras (SFRC), concretos de ultra alto desempeño (UHPC) y estructuras mixtas (acero-concreto). Actualmente es docente investigador en el Programa de Ingeniería Civil y Ambiental de la Universidad de Ingeniería y Tecnología UTEC.",
+            "areas": [
+                "Análisis del comportamiento de materiales para estructuras",
+                "Análisis no lineal de estructuras de concreto armado.",
+                "Concretos reforzados con fibras",
+                "Concretos de ultra alto desempeño",
+                "Estructuras mixtas de acero-concreto.",
+                "Concretos con agregados reciclados"
+            ],
             "degree_centrality": 0.0069,
             "betweenness_centrality": 0.0048
         },
@@ -1170,6 +1283,12 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21902885/bejarano_grandez_omar.jpg?w=160&f=jpg",
             "bio": "Magister en Ingeniería mecánica con mención en diseño mecánica en la Pontifica Universidad Católica del Perú. Ingeniero mecánico de la Universidad Nacional de Ingeniería. Experiencia en el análisis energético para el sector industrial y en el campo del diseño de estructuras en acero. Su área de investigación es el análisis por elementos finitos, dinámica rígida, análisis modal, térmico de sólidos y fluidos. Es autor de un libro para el modelamiento de estructuras con Tekla Structures.",
+            "areas": [
+                "análisis por elementos finitos",
+                "dinámica rígida",
+                "análisis modal",
+                "térmico de sólidos y fluidos"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -1182,6 +1301,12 @@
             "citations": 84.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/18891996/bellido_angulo_jesus.jpg?w=160&f=jpg",
             "bio": "Magíster y Doctor en Ciencias de la Computación de la Pontificia Universidad Católica de Chile. El Dr. Bellido obtuvo el segundo premio a la mejor tesis en el concurso de tesis de doctorado otorgado por el Centro Latinoamericano de Estudios en Computación (CLEI) en 2015. Se ha desempeñado como Jefe del Área de Innovación y Desarrollo, SHIFTUC - DICTUC de la Pontificia Universidad Católica de Chile. En el ámbito académico, se ha desempeñado como profesor en varios cursos como Arquitectura de Software en la Maestría en Gestión y Tecnologías de la Información e Introducción a la Programación y Arquitectura Orientada a Servicios en el Departamento de la Pontificia Universidad Católica de Chile. Sus áreas de investigación son Arquitectura de Software, Big Data e Ingeniería de Software. Actualmente, es profesor de tiempo completo en el Departamento de Ciencias de la Computación de la Universidad de Ingeniería y Tecnología, Perú.",
+            "areas": [
+                "Ingeniería de software",
+                "arquitectura de software",
+                "Arquitectura Orientada a Servicios",
+                "Big Data"
+            ],
             "degree_centrality": 0.002,
             "betweenness_centrality": 0.0
         },
@@ -1309,6 +1434,11 @@
             "citations": null,
             "photo_url": null,
             "bio": "",
+            "areas": [
+                "Ingeniería de software",
+                "Geometría computacional",
+                "Procesamiento de imágenes"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -1321,6 +1451,9 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19489355/bueno_villanueva_juan.jpg?w=160&f=jpg",
             "bio": "Magíster en Dirección de Tecnologías de Información, titulado en Ingeniería de Sistemas, con experiencia en gestión de proyectos, gestión de servicios TI, docencia universitaria en cursos de ciencias de la computación, metodología de la investigación, sistemas de información.",
+            "areas": [
+                "Sistemas de Información"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -1333,6 +1466,10 @@
             "citations": 17.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/25685604/callupe-luna-jhedmar-jhonatan.jpg?w=160&f=jpg",
             "bio": "Doctor en Robótica por la Universidad París-Saclay e ingeniero en Mecatrónica por la PUCP, con especialización en robots móviles mediante inteligencia artificial y visión por ordenador. Cuenta con experiencia en el desarrollo mecatrónico de prototipos, desde básicos hasta semi-industriales, y como docente ha impartido cursos en informática, electrónica y energía.",
+            "areas": [
+                "Bioingeniería",
+                "Inteligencia Artificial"
+            ],
             "degree_centrality": 0.0032,
             "betweenness_centrality": 0.0
         },
@@ -1417,6 +1554,11 @@
             "citations": 645.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21816239/ramos_ponce_oscar.jpg?w=160&f=jpg",
             "bio": "Es Profesor Asociado en la Universidad de Ingeniería y Tecnología (UTEC). Recibió el Ph.D. en Informática y Robótica por la Universidad de Toulouse III (Francia), realizando la investigación de doctorado en el Laboratorio de Análisis y Arquitectura de Sistemas del Centro Nacional de Investigación Científica de Francia (LAAS-CNRS). Obtuvo el grado de M.Sc. en Visión Computacional por Heriot-Watt University (Edinburgo, Reino Unido), la Universitat de Girona (España) y la Université de Bourgogne (Francia). Obtuvo el B.Sc. en Ingeniería Electrónica en la Universidad Católica de Santa María, y en Ingeniería Industrial en la Universidad Nacional de San Agustín. Ha realizado un Postdoctorado en Duke University (USA) en el laboratorio de Movimiento Inteligente del Departamento de Ciencia de la Computación. Asímismo, ha sido investigador visitante en la Escuela de Ciencia de la Computación de Carnegie Mellon University (CMU-USA) y ha participado con el Instituto de Robótica de CMU y el equipo del Centro Nacional de Ingeniería Robótica (NREC-USA) en el DARPA Robotics Challenge (DRC), siendo uno de los equipos ganadores. Anteriormente, formó parte del Centro de Investigación en Robótica y Visión Submarina (España) y del Laboratorio de Sistemas de Control, Automatización y Robótica de de la Universidad Federal de Rio Grande del Sur (Brasil). Recibió el Best Paper Award en la IEEE-RAS International Conference on Humanoid Robots en el 2015 (conferencia \"top\" de IEEE a nivel mundial especializada en robótica humanoide). Es revisor frecuente de conferencias y journals internacionales de robótica y aprendizaje automático. Sus áreas de investigación son aplicaciones de machine learning y deep learning a sistemas inteligentes y a la extracción de información a partir de los datos. Investiga sobre robótica autónoma y el control de movimiento para robots móviles y redundantes con base en visión computacional y deep reinforcement learning.",
+            "areas": [
+                "Machine learning y deep learning a sistemas inteligentes",
+                "robótica autónoma",
+                "ontrol de movimiento para robots móviles y redundantes con base en visión computacional y deep reinforcement learning."
+            ],
             "degree_centrality": 0.0109,
             "betweenness_centrality": 0.0147
         },
@@ -1429,6 +1571,12 @@
             "citations": 533.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171783/vela_saavedra_emir_augusto.jpg?w=160&f=jpg",
             "bio": "El Dr. Emir Vela recibió el grado de Bachiller y Maestría en ciencias en Microingeniería con énfasis en Micro y Nanosistemas de la Ecole Polytechnique Fédérale de Lausanne - EPFL, Suiza, en 2003 y 2005, respectivamente. Obtuvo el grado de Doctor en Ciencias Mecánicas y Robótica con mención muy honorable de la Sorbonne Université (ex Université Pierre et Marie Curie), Paris, France en 2010; fue becado por el Commissariat à l’Energie Atomique et aux Energies Alternatives, Francia. Ha participado en proyectos de investigación en el campo de la microrobótica y optomecatrónica en Francia, así como en diseño y fabricación de (Bio)sensores y microactuadores en Francia y Suiza. Actualmente es profesor principal del departamento de Ingeniería de la Energía y Mecánica de la Universidad de Ingeniería y Tecnología - UTEC, Lima; también lidera el laboratorio de Micro-BioRobótica (http://mablab.utec.edu.pe/). Sus campos de interés en investigación comprenden microrobótica, BioRobótica, BioMecánica, aplicaciones de microfluidos, diseño y fabricación de sensores y actuadores, así como control automático. El Dr. Vela forma parte del comité de programa de la international conference on Manipulation, Automation and Robotics at Small Scales (MARSS), es miembro del reviewer board de la revista Micromachines, sirve como revisor en conferencias y revistas de la IEEE Robotics and Automation Society (RAS), y en otras revistas de física aplicada.",
+            "areas": [
+                "Biomecánica",
+                "Robótica para rehabilitación y asistencia",
+                "MicroRobótica",
+                "Dispositivos sensoriales"
+            ],
             "degree_centrality": 0.0295,
             "betweenness_centrality": 0.0313
         },
@@ -1441,6 +1589,14 @@
             "citations": 368.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171765/valdivia_silva_julio.jpg?w=160&f=jpg",
             "bio": "Médico-Cirujano de la Universidad Nacional San Agustín, Arequipa Perú. Doctorados en Ciencias Biológicas y Ciencias Biomedicas en el Instituto de Ciencias Nucleares de la UNAM -México con el Programa de Astrobiología de la NASA - Ames Research Center EEUU, y en el Instituto de Investigaciones Biomédicas -UNAM. Estancias Posdoctorales en el Cancer Stem Cell Research Lab - U. Stanford CA-USA, en la División de Ciencias Planetarias y Astrobiología de la NASA Ames Research Center Moffett Field CA-USA, en el programa GSP10 de Singularity University CA, USA, y en el Instituto de Investigaciones Biomédicas, UNAM en colaboración directa con el Instituto Nacional de Cancerología-México. Investigador ganador del Programa de repatriación de investigadores peruanos en el extranjero de INNOVATE Perú, Ministerio de la Producción que lo trajo al Perú el 2015. Fue Investigador asociado a SETI Institute de NASA ARC, Fundador de la Sociedad Científica de Astrobiología del Perú, ganador del Premio de Innovación Pfizer por sus investigaciones en cáncer de mama y Condecorado con el Doctorado Honoris Causa de la Universidad Nacional de San Agustín de Arequipa. Actualmente es Adjunct Staff en Lerner Research Institute de Cleveland Clinic y Director de Bioingeniería y del Centro de Investigación en Bioingeniería -BIO de la Universidad de Ingeniería y Tecnología - UTEC.",
+            "areas": [
+                "Astrobiología",
+                "inmunología del cáncer (oncología)",
+                "regeneración de tejidos y biología de células madre",
+                "biología sintética",
+                "microdispositivos",
+                "tecnología de laboratorio en un chip."
+            ],
             "degree_centrality": 0.0498,
             "betweenness_centrality": 0.0656
         },
@@ -1502,6 +1658,17 @@
             "citations": 30.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19169784/cardenas_lizana_paul.jpg?w=160&f=jpg",
             "bio": "Paul Cardenas es PhD de Georgia Tech donde investigó e integró estudios experimentales, computacionales y teóricos basados en bioingeniería a nivel celular y molecular. Obtuvo su grado de Magíster en nanociencia y nanotecnología del National Tsing Hua University. Estudió ingenieria mecatrónica en la Universidad Nacional de Ingenieria. Comenzó su carrera de investigación construyendo modelos matemáticos y de simulaciones de biomoléculas. Sus proyectos se centran en las moléculas de adhesión y señalización del sistema inmunológico y uso tecnologías de vanguardia, incluída la manipulación de micropipetas, microscopios de fuerza atómica, y sondas de fuerza biomembrana. El objetivo actual de su investigación es obtener una comprensión fundamental de los procesos biológicos a nivel de celular y molecular, y sus relaciones con la salud humana y las enfermedades. Dichos estudios son relevantes para enfermedades autoinmunes, enfermedades inmuno - depresivas, y cáncer. Así mismo cuenta con una formación en ingeniería, ciencias físicas y biológicas, y un fuerte deseo de entender el funcionamiento interno de la vida a nivel celular y molecular, y una gran pasión por trabajar en un campo multidisciplinario como es la bioingeniería.",
+            "areas": [
+                "Señalización temprana de células T.",
+                "mecanobiología de células T y receptores PD 1",
+                "coreceptores CD8 / CD4",
+                "dominios de señalización CD3",
+                "dinámica molecular",
+                "inmunología molecular",
+                "modelado probabilístico para entender interacciones de biomoléculas",
+                "aprendizaje automático en inmunología",
+                "modelamiento de fluidos a macroescala en sistemas biológicos"
+            ],
             "degree_centrality": 0.0166,
             "betweenness_centrality": 0.0271
         },
@@ -1799,6 +1966,11 @@
             "citations": 97.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/31976648/cardenas-maita-ana.jpg?w=160&f=jpg",
             "bio": "Doctora y Master en Ciencias en Sistemas de Información por la Universidad de São Paulo, Brasil. MBA en Analítica de Datos la Universidad de São Paulo, Brasil. Ingeniera en Informática y Sistemas por la Universidad Nacional de San Antonio Abad del Cusco, Perú. Trabajó en proyectos de investigación científica para salud y desarrollo de software para la industria financiera por cerca de 10 años. Actualmente trabaja como investigadora postdoctoral en el Centro de Inteligencia Artificial y Machine Learning de la Universidad de São Paulo. Áreas de investigación: interpretabilidad y explicabilidad en aprendizaje de máquina, minería procesos de negocio, ciencia de datos, grandes modelos de lenguaje (LLMs).",
+            "areas": [
+                "Inteligencia artificial explicable (XAI)",
+                "Grandes modelos de lenguaje (LLMs)",
+                "Minería de procesos (minería de flujos)"
+            ],
             "degree_centrality": 0.0275,
             "betweenness_centrality": 0.0494
         },
@@ -2383,6 +2555,14 @@
             "citations": 41.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/30260544/Foto2.png?w=160&f=jpg",
             "bio": "El Dr. José Cerda-Hernández es un distinguido estadístico y científico de datos con una robusta trayectoria internacional, reconocido por su experiencia en el estudio y modelamiento de fenómenos complejos. Su formación académica incluye un Ph.D. en Estadística de la prestigiosa Universidad de São Paulo (USP), complementado con títulos de Máster y Licenciado en Matemática Aplicada por la Universidad Nacional de Ingeniería (UNI). Su experiencia se ha consolidado a través de estancias postdoctorales en centros de excelencia global, como la Universidad de São Paulo (USP), la Universidad de Campinas (UNICAMP) y la Oregon State University (EE. UU.). Es consultor experimentado en modelamiento estadístico avanzado y análisis de datos. Actualmente, lidera el Grupo de Investigación en Modelamiento Econométrico y Data Science, enfocando sus esfuerzos en la aplicación rigurosa de la estadística y la probabilidad para resolver problemas críticos del mundo real. Sus áreas de investigación incluyen Econometría y Estadística Espacial, Estimación en Áreas Pequeñas, Aprendizaje Estadístico, Análisis de Series Temporales, Teoría de Riesgo, Procesos Estocásticos y Probabilidad Aplicada.",
+            "areas": [
+                "Econometría y Estadística Espacial",
+                "Estimación en Áreas Pequeñas",
+                "Aprendizaje Estadístico",
+                "Análisis de Series Temporales",
+                "Teoría de Riesgo",
+                "Procesos Estocásticos y Probabilidad Aplicada"
+            ],
             "degree_centrality": 0.0146,
             "betweenness_centrality": 0.0189
         },
@@ -2612,6 +2792,12 @@
             "citations": 499.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19169804/charca_mamani_samuel.jpg?w=160&f=jpg",
             "bio": "Mi área de interés está orientada a diseño estructural, análisis y detección de daños en materiales estructurales tanto metálicos como no metálicos y la caracterización de materiales. Mis estudios de maestría y doctorado fueron orientados en el área de corrosión y efecto del hidrogeno en aceros, diseño estructural y comportamiento de materiales compuestos a cargas de impacto. En mi posición de Post Doctorado trabaje en el área de diseño estructural y caracterización de materiales para usos en alabes de turbinas eólicas. En la actualidad desarrollo investigación en las áreas de materiales biodegradables en específico la utilización de fibras naturales como aislamiento y como refuerzo en materiales compuestos, caracterización de materiales usados en robótica blanda (elastómeros), biomecánica, además de continuar trabajando en el área de corrosión y materiales compuestos.Por otro lado soy revisor de artículos científicos en la revista \"Energy and Building\".",
+            "areas": [
+                "Diseño estructural y caracterización de materiales",
+                "Materiales compuestos con fibras naturales",
+                "Caracterización de materiales para robótica blanda",
+                "Evaluación de daños en materiales estructurales"
+            ],
             "degree_centrality": 0.0239,
             "betweenness_centrality": 0.0237
         },
@@ -2624,6 +2810,12 @@
             "citations": 195.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170139/flores_barreda_carmen_elena.jpg?w=160&f=jpg",
             "bio": "Magister en Química, miembro de la Sociedad Química del Perú, del Colegio Químico, del Comité Técnico consultivo de la especialidad de Química y Metalurgia de TECSUP, del Comité editorial de la Revista I + i Investigación aplicada e Innovación de TECSUP y del Grupo de Investigación y Desarrollo de Estrategias para la Enseñanza de la Química(GIDEEQ). Con experiencia en desarrollar nuevos productos, en el análisis de diversas muestras orgánicas e inorgánicas y en la optimización de procesos participando en el mejoramiento continuo de la calidad de los mismos. Con especialización en Sistemas de Gestión de Calidad ISO 9001 e ISO 17025. Organizada, ordenada, con capacidad de liderar equipos de trabajo interdisciplinarios y trabajar bajo presión. De buen desempeño académico, dominio del idioma inglés y alemán y experiencia en el uso de herramientas de computación.",
+            "areas": [
+                "Uso de fibras naturales para biomateriales y químicos",
+                "Descontaminación del agua",
+                "Recuperación de residuos industriales",
+                "Materiales compuestos para construcción"
+            ],
             "degree_centrality": 0.015,
             "betweenness_centrality": 0.0161
         },
@@ -2930,6 +3122,10 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19169822/chavez_pacheco_xyoby.jpg?w=160&f=jpg",
             "bio": "Matemático egresado de la Facultad de Ciencias de la Universidad Nacional de Ingeniería (UNI), Magíster en Matemática Aplicada en el área modelación estocásticos por la Pontificia Universidad Católica del Perú (PUCP) y estudios de maestría en el Instituto de Matemática y Estadística de la Universidad de Sao Paulo- Brasil. Profesional con amplia experiencia en docencia universitaria a nivel de graduación y post graduación. Ha participado en diferentes capacitaciones relacionadas a la docencia universitaria en universidades como Harvard University (Proyecto LASPAU) y Purdeu University.",
+            "areas": [
+                "Matemática Aplicada",
+                "Modelado de sistemas estocásticos"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -2942,6 +3138,13 @@
             "citations": 7.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/29816760/chero-osorio-sheyla.jpg?w=160&f=jpg",
             "bio": "Profesor Auxiliar de la Universidad de Ingeniería y Tecnología (UTEC) - Departamento de Ingeniería Ambiental e Investigador Afiliado al Centro de Investigación y Tecnología del Agua (CITA-UTEC). Doctor en Ingeniería Ambiental en University of South Florida (USF, Estados Unidos). Autor de publicaciones en journals y co-autor en una patente relacionada con tratamiento de aguas residuales y potable, biotecnología ambiental, remoción de nutrientes y recuperación de recursos, y procesos sostenibles. Master en Ingeniería Ambiental en University of South Florida (Estados Unidos). Ingeniera Química de la Universidad Nacional Mayor de San Marcos (UNMSM). Experiencia profesional en proyectos nacionales, internacionales de colaboración científica y de investigación en USF, UTEC y UNMSM.",
+            "areas": [
+                "tratamiento de aguas residuales",
+                "biotecnología ambiental",
+                "bioprocesos sostenibles",
+                "remoción y recuperación de nutrientes",
+                "procesos de potabilización"
+            ],
             "degree_centrality": 0.0024,
             "betweenness_centrality": 0.0
         },
@@ -3008,6 +3211,12 @@
             "citations": 564.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19169853/corniller_fabien.jpg?w=160&f=jpg",
             "bio": "Doctor. en Ciencias de la Administración en 2007 en la Universidad Laval, Québec, Canadá, trabajó en problemas de enrutamiento y programación aplicados a la industria del petróleo. Ahora trabaja como profesor e investigador de tiempo completo en UTEC – Universidad de Ingeniería y Tecnología, Perú. Sus intereses de investigación incluyen optimización combinatoria y métodos heurísticos aplicados a problemas de logística, planificación y programación. Miembro Asociado del CIRRELT (Centro Interuniversitario de Investigación en Redes Empresariales, Logística y Transporte), Canadá. Revisor de revistas internacionales como European Journal of Operational Research, Operations Research Letters, Journal of the Operational Research Society, Omega y Computers & Operations Research.",
+            "areas": [
+                "Investigación de operaciones",
+                "optimización combinatoria",
+                "métodos heurísticos",
+                "aplicaciones en problemas de logística y de planificación (en particular: transporte, minería)."
+            ],
             "degree_centrality": 0.0117,
             "betweenness_centrality": 0.0213
         },
@@ -3218,6 +3427,10 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170012/delaflor_basterrechea_antuane.jpg?w=160&f=jpg",
             "bio": "Socióloga con más de 15 años experiencia laboral en campos relacionados a la gestión académica, desarrollo de proyectos y docencia superior universitaria, en temas relacionados a género y educación, arte y tecnología y comunicación científica.",
+            "areas": [
+                "Género",
+                "Arte"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -3230,6 +3443,10 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170040/delapuente_maldonado_jose.jpg?w=160&f=jpg",
             "bio": "Título de Ingeniero Mecánico, con catorce años en la práctica de la ingeniería de planta y los proyectos industriales, combinada con 39 años de docencia universitaria. Egresado de una Maestría en Economía (No titulado) y con estudios de Alta Dirección de Empresa. Experiencia en cargos directivos tanto en el entorno industrial y empresarial; como en el institucional y educativo. Estudios completos del Programa Doctoral en Organizaciones del PAD. (No tesis) Busca orientar su investigación de tesis hacia organizaciones educativas y la dinámica formativa.",
+            "areas": [
+                "Opeaciones industriales",
+                "Gestión empresarial"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -3242,6 +3459,11 @@
             "citations": 4.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170063/deleo_martinez_jose.jpg?w=160&f=jpg",
             "bio": "Arquitecto egresado de la UABJO, México. Maestro en Historia del Arte por la UNAM titulado con mención honorífica y galardonado con la Medalla Alfonso Caso al mérito académico y mejor tesis de Historia del Arte. Doctor en Historia del Arte de la misma institución, UNAM, y graduado con mención honorífica. Colaboró durante 17 años en el proyecto: Catálogo de Bienes Artísticos con Valor Patrimonial Contenidos en Recintos Religiosos, del Instituto de Investigaciones Estéticas de la UNAM. Así como jefe del Departamento de Estudios Históricos e Investigación en el Instituto del Patrimonio Cultural del Estado de Oaxaca, México. En la docencia, se ha desempeñado como profesor en la Universidad La Salle, en la Maestría de Historia del Arte de la UNAM y en la Maestría de Arquitectura de la Universidad Nacional San Antonio Abad del Cusco, Perú. Desde el año 2013 es miembro activo del seminario de investigación internacional de La plata en España y México. Siglos XVI al XIX del INAH y desde el 2020 miembro del seminario de investigación internacional de Retablos hispanoamericanos de la UNAM. Estuvo a cargo de la curaduría del Museo del Templo de San Pedro Apóstol de Andahuaylillas, Perú. Así como la exposición Plus Ultra, lo común y lo propio de la platería novohispana en la Casa de México en España. Además ha coordinado la exposición in_visible, el arte visto por la ciencia, en el Museo Pedro de Osma, Perú. Ha participado en foros nacionales e internacionales en España, Portugal, Guatemala, Ecuador, Perú y Estados Unidos con conferencias relacionadas a sus principales líneas de investigación, humanidades digitales, la platería, retablos, pintura y arquitectura virreinal novohispana y peruana. Sobre los mismos temas ha publicado varios artículos, como resultados de las estancias de investigación realizadas en Portugal, Italia, España, Perú y Ecuador.",
+            "areas": [
+                "Arte de los Virreinatos Americanos",
+                "Materialidad y técnicas de patrimonio cultural",
+                "Curaduría y museografía"
+            ],
             "degree_centrality": 0.0065,
             "betweenness_centrality": 0.0078
         },
@@ -3336,6 +3558,7 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21821347/deustua_rossel_jose_gerardo.jpg?w=160&f=jpg",
             "bio": "Director de Utec Ventures. Durante los últimos siete años Jose ha liderado proyectos estratégicos para las principales empresas y organizaciones peruanas. Cuenta con una maestría de la Universidad de Oxford y un bachiller en economía de la Universidad del Pacífico. Trabaja con startups, corporaciones, inversionistas, el Gobierno y la universidad para consolidar el ecosistema peruano de startups y demás ecosistemas regionales. A través de los diferentes programas que ha liderado, ha podido acelerar el crecimiento de más de 50 startups, invertir en más de 30 startups y ayudar a cerca de 20 corporaciones en sus procesos de innovación abierta . Fue parte del grupo fundador y presidente de la Asociación Peruana de Venture Capital.",
+            "areas": [],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -3348,6 +3571,11 @@
             "citations": 137.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/24106839/deza-figueroa-arturo.jpg?w=160&f=jpg",
             "bio": "Es actualmente Assistant Professor en Computer Science en la UTEC y también es el CEO & Co-Fundador de Artificio. Sus previas posiciones de trabajo incluyen dos posiciones de Investigación Postdoctoral en el Massachusetts Institute of Technology (MIT) y Harvard University. Previo a ello, el Profesor Deza hizo su Doctorado en Dynamical Neuroscience en University of California - Santa Barbara y su pregrado en Ingeniería Mecatrónica en la Universidad Nacional de Ingeniería (UNI). Su investigación actual está enfocada en la creación de sistemas de percepción híbridos. Estos son sistemas de percepción de características tanto inspiradas por sistemas biológicos y artificiales para resolver el problema de la alineación representacional, principalmente aplicado a sistemas de visión robusto tanto de Arte Abstracto como de Carros Autónomos.",
+            "areas": [
+                "Sistemas perceptivos híbridos",
+                "Representation Learning",
+                "Robótica"
+            ],
             "degree_centrality": 0.019,
             "betweenness_centrality": 0.045
         },
@@ -3839,6 +4067,11 @@
             "citations": 175.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170115/fiestas_iquira_jose.jpg?w=160&f=jpg",
             "bio": "Astrofísico computacional graduado en la Universidad de Heidelberg, Alemania. Experto en el desarrollo de modelos de alto rendimiento computacional (HPC, BigData) , y de carácter interdisciplinario. Desarrollador de algoritmos para GPU (Graphic Processing Units), y sistemas híbridos (CPU+GPU). Líder de proyectos en el desarrollo de hardware y software en Computación de Alto Rendimiento en la Universidad de Heidelberg, Alemania; Lawrence Berkeley National Laboratory, CA, USA; Seoul National University, Seoul S. Korea; and National Astronomical Observatory of China, Beijing, China.",
+            "areas": [
+                "Modelos interdisciplinarios de alto rendimiento computacional (HPC, BigData)",
+                "Desarrollo de algoritmos para GPU y sistemas híbridos (CPU+GPU)",
+                "Desarrollo de Hardware y Software para HPC"
+            ],
             "degree_centrality": 0.0093,
             "betweenness_centrality": 0.0001
         },
@@ -4058,6 +4291,14 @@
             "citations": 120.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171281/parada_quinaya_diana.jpg?w=160&f=jpg",
             "bio": "Ingeniera Química (2007) con Maestria en Ingeniería de Materiales (2011) por la Universidad Industrial de Santander - UIS y Doctorado en Ingeniería de Materiales y Procesos Químicos y Metalúrgicos por la Pontifícia Universidade Católica do Rio de Janeiro - PUC-Rio (2017). Posee experiencia actuando principalmente en las áreas de polímeros sustentables, fibras lignocelulósicas, aprovechamiento de residuos agroindustriales, materiales compuestos, caracterización estructural, térmica y mecánica de materiales. Actualmente es docente investigadora del Departamento de Ingeniería Química en la Universidad de Ingeniería y Tecnología UTEC.",
+            "areas": [
+                "Compuestos sostenibles",
+                "polímeros lignocelulósicos compuestos de residuos agrícolas",
+                "biomateriales y bioplásticos",
+                "revestimientos de polímeros bioactivos",
+                "ingeniería de bioprocesos",
+                "mejora del proceso de electrodeposición de cobre utilizando soluciones libres de cianuro"
+            ],
             "degree_centrality": 0.0093,
             "betweenness_centrality": 0.0112
         },
@@ -4070,6 +4311,14 @@
             "citations": 411.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171564/rodriguez_zuniga_ursula.jpg?w=160&f=jpg",
             "bio": "Graduada en Ingeniería Química por la Universidad Nacional de San Agustín con maestría en Química Analítica por el Instituto de Química de São Carlos de la Universidad de São Paulo y doctorado en Ingeniería Ambiental por la Universidad de São Paulo- Campus de São Carlos, ambos proyectos para obtención de los grados de maestría y doctorado fueron realizados en la Empresa Brasilera de Investigación Agropecuária (EMBRAPA). Realizó pós-doctorado en Ingeniería Química en la Universidad Federal de São Carlos en colaboración con la la Universidad de Copenhage (Dinamarca). Experiencia es multidisciplinaria con actuación en las áreas de Análisis Espectroscópicas, Ingeniería Ambiental, Bioprocesos, Ingeniería bioquímica, Fermentación para producción de enzimas, Biocombustibles y Agro-industria. Actualmente soy docente a tiempo completo en el Departamento de Ingeniería Química en la Universidad de Ingeniería y Tecnología.",
+            "areas": [
+                "Análisis Espectroscópicas",
+                "Ingeniería Ambiental",
+                "Bioprocesos",
+                "Ingeniería bioquímica",
+                "Fermentación para producción de enzimas",
+                "Biocombustibles"
+            ],
             "degree_centrality": 0.0138,
             "betweenness_centrality": 0.0199
         },
@@ -4201,6 +4450,7 @@
             "citations": 20.0,
             "photo_url": null,
             "bio": "",
+            "areas": [],
             "degree_centrality": 0.002,
             "betweenness_centrality": 0.0
         },
@@ -4258,6 +4508,11 @@
             "citations": 183.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170237/flores_vega_christian.jpg?w=160&f=jpg",
             "bio": "Christian Flores Vega recibió el grado de M.S en Ingeniería Electrónica de la Universidad de São Paulo (USP), Brasil, en el 2010, con énfasis en procesamiento de señales EEG. Obtuvo el grado de Ingeniero Electrónico de la Universidad Ricardo Palma (URP) en 2006. Posee además una especialización en Estadística Aplicada de la Pontificia Universidad Católica del Perú (PUCP) en 2013. Ganó la International Visiting Fellowship lo que le permitió realizar una pasantía en la Universidad de Essex (U.K). Sus líneas de investigación son procesamiento digital de señales, ciencia de datos, machine learning y deep learning aplicadas a Interfaces Cerebro-Computador y señales biológicas (EEG, EMG, ECG). Además, posee experiencia en el diseño de sistemas de olfato electrónico mediante sensores de gases de óxido de estaño, para la discriminación de productos alimenticios y la obtención de padrones de olor. En la actualidad es Profesor a tiempo completo en la Universidad de Ingeniería y Tecnología UTEC.",
+            "areas": [
+                "Procesamiento de señales biomédicas",
+                "Interfase Cerebro Computadora (BCI)",
+                "aprendizaje automático para clasificación y pronóstico en diversas aplicaciones"
+            ],
             "degree_centrality": 0.0158,
             "betweenness_centrality": 0.0187
         },
@@ -4270,6 +4525,11 @@
             "citations": 178.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171837/villicana_ortiz_eunice.jpg?w=160&f=jpg",
             "bio": "Ingeniera electrónica por el Instituto Tecnológico de Orizaba y Doctor en “Tecnología, diversificación, calidad y ahorro energético” por la Universidad de Oviedo, con la mención Cum Laude. Miembro del Sistema Nacional de Investigadores del Consejo Nacional de Ciencia y Tecnología de México. Miembro del Registro CONACYT de Evaluadores Acreditados (RCEA). Colabora con investigadores de la Universidad del Atlántico, en particular con el Grupo de Investigación de Eficiencia Energética en proyectos de investigación y desarrollo de la energía solar en la región de la Guajira-Colombiana. Coordinó el Programa Educativo de Energías Renovables en la Universidad Tecnológica del Centro del Veracruz de 2013 a 2016. Se incorporó como profesora de tiempo completo al Departamento de Ingeniería de la Energía de la Universidad de Ingeniería y Tecnología (UTEC) en Lima, Perú en 2016 y desde 2022 dirije las Carreras de Ingeniería de la Energía e Ingeniería Mecánica de esta universidad.",
+            "areas": [
+                "Energías renovables",
+                "Eficiencia energética",
+                "Ingeniería electrónica"
+            ],
             "degree_centrality": 0.0101,
             "betweenness_centrality": 0.0176
         },
@@ -4282,6 +4542,14 @@
             "citations": 135.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171742/tarrillo_olano_jimmy.jpg?w=160&f=jpg",
             "bio": "Ha desarrollado actividades de investigación en la universidad de Mons (UMONS-Bélgica), y tiene experiencia en la investigación y desarrollos de equipos médicos, medición de parámetros ambientales, y la industria aeroespacial (Antwerp Space – Bélgica). Sus áreas de interés incluyen tolerancia a fallos en FPGAs, efectos de radiación en circuitos digitales, sistemas reconfigurables, redes de sensores inalámbricos, adquisición de señales, y sistemas embebidos.",
+            "areas": [
+                "Tolerancia a fallos en FPGAs",
+                "efectos de radiación en circuitos digitales",
+                "sistemas reconfigurables",
+                "redes de sensores inalámbricos",
+                "adquisición de señales",
+                "sistemas embebidos"
+            ],
             "degree_centrality": 0.0178,
             "betweenness_centrality": 0.0176
         },
@@ -4294,6 +4562,7 @@
             "citations": 469.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170519/huamanchaua_canchanya_deyby.jpg?w=160&f=jpg",
             "bio": "Doctor en Ciencias de Ingeniería con especialidad en Mecatrónica y Materiales Avanzados en el Instituto Tecnológico de Estudios Superiores de Monterrey. Egresado del Postgrado de la Maestría en Ingeniería con mención en Automatización y Control del Instituto Tecnológico de Estudios Superiores de Monterrey con Mención Honorifica de Excelencia Académica. Egresado en Ingeniería Electrónica de la Escuela de Ingeniería Electrónica de la Universidad San Martín de Porres. Miembro actual de la sociedad de honor de la IEEE-Eta Kappa Nu. Especialista en Tecnologías de la Información enfocadas a la Educación mediante el uso de Tecnologías Emergentes y Visión Artificial 3D. Actualmente colaboro en proyectos con el Grupo de Investigación de Biomecatrónica en el Laboratorio Nacional de Robótica del Área Noreste y Centro de México. Docente e investigador en el Universidad de Ingeniería y Tecnología - UTEC en las líneas de investigación de visión artificial 3D y bioróbotica. Los temas de investigación que realizó son en el área de Exoesqueletos, Prótesis Robóticas y Háptica utilizando Realidad Aumentada y Realidad Virtual para las Terapias de Rehabilitación. Consultor externo experto en tecnologías e Industria 4.0 en CEPLAN.",
+            "areas": [],
             "degree_centrality": 0.0113,
             "betweenness_centrality": 0.0094
         },
@@ -4446,6 +4715,11 @@
             "citations": 1356.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170257/galvez_ghersi_jose.jpg?w=160&f=jpg",
             "bio": "Cosmólogo interesado en la evolución del universo temprano y en la fenomenología de la gravedad fuerte. Trabaja en el refinamiento de métodos perturbativos para el estudio de sistemas dinámicos no lineales. Su trabajo se extiende desde la física fundamental a campos afines como la teoría de control y el modelamiento analítico y numérico. Experiencia postdoctoral en la Universidad de Mississippi y en el Instituto Canadiense de Astrofísica Teórica de la Universidad de Toronto.",
+            "areas": [
+                "Cosmología del universo primitivo: inflación cósmica y teorías alternativas",
+                "fenomenología de la gravedad fuerte y ondas gravitacionales.",
+                "dinámica no lineal y conexiones entre gravedad y termodinámica"
+            ],
             "degree_centrality": 0.0526,
             "betweenness_centrality": 0.0844
         },
@@ -4458,6 +4732,12 @@
             "citations": 197.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/31116178/sashwat-tanay.jpg?w=160&f=jpg",
             "bio": "Profesor asistente en la Universidad de Ingeniería y Tecnología (UTEC) en Lima, Perú. Anteriormente, realizó una estancia postdoctoral en el Observatorio de París, Universidad PSL, Francia (2023-2025). Doctor en Física por la Universidad de Mississippi y Licenciatura en Ingeniería Mecánica por el Instituto Indio de Tecnología (IIT) Ropar. Se especializa en la investigación de ondas gravitacionales de agujeros negros, con especial atención a la dinámica post-newtoniana de agujeros negros binarios, la reducción de la frecuencia de resonancia en modo cuasi-normal, los sistemas dinámicos hamiltonianos y las espirales de razón de masa extrema.",
+            "areas": [
+                "ondas gravitacionales",
+                "agujeros negros binarios",
+                "teoría post-newtoniana",
+                "sistemas dinámicos hamiltonianos"
+            ],
             "degree_centrality": 0.0004,
             "betweenness_centrality": 0.0
         },
@@ -5275,6 +5555,7 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170274/gamonal_pajares_oscar.jpg?w=160&f=jpg",
             "bio": "Ingeniero Industrial por la Universidad Nacional de Ingeniería (UNI), con grado de Magíster en Informática por la Pontificia Universidad Católica del Perú (PUCP), con grado de Micromaster en Supply Chain Management por Massachusetts Institute of Technology (MIT). Con experiencia en Supply Chain Management, diseño de modelos de optimización, diseño de redes de cadena de suministro, investigación de operaciones, modelos y sistemas de soporte de decisiones, simulación de sistemas, modelos estadísticos, análisis, diseño y desarrollo de sistemas, Gestión de Procesos de Negocios y Dirección de proyectos. Docente de maestrías MBA, Maestría en Logística y Maestría en Ingeniería Industrial en los cursos de Supply Chain, Gestión de la Producción, Gestión de Inventarios, Estadística, Investigación de Operaciones, Modelos de Optimización, Métodos Cuantitativos y Simulación de Sistemas. Expositor en conferencias sobre Supply Chain, Modelos de Optimización, Sistemas de Soporte de Decisiones y Cadena de Suministro. Con más de 25 años de experiencia docente universitaria y experiencia en consultoría en empresas de gran envergadura. Actualmente ocupa el cargo de Past-President del Council of Supply Chain Management Professionals del Perú (CSCMP-Perú).",
+            "areas": [],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -5287,6 +5568,17 @@
             "citations": 161.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/24148814/garcia-zanabria-germain_1_.jpg?w=160&f=jpg",
             "bio": "Recibió su grado de Doctor [2017-2021] en Ciencia de la Computación de la Universidad de Sao Paulo (USP), Brasil. Recibió su Maestría [2014-2016] en Ciencia de la Computación en la Universidad Católica San Pablo (UCSP), Perú. Realizó un Pos-Doctorado investigando patrones de deserción en las universidades peruanas en el Centro de Investigación e Innovación en Ciencia de la Computación (RICS) de la Universidad Católica San Pablo. Fue investigador invitado [2019] de Visualization Imaging and Data Analysis Center (VIDA) de la Universidad de Nueva York (NYU), USA. Sus areas de interes son: Visulización de datos, visual analytics, machine learning, data science, análisis de crímenes, predición de crímenes, dropout análisis, datos geo-referenciados, análisis espacio-temporales y computación aplicado a problemas sociales (computer science for social goods).",
+            "areas": [
+                "Visualización de datos",
+                "machine learning",
+                "data science",
+                "análisis de crímenes",
+                "predicción de crímenes",
+                "dropout análisis",
+                "datos geo-referenciados",
+                "análisis espacio-temporales",
+                "computación aplicada a problemas sociales"
+            ],
             "degree_centrality": 0.0214,
             "betweenness_centrality": 0.0293
         },
@@ -5604,6 +5896,7 @@
             "citations": 40.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170336/gonzales_reano_jorge.jpg?w=160&f=jpg",
             "bio": "Ingeniero Electrónico graduado por la Universidad Privada Antenor Orrego en 2008. Maestría en el área de Microelectrónica por la Universidad de São Paulo en 2013. Doctorado en Ciencia de la Computación por la Universidad de Campinas en 2021. Investigador colaborador del Lightwave Research Laboratory de Columbia University, NY. Sus áreas de interés son arquitectura de computadores, interconexiones ópticas integradas, sistemas de memoria y tráfico intra-chip.",
+            "areas": [],
             "degree_centrality": 0.0182,
             "betweenness_centrality": 0.0237
         },
@@ -5873,6 +6166,12 @@
             "citations": 947.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/31283820/guio-chunga-heinner-hilario.jpg?w=160&f=jpg",
             "bio": "El Dr. Heinner Guio es un médico e investigador con una sólida formación internacional en ciencias médicas, genética y genómica. Obtuvo el título de Médico Cirujano en la Universidad Peruana Cayetano Heredia, en Lima, donde adquirió una base sólida en medicina clínica y salud pública. Posteriormente, realizó un doctorado (PhD) en Ciencias Médicas en la Universidad de Tohoku, en Japón, especializándose en enfermedades infecciosas y respiratorias, con énfasis en la respuesta inmune. Tras ello, completó un postdoctorado en el Imperial College London, en el Reino Unido, donde profundizó su investigación en enfermedades infecciosas e inmunología en un entorno de excelencia científica. Más recientemente, fortaleció su formación en medicina de precisión mediante el programa de certificación en Genética y Genómica Médica del National Human Genome Research Institute (NIH, Estados Unidos). Su formación multidisciplinaria integra la práctica clínica con la investigación genómica avanzada, posicionándolo como un referente en genómica poblacional y medicina de precisión en América Latina.",
+            "areas": [
+                "Genómica de Poblaciones",
+                "Medicina de Precisión",
+                "Farmacogenomica",
+                "Inmunogenomica"
+            ],
             "degree_centrality": 0.0761,
             "betweenness_centrality": 0.1341
         },
@@ -7012,6 +7311,15 @@
             "citations": 383.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/30239370/Ronald_Gutierrez.jpg?w=160&f=jpg",
             "bio": "Profesor Principal del Departamento de Ingeniería Civil de la Universidad de Ingeniería y Tecnología (UTEC). Ha tenido también posiciones académicas en universidades del Perú y de Colombia desde el 2013. Doctor en Ingeniería Civil de la Universidad de Pittsburgh (Estados Unidos). Cuenta con publicaciones científicas en sistemas de grandes ríos (Amazonas, Magdalena, Paraná), evaluación del riesgo de erosión de suelos a escala regional, navegabilidad en canales fluviales, restauración de ríos, desarrollo de software científico, manejo de riesgos hidrometeorológicos, desarrollo de infraestructura hidráulica crítica sostenible en países en desarrollo, aplicación de soluciones basadas en la naturaleza para la adaptación-mitigación al cambio climático, procesos de enseñanza-aprendizaje en ingeniería. Su interés científico incluye también la mecánica de sedimentos, eco-hidráulica, hidráulica experimental y numérica, hidráulica costera y diseño de esquemas de regulación de manejo de recursos naturales. Cuenta con más de 25 años de experiencia como ingeniero consultor práctico para los sectores minería, agricultura, transportes y saneamiento.",
+            "areas": [
+                "Procesos fluviales y costeros",
+                "restauración de ríos",
+                "manejo de riesgos hidrometeorológicos",
+                "erosión de suelos",
+                "desarrollo de infraestructura crítica",
+                "desarrollo de software científico",
+                "investigación educativa en ingeniería"
+            ],
             "degree_centrality": 0.0461,
             "betweenness_centrality": 0.0767
         },
@@ -7857,6 +8165,7 @@
             "citations": 31.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170355/gutierrez_alva_juan.jpg?w=160&f=jpg",
             "bio": "Magíster en Ciencia de la Computación y Ph.D. en Ciencia de la Computación del Instituto de Matemáticas y Estadística (IME) de la Universidad de Sao Paulo (USP). Sus áreas de interés son Teoría de Grafos, Algoritmos, Optimización Combinatoria y Teoría de la Computación.",
+            "areas": [],
             "degree_centrality": 0.0081,
             "betweenness_centrality": 0.0096
         },
@@ -7960,6 +8269,7 @@
             "citations": 1.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170374/gutierrez_alva_julio.jpg?w=160&f=jpg",
             "bio": "Matemático con interés en geometría algebraica, geometría no conmutativa y topología algebraica.",
+            "areas": [],
             "degree_centrality": 0.0004,
             "betweenness_centrality": 0.0
         },
@@ -7972,6 +8282,7 @@
             "citations": 13.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/23816546/Dise_o_sin_t_tulo_46_.png?w=160&f=jpg",
             "bio": "MBA, Marketing y Gestión de Tecnologías de la Información. Ha culminado el doctorado en Administración, con una investigación en estrategias de promoción de consumo sostenible, en estudiantes universitarios. Marketero de profesión, con más de 20 años de experiencia ocupando puestos gerenciales en empresas de innovación. Fue parte del equipo pionero que implementó el Internet en Perú, así como de la primera empresa latinoamericana en ofrecer servicios de Geo-Business Intelligence. Consultor nacional e internacional, cuenta con 15 años de experiencia académica, como docente y como director de carreras universitarias.",
+            "areas": [],
             "degree_centrality": 0.0012,
             "betweenness_centrality": 0.0015
         },
@@ -8000,6 +8311,12 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170394/hidalgo_wuest_oscar.jpg?w=160&f=jpg",
             "bio": "Lingüista, con estudios de maestría en Fonoaudiología, y más de veinte años de experiencia en docencia universitaria y edición y traducción de textos de ciencias sociales. Mis áreas de interés son el problema de la interfaz lenguaje y cerebro en relación con los actuales estudios de señales y imágenes cerebrales, y las representaciones que en el lenguaje se hacen de las categorías de poder político a lo largo de la historia del Perú. Finalmente, escribo poesía y me interesan las relaciones entre la descripción del lenguaje y el estatuto del lenguaje creativo en términos de la descripción de las lenguas naturales.",
+            "areas": [
+                "Lingüística con estudios en fonoaudiología",
+                "interfaz cerebro-lenguaje",
+                "neurociencia",
+                "amazonas y poblaciones nativas."
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -8012,6 +8329,15 @@
             "citations": 233.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170477/horna_munoz_daniel.jpg?w=160&f=jpg",
             "bio": "Dr. Horna-Muñoz es director del departamento de Ingeniería Civil y Ambiental en la Universidad de Ingenieria y Tecnologia - UTEC. El recibió el B.S. en Ingeniería Civil de la Universidad de Kansas, el M.S. en Ingeniería Civil con especialización en Mecánica de fluidos ambientales e hidrología de la Universidad Stanford, y el Doctorado en Ingeniería Civil y Ambiental con especialización en Hidráulica, Hidrología y Recursos Hídricos en IIHR-Hydroscience and Engineering en la Universidad de Iowa. El Dr. Horna-Muñoz ha sido profesor visitante en el departamento de Ing. Civil y Ambiental y Ciencias de la Tierra de la Universidad de Notre Dame, y también ha participado en la escuela de investigación de verano llamada Dinámica de Fluidos de la Sostenibilidad y el Ambiente en el departamento de matemáticas aplicadas y física teórica de la Universidad de Cambridge. Su investigación se enfoca en el desarrollo y aplicación de modelos computacionales tridimensionales y bidimensionales de dinámica de fluidos para estudiar una variedad de fluidos ambientales y problemas de ingeniería. Su investigación se ha enfocado, por ejemplo, en el estudio de la influencia de edificaciones en los patrones de contaminación atmosférica en ambientes urbanos, interacción vegetación - calidad de aire, procesos de creación de niebla y neblina, el estudio de inundaciones causadas por roturas de presa, en el estudio de cómo la erosión cambia durante un evento de inundación, estudio de mezclado en confluencias fluviales, así como estudio de la dinámica de lagos para diferentes perfiles y magnitudes de estratificación.",
+            "areas": [
+                "Calidad de aire",
+                "modelamiento computacional",
+                "hidráulica",
+                "high performance computing",
+                "LiDAR",
+                "inundaciones",
+                "Modelos computacionales tridimensionales y bidimensionales de dinámica de fluidos para estudiar una variedad de fluidos ambientales y problemas de ingeniería"
+            ],
             "degree_centrality": 0.0372,
             "betweenness_centrality": 0.0727
         },
@@ -8614,6 +8940,7 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/20164343/hoyos_diaz_rocio.jpg?w=160&f=jpg",
             "bio": "Licenciada en Química, egresada de la Facultad de Ciencias e Ingeniería de la Pontificia Universidad Católica del Perú, Maestra en Educación con mención en Docencia e Investigación universitaria en la Universidad San Martín de Porres con doctorado en curso en Ciencias con mención en Química en la Universidad Nacional de Ingeniería. Eficiente, proactiva, con mucho sentido de la responsabilidad, capacidad de liderazgo, organización y excelente trato para establecer relaciones interpersonales.",
+            "areas": [],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -8717,6 +9044,7 @@
             "citations": 69.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170535/inga_narvaez_dante.jpg?w=160&f=jpg",
             "bio": "Doctor en Ingeniería Eléctrica por la Universidade Estadual de Campinas (Brasil) e Ingeniero Electrónico por la Universidad Nacional de Ingeniería (Perú). Sus áreas de investigación incluyen: control inteligente, modelado y control de sistemas mecatrónicos, electrónica de potencia y sistemas de generación distribuida basados en energías renovables.",
+            "areas": [],
             "degree_centrality": 0.0109,
             "betweenness_centrality": 0.0122
         },
@@ -8729,6 +9057,14 @@
             "citations": 60.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170555/jara_alegria_elvis.jpg?w=160&f=jpg",
             "bio": "Formado en Ingeniería Mecatrónica en la Universidad Nacional de Ingeniería UNI, Perú, en 2011. Obtuvo el grado de magíster y de doctor en Ingeniería Eléctrica en la Universidad de Campinas UNICAMP, Brasil, en 2015 y 2019, respectivamente. Sus áreas de interés son modelamiento no lineal, identificación de sistemas, machine learning y control inteligente.",
+            "areas": [
+                "Automatización",
+                "análisis de datos",
+                "modelamiento de sistemas no lineales",
+                "identificación de sistemas",
+                "; inteligencia artificial",
+                "aprendizaje automático"
+            ],
             "degree_centrality": 0.0045,
             "betweenness_centrality": 0.002
         },
@@ -8846,6 +9182,7 @@
             "citations": 125.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171193/nunez_ochoa_moises.jpg?w=160&f=jpg",
             "bio": "Moisés Núñez Ochoa es Ingeniero de I+D+i en Telecomunicaciones e Informática. Doctor por la UGA-Francia (ex. Joseph Fourier), CEA-Leti, y Laboratorio de Informática de Grenoble. Soluciones LPWAN orientados a la industria IoT del futuro durante 3 años. Evaluación de la eficazidad energética de la tecnología LoRa para redes adaptativas. Proposición de protocolos de adaptación de redes LoRa. Desarrollo de un simulador de redes de captores WSNet. Ingeniero I+D en interacción ondas electromagnéticas-personas en la empresa Orange Labs durante 6 meses. Analizó la exposición electromagnética de los niños a los nuevos sistemas de comunicaciones inalámbricos. Núñez cuenta con una maestría en Sistemas de Telecomunicaciones por la gran escuela de ingenieros Telecom Bretagne (Francia) y grado de bachiller en Ingeniería de Telecomunicaciones por la UNI. Moisés Núñez se ha desempeñado como investigador en el INICTEL-UNI entre los años 2012 y 2013. Trabajó en el desarrollo de un aplicativo Android para salud móvil en zonas rurales. Trabajó en el proyecto de investigación Desarrollo de Sistema de Comunicación para el Monitoreo y Supervisión de la Bio-diversidad Peruana que se realizo en conjunto con diversas instituciones de Huancavelica. Sus áreas de interés son: la exposición electromagnética de los sistemas de telecomunicaciones inalámbricos y su impacto en las personas, las comunicaciones inalámbricos, redes de sensores, IoT, la 5G, eficiencia energética, smart city, protocoles de comunicaciones, interferencias. También se interesa a la gestión de proyectos innovadores con alto valor, startups, y la trasferencia tecnológica. Actualmente Moisés NUÑEZ es Full-Time Professor en el Departamento de Electrónica de la Universidad de Ingeniería y Tecnología - UTEC.",
+            "areas": [],
             "degree_centrality": 0.0142,
             "betweenness_centrality": 0.0162
         },
@@ -8872,6 +9209,10 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21819856/juarez_aquino_enrique.jpg?w=160&f=jpg",
             "bio": "",
+            "areas": [
+                "Gestión de proyectos de construcción con un enfoque en la Entrega Integrada de Proyectos (IPD) con el apoyo de LEAN",
+                "PMO"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -9185,6 +9526,12 @@
             "citations": 113.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170830/larco_martinelli_jose_antonio.jpg?w=160&f=jpg",
             "bio": "Investigador especializado en el área de operaciones y logística además del análisis cuantitativo de decisiones. Combino mi interés por la docencia e investigación con la aplicación real de los conceptos de gestión operativa y análisis de toma de decisiones. Mi investigación se posiciona en la intersección de las áreas de logística-operaciones con las áreas de psicología industrial, análisis de decisiones, algoritmos de decisión y de factores humanos en general. Finalmente, investigo sobre sistemas de alimentación logísticos desde el ámbito rural al ámbito hasta las ciudades y pueblos.",
+            "areas": [
+                "Gestión de operaciones",
+                "estudio del comportamiento de las operaciones para modelos de planificación y flujos de trabajo",
+                "sistemas logísticos alimentarios",
+                "sistemas de distribución del canal tradicional"
+            ],
             "degree_centrality": 0.0061,
             "betweenness_centrality": 0.0091
         },
@@ -9295,6 +9642,12 @@
             "citations": 138.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170865/lopez_delalamo_cristian.jpg?w=160&f=jpg",
             "bio": "PhD en ciencia de la computación obtenido con felicitaciones públicas (summa cum laude), por la Universidad Nacional de San Agustín y Magíster en Ingeniería de Software con Máxima distinción(summa cum laude) por la Universidad de Tarapacá de Chile. Actualmente, es Profesor Investigador de la Universidad de Ingeniería y Tecnología (UTEC). Fue Director General de Investigación en la Universidad La Salle de Arequipa y profesor investigador en la misma universidad. También, es profesor de Ciencia de la Computación en la Universidad Nacional de San Agustín. Fue uno de los científicos que desarrolló el algoritmo de rastreo de contactos vía bluetooth para la PCM con el objetivo de generar alertas tempranas y evitar la expansión del coronavirus en Perú . También, ha sido ponente en diversos lugares del Perú, América Latina y Europa. Sus intereses de investigación están centrados en Geometry Deep Learning, Machine Learning y algoritmia.",
+            "areas": [
+                "Aprendizaje profundo de geometría",
+                "Aprendizaje automático y algorítmica",
+                "Procesamiento de imágenes",
+                "Data Mining"
+            ],
             "degree_centrality": 0.0194,
             "betweenness_centrality": 0.0348
         },
@@ -9307,6 +9660,11 @@
             "citations": 30.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/32176973/romero-calla-luciano.jpg?w=160&f=jpg",
             "bio": "Luciano es un científico de la computación con una sólida formación académica en el área. Gracias a su formación y experiencia profesional como investigador, docente y desarrollador de software, continúa perfeccionando sus habilidades para resolver problemas. Busca aprender constantemente y encontrar soluciones innovadoras a problemas complejos. Su experiencia en investigación abarca el procesamiento de imágenes, el procesamiento geométrico y el procesamiento de nubes de puntos, así como los gráficos de alto rendimiento, con especial énfasis en el trazado de rayos en tiempo real y en los sistemas multidisplay. Tiene un interés particular en algoritmos y estructuras de datos, teoría de grafos y programación competitiva.",
+            "areas": [
+                "Computación Gráfica",
+                "Renderizado en tiempo real",
+                "Procesamiento Geométrico"
+            ],
             "degree_centrality": 0.0004,
             "betweenness_centrality": 0.0
         },
@@ -9564,6 +9922,10 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21820262/lunga_calderon_milagros_cecilia.jpg?w=160&f=jpg",
             "bio": "",
+            "areas": [
+                "Business and Economics",
+                "Finanas"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -9576,6 +9938,23 @@
             "citations": 670.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171379/ramos_saravia_jose.jpg?w=160&f=jpg",
             "bio": "Doctor en Ingeniería Térmica Avanzada y Optimización Energética por la Universidad de Zaragoza. Ingeniero Mecánico por la Universidad Nacional de Ingeniería (UNI). Amplia experiencia en asesoría y consultoría energética, desde 1996 presta servicios a varias empresas en Perú y España. Past-Editor Asociado de DISTRIBUTED GENERATION & ALTERNATIVE JOURNAL de la Association of Energy Engineers (USA). Amplia experiencia docente universitaria en la Universidad Nacional de Ingeniería (Perú) y Universidad de Zaragoza (España). Actualmente es Profesor Principal en el Departamento de Ingeniería de la Energía y Mecánica de la Universidad UTEC. Su interés en la investigación se centra en Descarbonización de procesos y sistemas energéticos, Producción de hidrógeno verde, Análisis, simulación y diseño de instalaciones de producción de electricidad y combustible sintético a partir de gasificación de residuos, Sistemas de poligeneración, Plantas de alta eficiencia de producción combinada de electricidad, calor y frío (cogeneración y trigeneración), Integración térmica de equipos y procesos, Plantas de ciclo combinado de alta eficiencia.",
+            "areas": [
+                "Termodinámica",
+                "Valorización de Residuos",
+                "Gasificación de Residuos Sólidos",
+                "Gasificación con Plasma",
+                "Eficiencia Energética Térmica",
+                "Producción de Hidrógeno con Energías",
+                "Sistemas Energéticos Térmicos",
+                "Procesos Térmicos",
+                "Pilas de Combustible accionados con Hidrógeno",
+                "Integración de Energías Renovables",
+                "Sistemas Energéticos de Poligeneración",
+                "Cogeneración",
+                "Trigeneración",
+                "Centrales de Ciclo Combinado",
+                "Centrales Térmicas Convencionales"
+            ],
             "degree_centrality": 0.0146,
             "betweenness_centrality": 0.0152
         },
@@ -9847,6 +10226,10 @@
             "citations": 81.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/24694625/marcone-flores-giancarlo.jpg?w=160&f=jpg",
             "bio": "Licenciado en Arqueología por la PUCP. Magíster y Ph.D. en Antropología por la Universidad de Pittsburgh, Pensilvania, EEUU. Ha sido becario en Dumbarton Oaks, Trustees for Harvard University; National Science Foundation y Howard Heinz Endowment for Latin American Archaeology. Ha publicado artículos sobre arqueología y gestión del patrimonio en revistas y volúmenes especializados y ha sido docente universitario por más de quince años tanto en Perú como en el extranjero. Entre sus temas de interés se encuentran el patrimonio y su gestión participativa, antropología del movimiento e Interacciones interregionales. Ha ocupado diversos puestos vinculados a la gestión patrimonial como Coordinador General del Proyecto Qhapaq Ñan-Sede Nacional y Director General de Museos del Ministerio de Cultura del Perú. Actualmente es Director y docente de la Dirección de Humanidades Artes y Ciencias Sociales y Director del Centro de Impacto y Responsabilidad Social de la Universidad de Ingeniería y Tecnología - UTEC donde viene desarrollando una agenda de investigación sobre la relación entre ciencia y sociedad, así como la educación STEAM.",
+            "areas": [
+                "Patrimonio y su gestión participativa",
+                "antropología del movimiento e Interacciones interregionales"
+            ],
             "degree_centrality": 0.021,
             "betweenness_centrality": 0.0333
         },
@@ -10183,6 +10566,12 @@
             "citations": 63322.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/25685589/milanes-carrenio-diego-alejandro.jpg?w=160&f=jpg",
             "bio": "Tengo un grado y una maestría en Física de la Universidad Nacional de Colombia y un doctorado en Física de la Universitat de València (España), con amplia experiencia en física experimental de altas energías, específicamente en el sector de sabor de quarks pesados. He contribuido a los experimentos LHCb y BaBar, enfocándome en el análisis de datos relacionados con decaimientos raros de hadrones b, espectroscopía de hadrones encantados y mezcla de mesones neutros, entre otros temas. Además, cuento con casi una década de experiencia como docente en física y matemáticas avanzadas.",
+            "areas": [
+                "Física experimental de partículas fundamentales",
+                "Simetría materia y antimateria",
+                "Física de hadrones pesados",
+                "Física Computacional"
+            ],
             "degree_centrality": 0.2149,
             "betweenness_centrality": 0.2747
         },
@@ -10195,6 +10584,13 @@
             "citations": null,
             "photo_url": null,
             "bio": "Docente de Enseñanza e Investigación Principal en UTEC. Doctor en Física por el Instituto de Física P.N. Lebedev de la Academia de Ciencias de Rusia, especialista en detectores e instrumentación para física de altas energías. Su investigación se enfoca en el desarrollo del calorímetro electromagnético PicoCal para el detector LHCb. Es miembro de la colaboración LHCb en la Organización Europea para la Investigación Nuclear (CERN). Cuenta con experiencia de investigación en instituciones científicas líderes de Rusia y Europa, como la Universidad Nacional de Investigación Nuclear MEPhI, la Universidad Nacional de Ciencia y Tecnología MISIS, el Instituto de Física P.N. Lebedev de la Academia de Ciencias de Rusia, la École Polytechnique Fédérale de Lausanne (EPFL) y el Instituto Nacional de Física Nuclear (INFN).",
+            "areas": [
+                "Calorimetría electromagnética",
+                "Detectores de Radiación",
+                "Física de Altas Energías",
+                "Física Nuclear",
+                "Protección Radiológica"
+            ],
             "degree_centrality": 0.0797,
             "betweenness_centrality": 0.0773
         },
@@ -13175,6 +13571,11 @@
             "citations": 268.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/25783575/mora-colque-rensso-victor-hugo_.jpg?w=160&f=jpg",
             "bio": "Rensso estudió Ingeniería Informática en la Universidad Catolica San Pablo, se graduó en el 2009 con un trabajo de investigación en Visión Artificial. Hizo maestría en la Universidade Federal de Ouro Preto - Brasil. Hizo el Doctorado en la Universidade Federal de Minas Gerais -Brasil, su área de mayor experticie es Procesamiento de Imágenes y videos. Actualmente labora como docente en UTEC.",
+            "areas": [
+                "Visión por computadora",
+                "Aprendizaje automático",
+                "Series temporales"
+            ],
             "degree_centrality": 0.019,
             "betweenness_centrality": 0.0304
         },
@@ -13495,6 +13896,13 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21850417/napa_bernuy_angel.jpg?w=160&f=jpg",
             "bio": "Angel, miembro de la Comisión de Olimpiadas de la Sociedad Matemática Peruana, es profesor a tiempo completo de la Universidad de Ingeniería y Tecnología. Obtuvo el grado de Matemáticas en la Pontificia Universidad Católica del Perú (PUCP) en el 2019 y el grado de Magíster en Matemáticas en el Instituto de Matemática Pura e Aplicada (IMPA), Brasil, en el 2022. Ángel es un matemático con un perfil de investigación, análisis, vocación y adaptabilidad para resolver diferentes retos. Ha sido tutor y entrenador de diferentes delegaciones para competencias internacionales. Profesional Bilingüe.",
+            "areas": [
+                "Algoritmos",
+                "Teoría de Grafos",
+                "Optimización Combinatoria",
+                "Investigación de Operaciones",
+                "Matemáticas Discretas"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -13507,6 +13915,13 @@
             "citations": 117.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/29862829/neodini-remedio-leandro.jpg?w=160&f=jpg",
             "bio": "Ingeniero de Alimentos (2013) con Maestría en Ingeniería de Alimentos (2016) y Doctorado en Ciencia de la Ingeniería de Alimentos (2022) por la Universidad de São Paulo (USP/FZEA). Su investigación se ha enfocado en el desarrollo de películas con liberación controlada de agentes antimicrobianos y en la producción de filmes a base de polímeros y extractos naturales. Realizó un postdoctorado en la Universidad de Ingeniería y Tecnología (UTEC - Lima/Perú), donde desarrolló envases inteligentes. Posee experiencia en las áreas de polímeros sustentables, aprovechamiento de residuos, materiales compuestos y caracterización físico-química, mecánica y térmica de materiales. Actualmente, es Docente a Tiempo Parcial en el Departamento de Bioingeniería e Investigador Asociado en Amazon Sustainability Research Institute (ASRI) de la Universidad de Ingeniería y Tecnología (UTEC - Lima/Perú).",
+            "areas": [
+                "Materiales poliméricos activos",
+                "Biomateriales y bioplásticos",
+                "Compuestos bioactivos de subproductos de la Amazonía",
+                "Polímeros naturales comestibles y biodegradables",
+                "Caracterización de materiales poliméricos"
+            ],
             "degree_centrality": 0.0032,
             "betweenness_centrality": 0.0015
         },
@@ -13659,6 +14074,11 @@
             "citations": null,
             "photo_url": null,
             "bio": "Ingeniera Mecánica con experiencia en el sector de energía y oil & gas, principalmente en mantenimiento de equipos rotativos. Ha participado en proyectos en Latinoamérica, apoyando servicios en campo y coordinación técnica.Actualmente es docente a tiempo completo en UTEC, dictando cursos de ingeniería de mantenimiento y análisis técnico-económico.Cuenta con una maestría en Educación, orientada a la enseñanza en ingeniería.",
+            "areas": [
+                "Ingeniería de mantenimiento",
+                "Confiabilidad de equipos",
+                "Evaluación técnico-económica de activos"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -13671,6 +14091,11 @@
             "citations": 123.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/29911852/bryam_perfil_cris.png?w=160&f=jpg",
             "bio": "Científico del clima, con formación en ciencias atmosféricas, oceánicas y meteorología. Su trayectoria, que combina casi una década de experiencia académica y aplicada, abarca diversas áreas de la ciencia climática y ambiental, mediante el uso de herramientas novedosas, como la simulación del sistema terrestre en instalaciones de supercomputación. Aporta una perspectiva generalista que favorece la colaboración interdisciplinaria.En los últimos años, su trabajo se ha centrado en aplicar inteligencia artificial, datos satelitales e información climática para monitorear las presiones humanas sobre los ecosistemas. Su objetivo principal es conectar la ciencia climática fundamental con el monitoreo ambiental aplicado, desarrollando herramientas basadas en datos diseñadas para mejorar la capacidad de la sociedad para anticipar y responder a los riesgos climáticos actuales y futuros.",
+            "areas": [
+                "Cambio Climático",
+                "Riesgos Climáticos",
+                "Ciencia de Datos"
+            ],
             "degree_centrality": 0.0045,
             "betweenness_centrality": 0.0061
         },
@@ -13744,6 +14169,11 @@
             "citations": 11.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171246/ortiz_garcia_maria_belen.jpg?w=160&f=jpg",
             "bio": "Magister en Ingeniería Industrial con especialización en Factores Humanos por la Ohio State University como Becaria Fulbright. Con conocimiento y experiencia en Gestión por Procesos y herramientas de Mejora Continua, Formulación y Ejecución de Proyectos y Ergonomía, conocimiento avanzado del idioma inglés.",
+            "areas": [
+                "Sistemas Integrados de Gestión",
+                "Gestión por Procesos y herramientas de Mejora Continua",
+                "Ingeniería Cognitiva/Factores Humanos."
+            ],
             "degree_centrality": 0.0045,
             "betweenness_centrality": 0.0039
         },
@@ -13786,6 +14216,7 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171263/pantoja_carhuavilca_hermes.jpg?w=160&f=jpg",
             "bio": "Licenciado en Matemática de la Facultad de Ciencias de la Universidad Nacional de ingeniería, Maestro en Ciencias con mención en Ingeniería de Sistemas otorgado por la Universidad Nacional de Ingeniería. Doctor en Ciencias de la Educación otorgado por la Universidad Nacional Enrique Guzman y Valle. Estudios concluidos de Doctorado en Ingeniería Industrial (UNMSM). Diplomado en docencia Universitaria en Ingeniería otorgado por la Universidad Nacional Mayor de San Marcos.Con mas 15 años de experiencia como docente en reconocidas universidades del país.",
+            "areas": [],
             "degree_centrality": 0.0024,
             "betweenness_centrality": 0.0
         },
@@ -13887,6 +14318,7 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171302/pena_nevado_alexander.jpg?w=160&f=jpg",
             "bio": "Profesional con grado de licenciado en física y estudios de maestría en educación superior, amplia experiencia en el campo de la docencia universitaria, especialmente en las materias de física y matemática, con aplicación de adecuada metodología en su desarrollo. Amplio conocimiento y experiencia en: montaje y diseño de equipos de física y elaboración de guías de laboratorio, fabricación y caracterización de sensor de gas basado en películas delgadas de óxido de nitrógeno; así mismo, en la fabricación de películas delgadas de dióxido de titanio para su aplicación en el proceso de fotocatálisis. Con gran sentido de responsabilidad, proyección, empatía, colaboración y con buen trabajo en equipo.",
+            "areas": [],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -13899,6 +14331,7 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171327/quispe_rodriguez_sergio.jpg?w=160&f=jpg",
             "bio": "Director académico de Ciencias de la Universidad de Tecnología e Ingeniería (UTEC) a cargo de los cursos elementales de física y matemáticas. MSc en Ingeniería Mecánica por la Universidad Estadual de Campinas (Brasil), en el área de Mecánica de los Sólidos y Proyecto Mecánico. Ingeniero Mecánico por la Universidad Nacional de Ingeniería, UNI (Perú). Experiencia en investigación: Optimización Topológica de estructuras sometidas a cargas estáticas y campos térmicos variables. Uso de métodos evolucionarios ESO y BESO. Experiencia en Docencia: Curso: Ecuaciones Diferenciales en la Facultad de Ingeniería Mecánica de la Universidad Nacional de Ingeniería 2017-2018. Curso: Física 2, UTEC ciclo: 2019-0 Curso: Laboratorio de Física 1 y 2, UTEC ciclos:2019-1 y 2019-2. Curso: Matemáticas 1, UTEC ciclo: 2019-2. Experiencia laboral en Ingeniería Mecánica: Supervisor de Calidad en proyectos mecánicos – HAUG SA (Proyecto Expansión Antamina), DCM INDUSTRIAS (Lima, Perú) – Supervisor de proyectos y Gerente de Operaciones – METALSUR INGENIEROS (Lima, Perú).",
+            "areas": [],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -13911,6 +14344,7 @@
             "citations": 9.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171353/ramirez_quiroz_elmer.jpg?w=160&f=jpg",
             "bio": "Director del Centro de Investigación y Conservación del Patrimonio y Profesor de Ingeniería Química, ambos en la Universidad de Ingeniería y Tecnología (UTEC). Miembro del comité de asesores del International Mineral processing Council (IMPC) y fellow del International Institute of Conservation (IIC). Licenciado en Química (PUCP, 2000), Doctorado en Química en la Universidad de Delaware (2004 - 2010) y postdoctorado en la Universidad de Harvard (2010 - 2012). Ha recibido múltiples distinciones incluyendo el Premio Hackley 2008 a la excelencia en investigación en Química y el Premio Wolf 2011 a la mejor disertación doctoral en ciencias (Ambas en la universidad de Delaware), así como también el premio Hoffman 2009, máxima distinción a investigadores doctorales otorgada por la American Vacuum Society (AVS). En UTEC ha sido distinguido como mejor investigador en los años 2014, 2016, 2018 y 2019. Areas de interés: Conservación del Patrimonio, Nanomateriales, Procesamiento de minerales y Metalurgia extractiva.",
+            "areas": [],
             "degree_centrality": 0.0045,
             "betweenness_centrality": 0.0069
         },
@@ -14188,6 +14622,16 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171395/ratti_parandelli_alejandra.jpg?w=160&f=jpg",
             "bio": "Bioquímica, especializada en Biotecnología y endocrinología molecular, producción de proteínas recombinantes. Amplia experiencia en Educación Superior y gestión de los procesos de enseñanza-aprendizaje.",
+            "areas": [
+                "Ciencia y cocina",
+                "bioquímica clínica",
+                "microbiología",
+                "proteómica",
+                "sistemas de expresión en levaduras",
+                "diseño de enzimas recombiantes",
+                "ingeniería genética",
+                "Investigación e innovación en métodos de enseñanza y de evaluación en universidades"
+            ],
             "degree_centrality": 0.002,
             "betweenness_centrality": 0.0017
         },
@@ -14209,6 +14653,15 @@
             "citations": 686.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171498/rau_lavado_pedro.jpg?w=160&f=jpg",
             "bio": "Profesor Asociado de la Universidad de Ingenieria y Tecnologia (UTEC) - Departamento de Ingenieria Ambiental e Investigador Principal del Centro de Investigacion y Tecnologia del Agua (CITA-UTEC). Doctor en Hidrologia en la Universidad de Toulouse (Francia). Autor de reconocidas publicaciones en journals arbitrados y especialista en topicos de Hidroclimatologia, Hidrologia de Montañas, Hidrologia de Cuencas, Ingenieria Hidrologica y Zonas Aridas. Master en Hidrologia y Medio Ambiente en el Institut National Polytechnique de Toulouse (Francia) y en Recursos Hidricos en la Universidad Nacional Agraria La Molina (Peru). Ingeniero Civil de la Universidad Nacional de Ingenieria (UNI) con con mas de 15 años de experiencia profesional en proyectos nacionales, internacionales de colaboracion cientifica y consultoria en ingenieria relacionados al manejo de los recursos hidricos.",
+            "areas": [
+                "Procesos hidrológicos.",
+                "hidrología de montaña",
+                "hidrología de zonas áridas",
+                "hidroclimatología",
+                "impactos de la variabilidad y el cambio climático",
+                "ingeniería hidrológica",
+                "administracion del agua"
+            ],
             "degree_centrality": 0.0728,
             "betweenness_centrality": 0.1189
         },
@@ -15461,6 +15914,12 @@
             "citations": 185.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21816332/renom_andara_jose.jpg?w=160&f=jpg",
             "bio": "Estoy interesado principalmente en investigación de sistemas complejos con matemáticas aplicadas donde pueda utilizar mis conocimientos sobre probabilidades, teoría de grafos, simulación y análisis de datos. Puedo contribuir en proyectos que requieran del análisis estadístico de datos, su visualización, y generación, ya sea para verificación o validación. Me interesa particularmente la elaboración de modelos matemáticos y su utilización, mediante simulación, para entender procesos y sistemas del mundo real. También estoy interesado en investigación sobre docencia de la ciencia, en particular matemáticas y computación, ya sea en metodología de enseñanza, evaluación automatizada, cuestiones de honestidad académica y verificación de que el aprendizaje ha ocurrido de manera efectiva.",
+            "areas": [
+                "Teoría de grafos",
+                "Estadística aplicada",
+                "Probabilidades",
+                "Simulación y análisis de datos"
+            ],
             "degree_centrality": 0.0101,
             "betweenness_centrality": 0.0178
         },
@@ -15508,6 +15967,9 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171519/rios_cuadros_alejandro.jpg?w=160&f=jpg",
             "bio": "Físico con una sólida formación en materiales y nanotecnología, con experiencia en investigación tanto en Perú como en Brasil. Mi trayectoria académica incluye una maestría en física con énfasis en biomateriales y un doctorado en física con énfasis en la fabricación de nano dispositivos basados en semiconductores mediante litografía óptica y electrónica. Durante mi especialización en la Universidad de Florianópolis, profundicé en el desarrollo de biomateriales para aplicaciones en ingeniería de tejidos. Mis intereses de investigación se centran en la intersección entre la física y la biología, explorando áreas como los transistores FET, biosensores, piezocatálisis y memorias resistivas.",
+            "areas": [
+                "Nanomateriales y Semiconductores"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -15520,6 +15982,13 @@
             "citations": 12.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/31237732/rivera-charun-lucia.jpg?w=160&f=jpg",
             "bio": "Doctora en Biología por la Universidad Autónoma de Madrid, con experiencia internacional en investigación interdisciplinaria en sistemas marinos, zooarqueología, paleogenética y genómica. Su perfil combina investigación científica con un enfoque aplicado hacia la sostenibilidad. Ha sido investigadora del programa Marie Skłodowska-Curie Actions (Horizon 2020), donde desarrolló competencias en gestión de datos, ciencia abierta y herramientas genómico-computacionales en distintas instituciones europeas. Se ha desempeñado como investigadora en el Instituto de Investigaciones Marinas (IIM-CSIC, Vigo) y el Museo Nacional de Ciencias Naturales (MNCN-CSIC) del Consejo Superior de Investigaciones Científicas en España. Asimismo, realizó estancias de investigación en paleo ADN en el Departamento de Bienes Culturales de la Universidad de Bolonia (Ravenna, Italia), ampliando su experiencia en análisis genético aplicado a contextos arqueológicos y culturales. Su investigación integra reconstrucción paleoclimática, bioinformática y evidencia arqueobiológica para analizar patrones históricos de explotación de recursos marinos desde una perspectiva de sostenibilidad a largo plazo. Cuenta con un Máster en Ciencia y Manejo Marino y Lacustre por la Vrije Universiteit Brussel, la University of Antwerp y la Ghent University (Bélgica). Asimismo, ha desarrollado investigación aplicada en sostenibilidad y mitigación de emisiones en el sector marítimo mediante modelos de optimización multiobjetivo. Actualmente es Docente de Enseñanza e Investigación en el Departamento de Ingeniería Ambiental de la Universidad de Ingeniería y Tecnología (UTEC), y ha impartido cursos y realizado investigación en sostenibilidad, logística verde y métodos avanzados de investigación en la University of Europe for Applied Sciences (Alemania).",
+            "areas": [
+                "Zooarqueología",
+                "Paleoclimas",
+                "Sostenibilidad",
+                "Biología marina y lacustre",
+                "Paleogenética"
+            ],
             "degree_centrality": 0.0073,
             "betweenness_centrality": 0.0117
         },
@@ -15648,6 +16117,12 @@
             "citations": 803.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171551/rodriguez_reyes_juancarlos.jpg?w=160&f=jpg",
             "bio": "Doctor en Química por la University of Delaware y Post-doctorado en Harvard University, con experiencia en ciencia de materiales y superficies. Ha recibido los premios Hackley a la excelencia en investigación de postgrado y Wolf a la mejor tesis doctoral en ciencias (University of Delaware), así como el premio Hoffmann, máxima distinción a investigadores de postgrado en el simposio internacional de la American Vacuum Society.",
+            "areas": [
+                "Conservación del Patrimonio",
+                "Nanomateriales",
+                "Procesamiento de minerales",
+                "Metalurgia extractiva"
+            ],
             "degree_centrality": 0.0308,
             "betweenness_centrality": 0.0399
         },
@@ -15660,6 +16135,11 @@
             "citations": 220.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171653/tarazona_vasquez_francisco.jpg?w=160&f=jpg",
             "bio": "Ph.D. en Ingeniería Química por Texas A&M University (EEUU) e Ingeniero Químico por la Universidad Nacional de Ingeniería (UNI) del Perú. Miembro del American institute of Chemical Engineers (AIChE) y asesor del capítulo estudiantil AIChE-UTEC y de su División de Simulación de Procesos (DISIPROC). Posee amplia experiencia en investigación y en publicaciones en revistas de alto impacto (Scopus/ISI). Amplia experiencia en docencia universitaria (fue reconocido epónimo de la promoción 2014-II de la especialidad de Ingeniería Química de la UNI). Actualmente es Director de Ingeniería Química en la Universidad de Ingeniería y Tecnología - UTEC. Intereses: simulación molecular, análisis termodinámicos, simulación e ingeniería de procesos.",
+            "areas": [
+                "Simulación molecular",
+                "análisis termodinámicos",
+                "imulación e ingeniería de procesos"
+            ],
             "degree_centrality": 0.0065,
             "betweenness_centrality": 0.0051
         },
@@ -16099,6 +16579,11 @@
             "citations": 455.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171593/saavedra_espinoza_harry_gustavo.jpg?w=160&f=jpg",
             "bio": "Doctor en Biofísica por la Universidad de Johns Hopkins, USA. Trabajó como investigador postdoctoral en la escuela de medicina de la misma universidad por 6 años. Durante este tiempo participó en proyectos de investigación sobre cáncer, enfermedades de la tiroides, neurodegenerativas y cardiacas. Durante sus estudios de doctorado realizó investigaciones en la modulación de funciones de enzimas. Durante sus estudios de maestría en Ingeniería Mecánica en la PUC- Rio Brasil trabajó en el área de elementos finitos. Sus estudios de pregrado en Ingeniería Mecánica los realizó en la UNI. Como ingeniero mecánico trabajó en la industria pesquera, petrolera, metalmecánica y minera.",
+            "areas": [
+                "Biofísica de proteínas",
+                "sistemas biológicos para combatir enfermedades",
+                "Machine Learning"
+            ],
             "degree_centrality": 0.0376,
             "betweenness_centrality": 0.0623
         },
@@ -16780,6 +17265,11 @@
             "citations": 47.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21849976/sanchez_enriquez_heider.jpg?w=160&f=jpg",
             "bio": "",
+            "areas": [
+                "Análisis y desarrollo de software",
+                "minería de datos",
+                "inteligencia artificial"
+            ],
             "degree_centrality": 0.0032,
             "betweenness_centrality": 0.0
         },
@@ -16864,6 +17354,10 @@
             "citations": 424.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/20164583/sanchez_ramirez_nedher.jpg?w=160&f=jpg",
             "bio": "Ingeniero Químico de la Universidad Nacional de Colombia, Magíster en Química de la Universidad de Antioquía (Colombia), Doctor en Química por la Universidad de Sao Paulo (Brasil). Ha realizado estudios de posdoctorado en la Universidad de Sao Paulo (Brasil) y en la Universidad de Quebec (Canadá). Área de investigación está relacionada con la electroquímica en particular baterías de ion litio y líquidos iónicos.",
+            "areas": [
+                "Ciencias químicas",
+                "Electroquímica en particular baterías de ion litio y líquidos iónicos"
+            ],
             "degree_centrality": 0.0206,
             "betweenness_centrality": 0.0339
         },
@@ -17492,6 +17986,13 @@
             "citations": 22.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171627/serrano_llerena_yamilet.jpg?w=160&f=jpg",
             "bio": "Doctora en Ciencia de Computación otorgado por el departamento de Ciencia de la Computación de la Universidad Nacional de Singapur (NUS). Primera peruana en obtener el grado de doctor en NUS. Experta en verificación probabilística de softwares críticos, testeo y verificación de software. Actualmente sus proyectos están enfocados en la exploración y minería de datos utilizando técnicas de Inteligencia Artificial. Sus áreas de investigación son Ingeniería de Software, Computación Sostenible, Inteligencia Artificial, Ciencia de Datos y proyectos relacionados con las áreas de Ciencia de Computación. Ha sido parte del equipo de desarrollo académico de la herramienta de trazado de contacto del aplicativo Perú en tus manos junto a más de 40 investigadores del Perú y el extranjero. Actualmente, es la directora de la carrera de Ciencia de Datos y docente investigadora de la carrera de Ciencia de la Computación de Universidad de Ingeniería y Tecnología (UTEC). Además, es miembro activa del centro de Investigación de Computación Sostenible (COMPSUST) y de IEEE Women in Engineering.",
+            "areas": [
+                "Ingenieria de software",
+                "Computación Sostenible",
+                "Inteligencia Artificial",
+                "Ciencia de Datos",
+                "Proyectos relacionados con las áreas de Ciencia de Computación"
+            ],
             "degree_centrality": 0.0036,
             "betweenness_centrality": 0.0059
         },
@@ -17561,6 +18062,14 @@
             "citations": 179.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/26454982/soriano-vargas-aurea-rossy.jpg?w=160&f=jpg",
             "bio": "Aurea Soriano Vargas es Profesora Investigadora en Ciencia de la Computación en la Universidad de Ingeniería y Tecnología (UTEC), Perú. Obtuvo su Doctorado (2018) y Maestría (2013) en Ciencia de la Computación y Matemática Computacional en la Universidade de São Paulo (USP), Brasil, y se graduó como Bachiller en Ingeniería Informática en la Universidad Católica San Pablo, Arequipa, Perú, en 2009.Cuenta con experiencia internacional, habiendo trabajado como Investigadora Junior en la Universidad de California, Davis, entre octubre de 2015 y septiembre de 2016. Posteriormente, participó en dos proyectos de posdoctorado en la Universidad Estatal de Campinas (Unicamp), Brasil, en colaboración la Shell entre 2018 y 2021. También se desempeñó como Investigadora Senior en Inteligencia Artificial y Coordinadora de Investigación del Viva Bem Hub en Recod.ai, Instituto de Computación de Unicamp en colaboración con la Samsung.",
+            "areas": [
+                "Inteligencia artificial",
+                "análisis visual",
+                "ciencia de datos",
+                "representación de datos",
+                "aprendizaje automático",
+                "aprendizaje profundo"
+            ],
             "degree_centrality": 0.0291,
             "betweenness_centrality": 0.0472
         },
@@ -18120,6 +18629,11 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/23816640/Dise_o_sin_t_tulo_49_.png?w=160&f=jpg",
             "bio": "MBA Strategy, Marketing, Finance en Northwestern University - Kellogg School of Management. Actualmente realiza un doctorado en Educación en la Universidad de Pennsylvania, con un interés especial en la transformación de los modelos educativos y en el aprendizaje para adultos orientado a los negocios. Con 20 años de experiencia asesorando empresas en múltiples industrias, incluyendo retail, tecnología, private equity y consumo masivo. Anteriormente se desempeñó como Team Leader en Bain & Company, como consultor de negocios en Apoyo consultoría, como Country Director en Technoserve y como Director de Administración y Finanzas de UTEC.",
+            "areas": [
+                "Transformación de los modelos educativos",
+                "consultoría empresarial",
+                "finanzas corporativas"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -18132,6 +18646,11 @@
             "citations": 14.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/24097563/stiglich-labarthe-matteo.jpg?w=160&f=jpg",
             "bio": "Docente investigador en la Universidad de Ingeniería y Tecnología - UTEC. Cuenta con un doctorado en Planificación Urbana por la Universidad de Columbia, en Nueva York, con una maestría en Planificación urbana por la Universidad de California, en Berkeley, y con un bachillerato en Historia por la Pontificia Universidad Católica del Perú. Sus líneas de investigación son: economía política de la planificación urbana, planificación de infraestructura y transporte urbano, e historia urbana contemporánea.",
+            "areas": [
+                "Economía política de la planificación urbana",
+                "planificación de infraestructura y transporte urbano",
+                "historia urbana contemporánea"
+            ],
             "degree_centrality": 0.0024,
             "betweenness_centrality": 0.0024
         },
@@ -18169,6 +18688,13 @@
             "citations": 38.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/29816737/tapullima-montejo-jonathan-alfredo.jpg?w=160&f=jpg",
             "bio": "Docente Investigador de la Universidad de Ingeniería y Tecnología - UTEC, Departamento de Ingeniería Electrónica y Mecatrónica. Ingeniero aeroespacial con más de 10 años de experiencia en investigación. Inició su carrera en la Agencia Espacial del Perú (CONIDA) como practicante y posteriormente formó parte del programa KT-1P en colaboración con Korea Aerospace Industries (KAI) y la Fuerza Aérea del Perú (FAP), donde participó en la división de fabricación de aeronaves. Fue becado a Corea del Sur, donde obtuvo una maestría y un doctorado en estructuras compuestas aeroespaciales.Fue investigador postdoctoral en la Norwegian University of Science and Technology (NTNU), contribuyendo al diseño preliminar de un hidroavión eléctrico de El-fly Group, un proyecto pionero en movilidad aérea sostenible.Comprometido con el desarrollo de tecnologías limpias para la aviación del futuro, mantiene un enfoque interdisciplinario y orientado a generar un impacto real en la industria aeroespacial y en la transición hacia una movilidad más sostenible.",
+            "areas": [
+                "Estructura Aeroespacial",
+                "FEM",
+                "materiales compuestos avanzados",
+                "CFRP",
+                "Aviación Sostenible"
+            ],
             "degree_centrality": 0.0028,
             "betweenness_centrality": 0.0
         },
@@ -18356,6 +18882,12 @@
             "citations": 57.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/31283863/tenorio-gonzales-candy-veronica.jpg?w=160&f=jpg",
             "bio": "Profesora e investigadora del Departamento de Sistemas de Información de la Universidad de Ingeniería y Tecnología (UTEC), Lima, Perú. Es Doctora en Ciencias (Ciencia de la Computación) por la Universidade de São Paulo (Brasil, 2024), Maestra en Ciencias de la Computación por la Universidade Federal do ABC (Brasil, 2017), e Ingeniera de Sistemas por la Universidad Nacional Mayor de San Marcos (Perú, 2009). Su investigación se enfoca en nuevas formas de interacción humano-computadora, con énfasis en el diseño y desarrollo de interfaces controladas por la mirada y plataformas de realidad aumentada y virtual para facilitar la comunicación y el control de dispositivos en personas con discapacidad motora. Su trabajo integra enfoques de ingeniería, diseño centrado en la persona y modelado matemático.",
+            "areas": [
+                "Interacción humano-computadora",
+                "Interacción basada en la mirada",
+                "Accesibilidad",
+                "Experiencia de Usuario"
+            ],
             "degree_centrality": 0.0032,
             "betweenness_centrality": 0.0
         },
@@ -18440,6 +18972,13 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/21817571/tipe_villanueva_jorge.jpg?w=160&f=jpg",
             "bio": "Matemático por la Universidad Nacional Mayor de San Marcos y Magíster en Matemática Aplicada e Informática por el Instituto de Física y Tecnología de Moscú, Rusia. Su área de interés es la Matemática Discreta, en especial los Métodos de Demostración, Estructuras Discretas, Conteo y Teoría de Grafos. Es miembro de la Comisión de Olimpiadas de la Sociedad Matemática Peruana.",
+            "areas": [
+                "Matemática aplicada",
+                "Informática",
+                "Métodos de Demostración",
+                "Estructuras Discretas",
+                "Conteo y Teoría de Grafos"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -18452,6 +18991,13 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/25754099/torres-escobar-david-wilfredo.jpg?w=160&f=jpg",
             "bio": "Investigador Asociado en el Instituto de Investigación en Sostenibilidad Amazónica de UTEC (ASRI). Ingeniero Forestal. Durante diez años, contribuyó a construir una empresa de consultoría ambiental, llegando a ser su Country Manager en Perú. David ha sido parte de equipos de asistencia técnica para agencias de cooperación internacional y bancos de desarrollo multilaterales enfocados en América Latina. Su trabajo se centra en el diseño y ejecución de proyectos relacionados con financiamiento para la biodiversidad, producción libre de deforestación, manejo de áreas protegidas, carbono forestal, gestión de cuencas hidrográficas y bioeconomía. Además, ha asesorado a empresas del sector privado en la gestión de su huella ecológica, estrategias de compensación ambiental e inversiones en la naturaleza, utilizando prácticas rentables de REDD+, Fondos de Agua, Bancos de Hábitat y EUDR.",
+            "areas": [
+                "biodiversidad",
+                "servicios ecosistémicos",
+                "gestión",
+                "capital natural",
+                "mercados ambientales"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -18912,6 +19458,10 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/24148806/vazques-arrieta-rosaura.jpg?w=160&f=jpg",
             "bio": "Ingeniera Industrial de la Universidad de Piura (UDEP); Magister en Química de la Pontificia Universidad Católica del Perú (PUCP); Doctora Ingeniera Industrial en Metalurgia y Materiales de la Universidad de Oviedo (España). Gerente Central de Calidad e Investigación y Desarrollo en Cementos Pacasmayo S.A.A., con 20 de años de experiencia en la industria de la construcción. Actualmente es Directora del Centro de Investigación del Cemento y Concreto (CIC) y profesora del curso de Tecnología de los Materiales de Construcción, Ingeniería Civil, Universidad de Ingeniería y Tecnología (UTEC).",
+            "areas": [
+                "Desarrollo de cementos de bajo carbono",
+                "ingeniería metalúrgica"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -19106,6 +19656,11 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171819/vera_pomalaza_rafael.jpg?w=160&f=jpg",
             "bio": "Doctor en Ciencias Administrativas de la Universidad Mayor de San Marcos, Maestría en Ingeniería de Sistemas e Ingeniero Electricista de la Universidad Nacional de Ingeniería. Investigador y desarrollador de proyectos en energía renovables y sistemas eléctricos. Ha desarrollado Sistemas de Calidad para la acreditación y certificación Internacional de programas de gestión y de ingeniería. Cuenta con amplia experiencia docente universitaria y una gran experiencia en cargos ejecutivos en empresas de energía, telecomunicaciones e informática.",
+            "areas": [
+                "Energías renovables",
+                "sistemas eléctricos",
+                "electrotecnia industrial"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         },
@@ -19167,6 +19722,12 @@
             "citations": 62.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/26455000/wong-sato-akira-armando-2.jpg?w=160&f=jpg",
             "bio": "Comenzó su carrera trabajando en conservación con comunidades del sur de Perú. Luego, centró sus investigaciones en interacciones planta-insectos, y mecanismos adaptativos de plantas para la polinización. Ha trabajado como docente y asesor en múltiples universidades, incluyendo la Universidad Nacional Agraria La Molina (UNALM), la Universidad Privada del Norte (UPN), y la Universidad de Ingeniería y Tecnología (UTEC). Durante este tiempo ha liderado y participado en proyectos multidisciplinarios relacionados con la ecología de polinizadores, y la dinámica forestal, y biología de la conservación, obteniendo financiamiento de instituciones tales como PROCIENCIA. Su experiencia incluye la implementación de proyectos que promueven la conservación basada en la ciencia, aplicando estrategias adaptadas a diversos contextos culturales y ambientales. Es Ingeniero Forestal de la Universidad Nacional Agraria La Molina (Perú), con Maestría y Doctorado en Estudios Humanos y Ambientales en la Universidad de Kyoto (Japón).",
+            "areas": [
+                "Ecología",
+                "Interacciones ecológicas",
+                "Biología de Conservación",
+                "Dinámica Forestal"
+            ],
             "degree_centrality": 0.0113,
             "betweenness_centrality": 0.0001
         },
@@ -19431,6 +19992,11 @@
             "citations": 4.0,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171861/zegarra_sierra_katia.jpg?w=160&f=jpg",
             "bio": "Física de la Pontificia Universidad Católica. Las áreas de la Física donde me he desarrollada ha sido óptica aplicada y principalmente ciencia de los materiales, fabricando y caracterizando opticamente materiales semiconductores de Ni-Al. Actualmente soy estudiante de Doctorado en el área de Didáctica de la Física en la PUCP, pues me apasiona profundamente la enseñanza. Tengo amplia y destacada experiencia enseñando cursos de Física General y Dinámica de Sistemas. Ha participado en diferentes capacitaciones relacionadas a la docencia universitaria (MIT, Harvard University, Red de Redum, etc). He realizado consultarías para el MINEDU y revisión científica del libro CONCIENCIA (2011) de la editorial Norma.",
+            "areas": [
+                "Física y óptica aplicada",
+                "Caracterización óptica de materiales semiconductores",
+                "Dinámica de sistemas"
+            ],
             "degree_centrality": 0.0036,
             "betweenness_centrality": 0.0
         },
@@ -19524,6 +20090,11 @@
             "citations": null,
             "photo_url": "https://cris.utec.edu.pe/files-asset/19489162/zorrilla_aranguren_carlos.jpg?w=160&f=jpg",
             "bio": "Global MBA en escuela de negocios ESEUNE, Bilbao España y Georgetown, EEUU. Con experiencia en Desarrollo y Planeamiento de Negocios, Desarrollo de Nuevos Proyectos enfocados en la Innovación e I+D+i, EFQM, Desarrollo Humano, Marketing, Gestión de Recursos y Visión de Futuro. Especializado en áreas de Marketing y Comunicaciones. Líder, dinámico, proactivo, comunicativo y amplio dominio de relaciones interpersonales. Con amplia experiencia en la docencia en la enseñanza de la Comunicación Social y Negocios. Especialista en uso de herramientas de desarrollo de negocios (Business Canvas, Curva de Valor entre otros), dominio de Inglés, y otros idiomas. Profesor Tiempo Completo en Universidad de Tecnología e Ingenieria (UTEC); Coordinador del cursos de Laboratorio de Comunicaciones, Business Communication e English for Steam.",
+            "areas": [
+                "Comunicación social",
+                "Marketing y Comunicaciones",
+                "Sociología de las Organizaciones"
+            ],
             "degree_centrality": 0,
             "betweenness_centrality": 0
         }

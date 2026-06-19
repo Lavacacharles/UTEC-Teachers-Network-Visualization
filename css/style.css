@@ -37,7 +37,8 @@ body {
     display: flex;
     flex-direction: column;
     box-shadow: 2px 0 10px rgba(0,0,0,0.02);
-    z-index: 10;
+    position: relative; /* This makes z-index work! */
+    z-index: 9999;
 }
 
 .controls {
@@ -164,23 +165,55 @@ svg:active {
     transition: opacity 0.3s ease, stroke 0.3s ease;
 }
 
-/* Floating Tooltip */
 .tooltip {
-    position: absolute;
-    pointer-events: none;
+    position:fixed;
+    /* pointer-events: none; */
     background: rgba(0, 0, 0, 0.8);
     color: #fff;
-    padding: 6px 10px;
+    padding: 4px 4px;
     border-radius: 4px;
     font-size: 0.8rem;
     z-index: 20;
     transition: opacity 0.2s ease;
 }
 
+.guided-insights-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.insights-content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 10px;
+
+    /* max-height: none !important;  */
+    /* overflow-y: none !important; */
+
+    transition:
+        max-height 0.3s ease,
+        opacity 0.3s ease;
+
+    min-height: 0;
+    /* height: auto; */
+}
+
+.insights-content.collapsed {
+    /* max-height: 0; */
+    /* opacity: 0; */
+    display: none !important;
+    /* overflow: none !important; */
+    /* margin-top: 0; */
+    /* padding: 0; */
+}
+
+
 .insight-btn {
     width: 100%;
     padding: 8px;
-    margin-bottom: 8px;
+    /* margin-bottom: 8px;  <-- DELETE THIS LINE */
     background: #f1f5f9;
     border: 1px solid #cbd5e1;
     border-radius: 4px;
@@ -189,10 +222,9 @@ svg:active {
     font-size: 0.85rem;
     transition: background 0.2s;
 }
-.insight-btn:hover {
-    background: #e2e8f0;
+.collapsed div {
+display: none !important;
 }
-/* --- Collapsible Sidebar Legend --- */
 .sidebar-legend-container {
     display: flex;
     flex-direction: column;
@@ -212,6 +244,7 @@ svg:active {
     margin: 0;
 }
 
+
 .toggle-btn {
     background: none;
     border: none;
@@ -219,35 +252,30 @@ svg:active {
     color: var(--text-muted);
     cursor: pointer;
     transition: transform 0.3s ease;
+    display: inline-block;
 }
 
 /* Rotates the arrow when collapsed */
 .toggle-btn.collapsed {
     transform: rotate(-90deg); 
 }
+
+
 .legend-content {
     display: flex;
     flex-direction: column;
     gap: 8px;
     margin-top: 10px;
 
-    max-height: 180px;
-    overflow-y: auto;
+    /* max-height: none !important;  */
+    /* overflow-y: none !important; */
 
     transition:
         max-height 0.3s ease,
         opacity 0.3s ease;
 
     min-height: 0;
-}
-
-.legend-content.collapsed {
-    max-height: 0;
-    opacity: 0;
-
-    overflow: hidden;
-    margin-top: 0;
-    padding: 0;
+    /* height: auto; */
 }
 
 .legend-item {
@@ -255,6 +283,7 @@ svg:active {
     align-items: center;
     font-size: 0.8rem;
     color: var(--text-muted);
+    pointer-events: all;
 }
 
 .legend-color {
@@ -263,4 +292,51 @@ svg:active {
     border-radius: 50%;
     margin-right: 8px;
     flex-shrink: 0;
+}
+
+.tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 15px;
+}
+
+.tag {
+    background-color: #e0f2fe; /* Azul muy clarito */
+    color: #0369a1; /* Texto azul oscuro */
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border: 1px solid #bae6fd;
+}
+details {
+    margin-top: 15px;
+}
+summary {
+    cursor: pointer;
+    font-size: 0.8rem;
+    color: var(--accent-blue);
+    font-weight: 600;
+    outline: none;
+}
+summary:hover {
+    text-decoration: underline;
+}
+.legend-content.scrollable-legend {
+    max-height: 180px; /* Ajusta este número según cuánto espacio vertical tengas */
+    overflow-y: auto;
+    padding-right: 5px; /* Evita que el scroll tape el texto */
+}
+
+/* Estilo minimalista para el scrollbar (Webkit) */
+.legend-content.scrollable-legend::-webkit-scrollbar {
+    width: 5px;
+}
+.legend-content.scrollable-legend::-webkit-scrollbar-track {
+    background: transparent;
+}
+.legend-content.scrollable-legend::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
 }

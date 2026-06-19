@@ -34,7 +34,8 @@ def transform_to_d3_network(input_filepath, output_filepath):
             "h_index": faculty.get("h-index"),
             "citations": faculty.get("citations"),
             "photo_url": faculty.get("photo_url"),
-            "bio": faculty.get("bio")
+            "bio": faculty.get("bio"),
+            "areas": faculty.get("areas"),
         }
 
         # 3. Process Individual Collaborators

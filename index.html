@@ -11,13 +11,29 @@
     <div class="app-container">
         <aside class="sidebar">
                     
-            <div class="guided-insights">
-                <h3 style="font-size: 0.9rem; margin-bottom: 10px; color: var(--text-muted);">Insights</h3>
-                <button id="btn-task1" class="insight-btn">Task 1: Show Key Bridges</button>
-                <button id="btn-task2" class="insight-btn">Task 2: Top Impact Faculty</button>
-                <button id="btn-task3" class="insight-btn">Task 3: Map Thematic Clusters</button>
-                <button id="btn-task4" class="insight-btn">Task 4: Spotlight Top Ego-Network</button>
+            <div class="guided-insights-container">
+                <div id="insights-header" class="insights-header" onclick="toggleInsights()" style="display: flex; justify-content: space-between; align-items: center; width: 100%; cursor: pointer;">
+                    <h3 style="font-size: 0.9rem; margin: 5px; color: var(--text-muted);">Insights</h3>
+                    <span id="toggle-insights-btn" class="toggle-btn">▼</span>
+                </div>
+                
+                <!-- <div id="insights-content" class="collapsible-content"> -->
+                <div id="insights-content" class="insights-content">
+                    <button id="btn-task1" class="insight-btn">Task 1: Show Key Bridges</button>
+                    <button id="btn-task2" class="insight-btn">Task 2: Top Impact Faculty</button>
+                    <button id="btn-task3" class="insight-btn">Task 3: Map Thematic Clusters</button>
+                    <button id="btn-task4" class="insight-btn">Task 4: Spotlight Top Ego-Network</button>
+                </div>
             </div>
+            <div class="divider"></div>
+
+            <div class="search-container">
+                <label for="node-search" style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted);">Buscar Institución / Investigador:</label>
+                <input type="text" id="node-search" list="node-list" placeholder="Ej. Harvard, INICTEL..." style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid var(--border-color); border-radius: 4px;">
+                <datalist id="node-list"></datalist>
+            </div>
+            
+            <div class="divider"></div>
             <div class="controls">
                 <label for="filter-type">Filter by Entity:</label>
                 <select id="filter-type">
@@ -32,21 +48,29 @@
             
             <div class="divider"></div>
             <div class="sidebar-legend-container">
-                <div class="legend-header" id="legend-header">
-                    <h3 id="legend-title">Entity Types</h3>
+                <div id="legend-header" class="legend-header" onclick="toggleLegend()" style="display: flex; justify-content: space-between; align-items: center; width: 100%; cursor: pointer;">
+                    <h3 id="legend-title" style="font-size: 0.9rem; margin: 0; color: var(--text-muted);">Entity Types</h3>
                     <span id="toggle-legend-btn" class="toggle-btn">▼</span>
                 </div>
                 <div id="legend-content" class="legend-content"></div>
             </div>
+            
             <div class="divider"></div>
+
             <div id="info-panel" class="info-panel empty">
                 <p class="placeholder-text">Click a node to view details.</p>
                 <img id="detail-photo" src="" alt="Profile" style="display:none;">
                 <h2 id="detail-name"></h2>
                 <span id="detail-type" class="badge"></span>
-                <!-- <div class="metrics"> -->
+                
                 <div class="metrics" id="detail-hindex"></div>
                 <div class="metrics" id="detail-citations"></div>
+
+                <div id="detail-areas" class="tags-container"></div>
+                <details id="bio-container" style="display:none;">
+                    <summary>Ver biografía completa</summary>
+                    <p id="detail-bio"></p>
+                </details>
                 <!-- </div> -->
                 <p id="detail-bio"></p>
             </div>
@@ -59,5 +83,43 @@
     <div class="divider"></div>
 
     <script src="js/main.js"></script>
+    <script>
+        // This guarantees the functions are globally available instantly
+        function toggleInsights() {
+            const content = document.getElementById('insights-content');
+            const btn = document.getElementById('toggle-insights-btn');
+
+            // btn.classList.toggle('collapsed');
+            if (content && btn) {
+                content.classList.toggle('collapsed');
+                btn.classList.toggle('collapsed');
+            }
+            
+            if (content.style.display === 'none') {
+                content.style.display = 'flex';
+            }
+            else {
+                content.style.display = 'none';
+            }
+            
+        }
+
+        function toggleLegend() {
+            const content = document.getElementById('legend-content');
+            const btn = document.getElementById('toggle-legend-btn');
+            console.log('clicking legend botom')
+            if (content && btn) {
+                content.classList.toggle('collapsed');
+                btn.classList.toggle('collapsed');
+            }
+            
+            if (content.style.display === 'none') {
+                content.style.display = 'flex';
+            }
+            else {
+                content.style.display = 'none';
+            }
+        }
+    </script>
 </body>
 </html>
