@@ -97,18 +97,26 @@ d3.json("data/transformed/utec_d3_network.json").then(data => {
         console.log("CLIKCEA NODO");
         if (d.dragMoved) return;
         const connectedIds = new Set();
+        const connectedNodes = [];
+
         connectedIds.add(d.id);
         
         data.links.forEach(l => {
-            if (l.source.id === d.id) connectedIds.add(l.target.id);
-            if (l.target.id === d.id) connectedIds.add(l.source.id);
+            if (l.source.id === d.id) {
+                connectedIds.add(l.target.id);
+                connectedNodes.push(l.target);
+            }
+            if (l.target.id === d.id) {
+                connectedIds.add(l.source.id);
+                connectedNodes.push(l.source);
+            }
         });
 
         node.style("opacity", n => connectedIds.has(n.id) ? 1 : 0.1);
         link.style("opacity", l => (l.source.id === d.id || l.target.id === d.id) ? 1 : 0.05)
             .style("stroke", l => (l.source.id === d.id || l.target.id === d.id) ? "#475569" : "#cbd5e1");
 
-        updateSidePanel(d);
+        updateSidePanel(d, connectedNodes);
         event.stopPropagation(); 
     });
     node.style("pointer-events", "all");
@@ -263,7 +271,7 @@ console.count("LEGEND RENDER");
     function mapThematicClusters() {
         clearSidePanel();
         d3.select("#info-panel").select(".placeholder-text")
-            .text("⚙️ Color-coding network by academic department... please wait.")
+            .text("Color-coding network by academic department... please wait.")
             .style("display", "block");
 
         setTimeout(() => {
@@ -300,7 +308,7 @@ console.count("LEGEND RENDER");
     function spotlightEgoNetwork() {
         clearSidePanel();
         d3.select("#info-panel").select(".placeholder-text")
-            .text("⚙️ Isolating the largest faculty ego-network... please wait.")
+            .text("Isolating the largest faculty ego-network... please wait.")
             .style("display", "block");
 
         setTimeout(() => {
@@ -358,7 +366,7 @@ console.count("LEGEND RENDER");
         }
 });
 
-function updateSidePanel(d) {
+function updateSidePanel(d, neighbors = []) {
     const panel = d3.select("#info-panel");
     panel.classed("empty", false);
     panel.select(".placeholder-text").style("display", "none");
@@ -396,22 +404,72 @@ function updateSidePanel(d) {
 
     const bioContainer = d3.select("#bio-container");
     if (d.bio) {
-        bioContainer.style("display", "block");
-        document.getElementById("bio-container").removeAttribute("open");
-        d3.select("#detail-bio").text(d.bio);
+        console.log('has bio');
+        d3.select("#detail-bio")
+            .style("display", "block")
+            .text(d.bio);
+        
+        bioContainer
+            .style("display", "block")
+            .attr("open", false); 
+        
     } else {
         bioContainer.style("display", "none");
+        d3.select("#detail-bio").style("display", "none").text("");
+        document.getElementById("bio-container").open = false;
     }
     
     panel.selectAll("h2, span.badge, div.metrics, p:not(.placeholder-text)").style("display", "block");
+    const neighborsListContainer = d3.select("#neighbors-list");
+    neighborsListContainer.selectAll("*").remove();
+    if (neighbors.length > 0) {
+        d3.select("#neighbors-divider").style("display", "block");
+        d3.select("#neighbors-title").style("display", "block");
+
+        neighborsListContainer.style("display", "block");
+        const groupedNeighbors = d3.group(neighbors, d => d.type);
+        
+        groupedNeighbors.forEach((nodes, type) => {
+            nodes.sort((a, b) => a.id.localeCompare(b.id));
+            const details = neighborsListContainer.append("details")
+                .attr("class", "neighbor-group");
+
+            const summary = details.append("summary")
+                .attr("class", "neighbor-group-title")
+                .style("color", colorScale(type)) 
+                .html(`<strong>${type}</strong> <span class="count-badge">${nodes.length}</span>`);
+
+            const ul = details.append("ul").attr("class", "neighbors-sublist");
+
+            nodes.forEach(neighbor => {
+                const li = ul.append("li")
+                    .attr("class", "neighbor-card")
+                    .style("border-left", `4px solid ${colorScale(neighbor.type)}`);
+
+                li.append("div")
+                    .attr("class", "neighbor-name")
+                    .text(neighbor.id);
+            });
+        });
+    } else {
+        d3.select("#neighbors-divider").style("display", "none");
+        d3.select("#neighbors-title").style("display", "none");
+    }
 }
+
 function clearSidePanel() {
     document.getElementById("node-search").value = "";
     const panel = d3.select("#info-panel");
     panel.classed("empty", true);
-    panel.selectAll("img, h2, span, div, p:not(.placeholder-text), details").text("").style("display", "none");
+    panel.selectAll("img, h2, span, div:not(.placeholder-text), p:not(.placeholder-text), details, ul, h3").text("").style("display", "none");
+    
+    d3.select("#neighbors-list").selectAll("*").remove();
+    d3.select("#neighbors-divider").style("display", "none");
+    d3.select("#neighbors-title").style("display", "none");
+
     panel.select(".placeholder-text").text("Click a node or use Guided Insights to view details.").style("display", "block");
 }
+
 function renderLegend(scale, title) {
     d3.select("#legend-title").text(title);
     const content = d3.select("#legend-content");

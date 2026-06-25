@@ -340,3 +340,51 @@ summary:hover {
     background: #cbd5e1;
     border-radius: 4px;
 }
+
+
+.right-sidebar {
+    width: 320px;
+    background-color: var(--panel-bg);
+    border-left: 1px solid var(--border-color);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: -2px 0 10px rgba(0,0,0,0.02);
+    position: relative;
+    z-index: 9999;
+    overflow-y: auto;
+}
+
+.neighbor-card {
+    padding: 10px;
+    background: #f8fafc;
+    border-top: 1px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    border-radius: 6px;
+    transition: background 0.2s;
+}
+
+.neighbor-card {
+    padding: 10px;
+    background: #f8fafc;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    transition: background 0.2s;
+}
+
+.neighbor-card:hover {
+    background: #f1f5f9;
+}
+
+.neighbor-name {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-main);
+    margin-bottom: 3px;
+}
+
+.neighbor-type {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}

@@ -25,7 +25,6 @@
                     <button id="btn-task4" class="insight-btn">Task 4: Spotlight Top Ego-Network</button>
                 </div>
             </div>
-            <div class="divider"></div>
 
             <div class="search-container">
                 <label for="node-search" style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted);">Buscar Institución / Investigador:</label>
@@ -54,9 +53,13 @@
                 </div>
                 <div id="legend-content" class="legend-content"></div>
             </div>
-            
-            <div class="divider"></div>
+        </aside>
 
+        <main class="viz-container" id="viz-container">
+            <div id="tooltip" class="tooltip" style="opacity: 0;"></div>
+        </main>
+
+        <aside class="right-sidebar" id="right-sidebar">
             <div id="info-panel" class="info-panel empty">
                 <p class="placeholder-text">Click a node to view details.</p>
                 <img id="detail-photo" src="" alt="Profile" style="display:none;">
@@ -71,16 +74,13 @@
                     <summary>Ver biografía completa</summary>
                     <p id="detail-bio"></p>
                 </details>
-                <!-- </div> -->
-                <p id="detail-bio"></p>
+
+                <div class="divider" id="neighbors-divider" style="display:none;"></div>
+                <h3 id="neighbors-title" style="display:none; margin-bottom: 10px; font-size: 0.9rem; color: var(--text-muted);">Immediate Connections</h3>
+                <div id="neighbors-list" class="neighbors-list-container"></div>
             </div>
         </aside>
-
-        <main class="viz-container" id="viz-container">
-            <div id="tooltip" class="tooltip" style="opacity: 0;"></div>
-        </main>
     </div>
-    <div class="divider"></div>
 
     <script src="js/main.js"></script>
     <script>
