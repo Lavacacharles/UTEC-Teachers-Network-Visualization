@@ -411,7 +411,7 @@ function updateSidePanel(d, neighbors = []) {
         
         bioContainer
             .style("display", "block")
-            .attr("open", false); 
+            .attr("open", true); 
         
     } else {
         bioContainer.style("display", "none");
@@ -419,7 +419,7 @@ function updateSidePanel(d, neighbors = []) {
         document.getElementById("bio-container").open = false;
     }
     
-    panel.selectAll("h2, span.badge, div.metrics, p:not(.placeholder-text)").style("display", "block");
+    panel.selectAll("h2, span.badge, div.metrics").style("display", "block");
     const neighborsListContainer = d3.select("#neighbors-list");
     neighborsListContainer.selectAll("*").remove();
     if (neighbors.length > 0) {
@@ -456,17 +456,21 @@ function updateSidePanel(d, neighbors = []) {
         d3.select("#neighbors-title").style("display", "none");
     }
 }
-
 function clearSidePanel() {
     document.getElementById("node-search").value = "";
     const panel = d3.select("#info-panel");
     panel.classed("empty", true);
-    panel.selectAll("img, h2, span, div:not(.placeholder-text), p:not(.placeholder-text), details, ul, h3").text("").style("display", "none");
-    
-    d3.select("#neighbors-list").selectAll("*").remove();
+    panel.selectAll("h2, span.badge, div.metrics, #detail-bio, ul, h3").text("").style("display", "none");
+    d3.select("#detail-photo").attr("src", "").style("display", "none");
+    const areasContainer = d3.select("#detail-areas");
+    areasContainer.selectAll("*").remove();
+    areasContainer.style("display", "none");
+    const neighborsList = d3.select("#neighbors-list");
+    neighborsList.selectAll("*").remove();
+    neighborsList.style("display", "none");
     d3.select("#neighbors-divider").style("display", "none");
     d3.select("#neighbors-title").style("display", "none");
-
+    d3.select("#bio-container").style("display", "none").property("open", false);
     panel.select(".placeholder-text").text("Click a node or use Guided Insights to view details.").style("display", "block");
 }
 
