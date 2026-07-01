@@ -154,6 +154,8 @@ d3.json("data/transformed/utec_d3_network.json").then(data => {
             link.style("opacity", l => (l.source.id === targetNode.id || l.target.id === targetNode.id) ? 1 : 0.02)
                 .style("stroke", l => (l.source.id === targetNode.id || l.target.id === targetNode.id) ? "#475569" : "#cbd5e1");
 
+            console.log("targetNode")
+            console.log(targetNode)
             updateSidePanel(targetNode);
         } else if (searchedId === "") {
             resetView();
@@ -367,6 +369,8 @@ console.count("LEGEND RENDER");
 });
 
 function updateSidePanel(d, neighbors = []) {
+    console.log("updateSidePanel")
+    console.log(d)
     const panel = d3.select("#info-panel");
     panel.classed("empty", false);
     panel.select(".placeholder-text").style("display", "none");

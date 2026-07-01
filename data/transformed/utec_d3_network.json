@@ -10580,9 +10580,9 @@
             "type": "UTEC Faculty",
             "group": 1,
             "dept": "Departamento de Física",
-            "h_index": null,
-            "citations": null,
-            "photo_url": null,
+            "h_index": 56,
+            "citations": 126673,
+            "photo_url": "https://cris.utec.edu.pe/files-asset/32445262/vladimirovich-shmanin-evgenii.jpg?w=320&f=jpg",
             "bio": "Docente de Enseñanza e Investigación Principal en UTEC. Doctor en Física por el Instituto de Física P.N. Lebedev de la Academia de Ciencias de Rusia, especialista en detectores e instrumentación para física de altas energías. Su investigación se enfoca en el desarrollo del calorímetro electromagnético PicoCal para el detector LHCb. Es miembro de la colaboración LHCb en la Organización Europea para la Investigación Nuclear (CERN). Cuenta con experiencia de investigación en instituciones científicas líderes de Rusia y Europa, como la Universidad Nacional de Investigación Nuclear MEPhI, la Universidad Nacional de Ciencia y Tecnología MISIS, el Instituto de Física P.N. Lebedev de la Academia de Ciencias de Rusia, la École Polytechnique Fédérale de Lausanne (EPFL) y el Instituto Nacional de Física Nuclear (INFN).",
             "areas": [
                 "Calorimetría electromagnética",
