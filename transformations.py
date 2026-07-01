@@ -98,7 +98,23 @@ def transform_to_d3_network(input_filepath, output_filepath):
                 "target": org_id,
                 "weight": weight
             })
-
+            
+        for group_name in faculty.get("groups", []):
+            if not group_name or group_name.strip() == "Universidad de Ingeniería y Tecnología - UTEC":
+                continue # Evitamos el nodo gigante inútil
+                
+            if group_name not in nodes_dict:
+                nodes_dict[group_name] = {
+                    "id": group_name,
+                    "type": "Internal Organization", # Usa tu categoría base
+                    "group": 4
+                }
+            
+            links.append({
+                "source": faculty_id,
+                "target": group_name,
+                "weight": 2 # Peso para agrupar visualmente
+            })
     G = nx.Graph()
     for link in links:
         G.add_edge(link["source"], link["target"], weight=link["weight"])

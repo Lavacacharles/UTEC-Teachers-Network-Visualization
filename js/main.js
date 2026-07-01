@@ -140,11 +140,18 @@ d3.json("data/transformed/utec_d3_network.json").then(data => {
         if (targetNode) {
             resetView();
             const connectedIds = new Set();
+            const connectedNodes = [];
             connectedIds.add(targetNode.id);
             
             data.links.forEach(l => {
-                if (l.source.id === targetNode.id) connectedIds.add(l.target.id);
-                if (l.target.id === targetNode.id) connectedIds.add(l.source.id);
+                if (l.source.id === targetNode.id) {
+                    connectedIds.add(l.target.id);
+                    connectedNodes.push(l.target); // <-- Guardamos el nodo destino
+                }
+                if (l.target.id === targetNode.id) {
+                    connectedIds.add(l.source.id);
+                    connectedNodes.push(l.source); // <-- Guardamos el nodo origen
+                }
             });
 
             node.style("opacity", n => connectedIds.has(n.id) ? 1 : 0.05)
@@ -156,7 +163,7 @@ d3.json("data/transformed/utec_d3_network.json").then(data => {
 
             console.log("targetNode")
             console.log(targetNode)
-            updateSidePanel(targetNode);
+            updateSidePanel(targetNode, connectedNodes);
         } else if (searchedId === "") {
             resetView();
         }
@@ -385,16 +392,27 @@ function updateSidePanel(d, neighbors = []) {
     d3.select("#detail-name").text(d.id);
     d3.select("#detail-type").text(d.type);
     
-    d3.select("#detail-hindex").text(
-        d.h_index !== null && d.h_index !== undefined ? `H-Index: ${d.h_index}` : "H-Index: N/A"
-    );
-    d3.select("#detail-citations").text(
-        d.citations !== null && d.citations !== undefined ? `Citas: ${d.citations}` : "Citas: N/A"
-    );
+    // d3.select("#detail-hindex").text(
+    //     d.h_index !== null && d.h_index !== undefined ? `H-Index: ${d.h_index}` : "H-Index: N/A"
+    // );
+    // d3.select("#detail-citations").text(
+    //     d.citations !== null && d.citations !== undefined ? `Citas: ${d.citations}` : "Citas: N/A"
+    // );
+    if (d.h_index !== null && d.h_index !== undefined) {
+        d3.select("#detail-hindex").style("display", "block").text(`H-Index: ${d.h_index}`);
+    } else {
+        d3.select("#detail-hindex").style("display", "none");
+    }
+
+    if (d.citations !== null && d.citations !== undefined) {
+        d3.select("#detail-citations").style("display", "block").text(`Citas: ${d.citations}`);
+    } else {
+        d3.select("#detail-citations").style("display", "none");
+    }
 
     const areasContainer = d3.select("#detail-areas");
     areasContainer.selectAll("*").remove();
-    console.log("CANTIDAD DE AREAS: ", d)
+    
     if (d.areas && d.areas.length > 0) {
         areasContainer.style("display", "flex");
         d.areas.forEach(area => {

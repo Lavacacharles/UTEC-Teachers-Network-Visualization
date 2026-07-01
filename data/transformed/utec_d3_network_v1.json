@@ -14,8 +14,8 @@
                 "Procesamiento de imágenes",
                 "Sistemas embebidos"
             ],
-            "degree_centrality": 0.0076,
-            "betweenness_centrality": 0.0269
+            "degree_centrality": 0.0077,
+            "betweenness_centrality": 0.0272
         },
         {
             "id": "Ruth Rubio-Noriega",
@@ -129,36 +129,36 @@
             "id": "INICTEL-UNI",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0108,
-            "betweenness_centrality": 0.0879
+            "degree_centrality": 0.0109,
+            "betweenness_centrality": 0.0854
         },
         {
             "id": "Universidad Nacional Mayor de San Marcos",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0044,
-            "betweenness_centrality": 0.0085
+            "degree_centrality": 0.0045,
+            "betweenness_centrality": 0.0083
         },
         {
             "id": "Universidad de Ingenieria y Tecnologia - UTEC",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0185,
-            "betweenness_centrality": 0.0501
+            "degree_centrality": 0.0186,
+            "betweenness_centrality": 0.0515
         },
         {
             "id": "University of Campinas (UNICAMP)",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0064,
-            "betweenness_centrality": 0.009
+            "degree_centrality": 0.0065,
+            "betweenness_centrality": 0.0083
         },
         {
             "id": "Pontificia Universidad Católica del Perú",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0064,
-            "betweenness_centrality": 0.0626
+            "degree_centrality": 0.0065,
+            "betweenness_centrality": 0.0627
         },
         {
             "id": "Universidad San Ignacio de Loyola",
@@ -172,7 +172,7 @@
             "type": "Internal Organization",
             "group": 4,
             "degree_centrality": 0.004,
-            "betweenness_centrality": 0.0332
+            "betweenness_centrality": 0.033
         },
         {
             "id": "José Manuel Aguilar Alfaro",
@@ -189,15 +189,8 @@
                 "Gestión Financiera",
                 "Comportamiento del Consumidor"
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
-        },
-        {
-            "id": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0032,
-            "betweenness_centrality": 0.0056
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "Grace Alexandrino Ocaña",
@@ -213,7 +206,7 @@
                 "Antropología",
                 "Estudios de Patrimonio"
             ],
-            "degree_centrality": 0.0052,
+            "degree_centrality": 0.0053,
             "betweenness_centrality": 0.0069
         },
         {
@@ -302,7 +295,7 @@
             "id": "Departamentos Académicos Transversales",
             "type": "Internal Organization",
             "group": 4,
-            "degree_centrality": 0.006,
+            "degree_centrality": 0.0061,
             "betweenness_centrality": 0.0052
         },
         {
@@ -318,8 +311,8 @@
                 "Diseño, fabricación y construcción de estructuras mecánicas.",
                 "Estructuras mecánicas para minería."
             ],
-            "degree_centrality": 0.0096,
-            "betweenness_centrality": 0.0149
+            "degree_centrality": 0.0089,
+            "betweenness_centrality": 0.0137
         },
         {
             "id": "José Luis Mantari Laureano",
@@ -341,8 +334,8 @@
                 "estrés térmico",
                 "estabilidad y seguridad de embarcaciones pesqueras y buques"
             ],
-            "degree_centrality": 0.0309,
-            "betweenness_centrality": 0.0516
+            "degree_centrality": 0.0308,
+            "betweenness_centrality": 0.0474
         },
         {
             "id": "Ruth Canahuire Cabello",
@@ -358,8 +351,8 @@
                 "Robótica médica",
                 "Robótica móvil"
             ],
-            "degree_centrality": 0.0104,
-            "betweenness_centrality": 0.0309
+            "degree_centrality": 0.0097,
+            "betweenness_centrality": 0.0297
         },
         {
             "id": "Wangdo Kim",
@@ -376,8 +369,8 @@
                 "Rehabilitation",
                 "Biocemánica ortopédica"
             ],
-            "degree_centrality": 0.0253,
-            "betweenness_centrality": 0.0301
+            "degree_centrality": 0.0251,
+            "betweenness_centrality": 0.0287
         },
         {
             "id": "Faculdade de Motricidade Humana, Universidade de Lisboa",
@@ -391,28 +384,28 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0
+            "betweenness_centrality": 0.0001
         },
         {
             "id": "Fundación Española para la Ciencia y la Tecnología",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0
+            "betweenness_centrality": 0.0001
         },
         {
             "id": "Fincyt",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0006
+            "betweenness_centrality": 0.0007
         },
         {
             "id": "Universidad de Ingenieria y Tecnologia",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.004,
-            "betweenness_centrality": 0.0267
+            "betweenness_centrality": 0.0205
         },
         {
             "id": "Ci?ncia e Tecnologia",
@@ -440,14 +433,14 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0
+            "betweenness_centrality": 0.0001
         },
         {
             "id": "University of Liverpool",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0362
+            "betweenness_centrality": 0.0349
         },
         {
             "id": "Oregon Health and Science University",
@@ -467,15 +460,15 @@
             "id": "UTEC",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0068,
-            "betweenness_centrality": 0.0381
+            "degree_centrality": 0.0069,
+            "betweenness_centrality": 0.029
         },
         {
             "id": "Facultad de Ingeniería",
             "type": "Internal Organization",
             "group": 4,
-            "degree_centrality": 0.0169,
-            "betweenness_centrality": 0.0172
+            "degree_centrality": 0.017,
+            "betweenness_centrality": 0.017
         },
         {
             "id": "Departamento de Ciencias",
@@ -488,22 +481,8 @@
             "id": "Departamento de Ingeniería Electrónica y Mecatrónica",
             "type": "Internal Organization",
             "group": 4,
-            "degree_centrality": 0.0028,
-            "betweenness_centrality": 0.0038
-        },
-        {
-            "id": "Grupo de investigación en energía y minas",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0036,
-            "betweenness_centrality": 0.0025
-        },
-        {
-            "id": "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0002
+            "degree_centrality": 0.0024,
+            "betweenness_centrality": 0.0036
         },
         {
             "id": "Claudia Antonini Bova",
@@ -523,8 +502,8 @@
                 "sistemas logísticos alimentarios",
                 "logística y ventas del canal tradicional."
             ],
-            "degree_centrality": 0.0092,
-            "betweenness_centrality": 0.0128
+            "degree_centrality": 0.0089,
+            "betweenness_centrality": 0.0098
         },
         {
             "id": "Monica C. Santa-Maria",
@@ -540,8 +519,8 @@
                 "Ingeniería de sistemas biológicos para aplicaciones ambientales",
                 "Epidemiología basada en aguas residuales"
             ],
-            "degree_centrality": 0.0381,
-            "betweenness_centrality": 0.1023
+            "degree_centrality": 0.038,
+            "betweenness_centrality": 0.0961
         },
         {
             "id": "Alberto Donayre Torres",
@@ -558,8 +537,8 @@
                 "Síntesis y producción de bioproductos",
                 "Bioinformática"
             ],
-            "degree_centrality": 0.0177,
-            "betweenness_centrality": 0.0213
+            "degree_centrality": 0.0174,
+            "betweenness_centrality": 0.0199
         },
         {
             "id": "Georgia Institute of Technology",
@@ -594,7 +573,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.004,
-            "betweenness_centrality": 0.0237
+            "betweenness_centrality": 0.0226
         },
         {
             "id": "Universidad Continental",
@@ -608,7 +587,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0028,
-            "betweenness_centrality": 0.0059
+            "betweenness_centrality": 0.0055
         },
         {
             "id": "Facultad de Ciencias Biológicas",
@@ -670,8 +649,8 @@
             "id": "Departamento de Bioingeniería e Ingeniería Química",
             "type": "Internal Organization",
             "group": 4,
-            "degree_centrality": 0.0028,
-            "betweenness_centrality": 0.0012
+            "degree_centrality": 0.0024,
+            "betweenness_centrality": 0.0011
         },
         {
             "id": "Departamento de Ingeniería Civil y Ambiental",
@@ -684,8 +663,8 @@
             "id": "Escuela de Posgrado",
             "type": "Internal Organization",
             "group": 4,
-            "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0004
+            "degree_centrality": 0.0012,
+            "betweenness_centrality": 0.0
         },
         {
             "id": "Sergio Aranda Egusquiza",
@@ -708,8 +687,8 @@
                 "Protocolos de comunicación",
                 "Sistemas inteligentes"
             ],
-            "degree_centrality": 0.0044,
-            "betweenness_centrality": 0.0039
+            "degree_centrality": 0.004,
+            "betweenness_centrality": 0.0038
         },
         {
             "id": "Jhedmar Callupe-Luna",
@@ -760,29 +739,22 @@
             "id": "Grupos de Investigación",
             "type": "Internal Organization",
             "group": 4,
-            "degree_centrality": 0.0088,
-            "betweenness_centrality": 0.0105
+            "degree_centrality": 0.0089,
+            "betweenness_centrality": 0.0102
         },
         {
             "id": "Dirección General de Innovación e Investigación",
             "type": "Internal Organization",
             "group": 4,
-            "degree_centrality": 0.0132,
-            "betweenness_centrality": 0.0139
+            "degree_centrality": 0.0134,
+            "betweenness_centrality": 0.0135
         },
         {
             "id": "Dirección de Investigación",
             "type": "Internal Organization",
             "group": 4,
-            "degree_centrality": 0.0132,
-            "betweenness_centrality": 0.0139
-        },
-        {
-            "id": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0036,
-            "betweenness_centrality": 0.011
+            "degree_centrality": 0.0134,
+            "betweenness_centrality": 0.0135
         },
         {
             "id": "Patricia Araujo Pantoja",
@@ -802,8 +774,8 @@
                 "Biogás y energías de biomasa",
                 "Procesos químicos industriales,"
             ],
-            "degree_centrality": 0.0112,
-            "betweenness_centrality": 0.018
+            "degree_centrality": 0.0109,
+            "betweenness_centrality": 0.0177
         },
         {
             "id": "Claudio Augusto Oller Nascimento",
@@ -972,7 +944,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0021
+            "betweenness_centrality": 0.002
         },
         {
             "id": "Butantan Institute",
@@ -1017,8 +989,8 @@
                 "Elementos micro-finitos",
                 "Estructura ósea"
             ],
-            "degree_centrality": 0.004,
-            "betweenness_centrality": 0.007
+            "degree_centrality": 0.0036,
+            "betweenness_centrality": 0.0
         },
         {
             "id": "Bert van Rietbergen",
@@ -1102,13 +1074,6 @@
             "betweenness_centrality": 0.0
         },
         {
-            "id": "Centro de Investigación en Bioingeniería - BIO",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0072,
-            "betweenness_centrality": 0.0121
-        },
-        {
             "id": "Walter Sebastian Barrutia Alta",
             "type": "UTEC Faculty",
             "group": 1,
@@ -1181,8 +1146,8 @@
                 "materiales concretos en 3D",
                 "sistemas estructurales con materiales reciclados."
             ],
-            "degree_centrality": 0.0104,
-            "betweenness_centrality": 0.0225
+            "degree_centrality": 0.0093,
+            "betweenness_centrality": 0.0085
         },
         {
             "id": "Carlos Alberto Benedetty Torres",
@@ -1201,14 +1166,14 @@
                 "Estructuras mixtas de acero-concreto.",
                 "Concretos con agregados reciclados"
             ],
-            "degree_centrality": 0.0072,
-            "betweenness_centrality": 0.0116
+            "degree_centrality": 0.0069,
+            "betweenness_centrality": 0.0048
         },
         {
             "id": "Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0044,
+            "degree_centrality": 0.0045,
             "betweenness_centrality": 0.016
         },
         {
@@ -1236,8 +1201,8 @@
             "id": "Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0048,
-            "betweenness_centrality": 0.0076
+            "degree_centrality": 0.0049,
+            "betweenness_centrality": 0.0073
         },
         {
             "id": "Idaho State University College of Science and Engineering",
@@ -1310,27 +1275,6 @@
             "betweenness_centrality": 0.0
         },
         {
-            "id": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0185
-        },
-        {
-            "id": "Centro de Investigación del Cemento y Concreto - CIC",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0008
-        },
-        {
-            "id": "Centro de Investigación y Conservación del Patrimonio",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0001
-        },
-        {
             "id": "Omar Bejarano Grández",
             "type": "UTEC Faculty",
             "group": 1,
@@ -1345,8 +1289,8 @@
                 "análisis modal",
                 "térmico de sólidos y fluidos"
             ],
-            "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "Jesús Edwin Bellido Angulo",
@@ -1363,8 +1307,8 @@
                 "Arquitectura Orientada a Servicios",
                 "Big Data"
             ],
-            "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0039
+            "degree_centrality": 0.002,
+            "betweenness_centrality": 0.0
         },
         {
             "id": "Rosa Alarcón",
@@ -1412,13 +1356,6 @@
             "betweenness_centrality": 0.0
         },
         {
-            "id": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0047
-        },
-        {
             "id": "Universidade Presbiteriana Mackenzie",
             "type": "External Organization",
             "group": 3,
@@ -1437,7 +1374,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Federal University of São Carlos",
@@ -1465,7 +1402,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0032,
-            "betweenness_centrality": 0.016
+            "betweenness_centrality": 0.0119
         },
         {
             "id": "Federal Univ. of Juiz de Fora",
@@ -1479,7 +1416,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0038
+            "betweenness_centrality": 0.0014
         },
         {
             "id": "Engineering and Technology",
@@ -1533,8 +1470,8 @@
                 "Bioingeniería",
                 "Inteligencia Artificial"
             ],
-            "degree_centrality": 0.0036,
-            "betweenness_centrality": 0.0062
+            "degree_centrality": 0.0032,
+            "betweenness_centrality": 0.0
         },
         {
             "id": "Yasuhisa Hirata",
@@ -1622,8 +1559,8 @@
                 "robótica autónoma",
                 "ontrol de movimiento para robots móviles y redundantes con base en visión computacional y deep reinforcement learning."
             ],
-            "degree_centrality": 0.0112,
-            "betweenness_centrality": 0.0175
+            "degree_centrality": 0.0109,
+            "betweenness_centrality": 0.0147
         },
         {
             "id": "Emir Augusto Vela Saavedra",
@@ -1640,8 +1577,8 @@
                 "MicroRobótica",
                 "Dispositivos sensoriales"
             ],
-            "degree_centrality": 0.0301,
-            "betweenness_centrality": 0.0316
+            "degree_centrality": 0.0295,
+            "betweenness_centrality": 0.0313
         },
         {
             "id": "Julio Ernesto Valdivia Silva",
@@ -1661,7 +1598,7 @@
                 "tecnología de laboratorio en un chip."
             ],
             "degree_centrality": 0.0498,
-            "betweenness_centrality": 0.0667
+            "betweenness_centrality": 0.0656
         },
         {
             "id": "Centro de Investigación en Bioingenieria - BIO",
@@ -1689,7 +1626,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0005
+            "betweenness_centrality": 0.0008
         },
         {
             "id": "Fontys Hogeschool Engineering en Automotive",
@@ -1703,7 +1640,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0132
+            "betweenness_centrality": 0.013
         },
         {
             "id": "Departamento de Ingeniería Mecánica y de la Energía",
@@ -1732,8 +1669,8 @@
                 "aprendizaje automático en inmunología",
                 "modelamiento de fluidos a macroescala en sistemas biológicos"
             ],
-            "degree_centrality": 0.0169,
-            "betweenness_centrality": 0.0281
+            "degree_centrality": 0.0166,
+            "betweenness_centrality": 0.0271
         },
         {
             "id": "Leighton Leandro Estrada Rayme",
@@ -1948,7 +1885,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0021
+            "betweenness_centrality": 0.0022
         },
         {
             "id": "Elephas",
@@ -2034,8 +1971,8 @@
                 "Grandes modelos de lenguaje (LLMs)",
                 "Minería de procesos (minería de flujos)"
             ],
-            "degree_centrality": 0.0273,
-            "betweenness_centrality": 0.0503
+            "degree_centrality": 0.0275,
+            "betweenness_centrality": 0.0494
         },
         {
             "id": "Sarajane M. Peres",
@@ -2626,8 +2563,8 @@
                 "Teoría de Riesgo",
                 "Procesos Estocásticos y Probabilidad Aplicada"
             ],
-            "degree_centrality": 0.0152,
-            "betweenness_centrality": 0.0203
+            "degree_centrality": 0.0146,
+            "betweenness_centrality": 0.0189
         },
         {
             "id": "Anna Sikov",
@@ -2802,14 +2739,14 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0007
+            "betweenness_centrality": 0.0009
         },
         {
             "id": "University of Cambridge",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0007
+            "betweenness_centrality": 0.0008
         },
         {
             "id": "University of Colorado Boulder",
@@ -2847,13 +2784,6 @@
             "betweenness_centrality": 0.0
         },
         {
-            "id": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0031
-        },
-        {
             "id": "Samuel Charca Mamani",
             "type": "UTEC Faculty",
             "group": 1,
@@ -2868,8 +2798,8 @@
                 "Caracterización de materiales para robótica blanda",
                 "Evaluación de daños en materiales estructurales"
             ],
-            "degree_centrality": 0.0241,
-            "betweenness_centrality": 0.0245
+            "degree_centrality": 0.0239,
+            "betweenness_centrality": 0.0237
         },
         {
             "id": "Carmen Elena Flores Barreda",
@@ -2886,8 +2816,8 @@
                 "Recuperación de residuos industriales",
                 "Materiales compuestos para construcción"
             ],
-            "degree_centrality": 0.0152,
-            "betweenness_centrality": 0.0163
+            "degree_centrality": 0.015,
+            "betweenness_centrality": 0.0161
         },
         {
             "id": "University Carlos III of Madrid",
@@ -2978,7 +2908,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0011
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Technical and Vocational University",
@@ -3041,14 +2971,14 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0062
+            "betweenness_centrality": 0.006
         },
         {
             "id": "Department of Electrical and Computer Engineering at the University of New Mexico",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0032,
-            "betweenness_centrality": 0.0048
+            "betweenness_centrality": 0.0047
         },
         {
             "id": "MIT Media Lab",
@@ -3103,8 +3033,8 @@
             "id": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0048,
-            "betweenness_centrality": 0.0035
+            "degree_centrality": 0.0049,
+            "betweenness_centrality": 0.0032
         },
         {
             "id": "Doctoral Program of Civil Engineering of the Universidad Nacional de Santa",
@@ -3177,6 +3107,13 @@
             "betweenness_centrality": 0.0001
         },
         {
+            "id": "Centro de Investigación en Bioingeniería - BIO",
+            "type": "Internal Organization",
+            "group": 4,
+            "degree_centrality": 0.0024,
+            "betweenness_centrality": 0.0019
+        },
+        {
             "id": "Xyoby Chavez Pacheco",
             "type": "UTEC Faculty",
             "group": 1,
@@ -3208,8 +3145,8 @@
                 "remoción y recuperación de nutrientes",
                 "procesos de potabilización"
             ],
-            "degree_centrality": 0.0028,
-            "betweenness_centrality": 0.0047
+            "degree_centrality": 0.0024,
+            "betweenness_centrality": 0.0
         },
         {
             "id": "John Kuhn",
@@ -3266,13 +3203,6 @@
             "betweenness_centrality": 0.0
         },
         {
-            "id": "Centro de Investigación y Tecnología del Agua - CITA",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0055
-        },
-        {
             "id": "Fabien Cornillier",
             "type": "UTEC Faculty",
             "group": 1,
@@ -3287,8 +3217,8 @@
                 "métodos heurísticos",
                 "aplicaciones en problemas de logística y de planificación (en particular: transporte, minería)."
             ],
-            "degree_centrality": 0.012,
-            "betweenness_centrality": 0.0226
+            "degree_centrality": 0.0117,
+            "betweenness_centrality": 0.0213
         },
         {
             "id": "Fayez F. Boctor",
@@ -3402,7 +3332,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0014
+            "betweenness_centrality": 0.0013
         },
         {
             "id": "University of Buckingham",
@@ -3430,7 +3360,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.002
+            "betweenness_centrality": 0.0019
         },
         {
             "id": "Consejo Nacional de Innovación, Ciencia y Tecnología",
@@ -3472,7 +3402,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0065
+            "betweenness_centrality": 0.0064
         },
         {
             "id": "CIRRELT",
@@ -3501,15 +3431,8 @@
                 "Género",
                 "Arte"
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
-        },
-        {
-            "id": "Centro de Impacto y Responsabilidad Social - CIRSO",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0016
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "Jose De La Puente Maldonado",
@@ -3524,8 +3447,8 @@
                 "Opeaciones industriales",
                 "Gestión empresarial"
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "José Andrés De Leo Martínez",
@@ -3541,8 +3464,8 @@
                 "Materialidad y técnicas de patrimonio cultural",
                 "Curaduría y museografía"
             ],
-            "degree_centrality": 0.0068,
-            "betweenness_centrality": 0.008
+            "degree_centrality": 0.0065,
+            "betweenness_centrality": 0.0078
         },
         {
             "id": "Edwin Torres-Salazar",
@@ -3653,8 +3576,8 @@
                 "Representation Learning",
                 "Robótica"
             ],
-            "degree_centrality": 0.0193,
-            "betweenness_centrality": 0.0472
+            "degree_centrality": 0.019,
+            "betweenness_centrality": 0.045
         },
         {
             "id": "Miguel P. Eckstein",
@@ -3839,14 +3762,14 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0006
+            "betweenness_centrality": 0.0004
         },
         {
             "id": "National Science Foundation",
             "type": "External Organization",
             "group": 3,
-            "degree_centrality": 0.0048,
-            "betweenness_centrality": 0.0055
+            "degree_centrality": 0.0049,
+            "betweenness_centrality": 0.0054
         },
         {
             "id": "Institute for Collaborative Biotechnologies",
@@ -3895,7 +3818,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0049
+            "betweenness_centrality": 0.0048
         },
         {
             "id": "Directorate for Computer and Information Science and Engineering",
@@ -3916,7 +3839,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0164
+            "betweenness_centrality": 0.016
         },
         {
             "id": "Harvard Vision Sciences Laboratory",
@@ -3972,7 +3895,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0081
+            "betweenness_centrality": 0.0078
         },
         {
             "id": "Universidad de Ingeniería y Tecnología - UTEC",
@@ -3993,7 +3916,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0371
+            "betweenness_centrality": 0.0362
         },
         {
             "id": "CINVESTAV-IPN",
@@ -4091,7 +4014,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0032,
-            "betweenness_centrality": 0.0052
+            "betweenness_centrality": 0.0049
         },
         {
             "id": "National Institute of Genomic Medicine (INMEGEN)",
@@ -4129,6 +4052,13 @@
             "betweenness_centrality": 0.0
         },
         {
+            "id": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+            "type": "Internal Organization",
+            "group": 4,
+            "degree_centrality": 0.0012,
+            "betweenness_centrality": 0.0011
+        },
+        {
             "id": "Jose Fiestas Iquira",
             "type": "UTEC Faculty",
             "group": 1,
@@ -4142,8 +4072,8 @@
                 "Desarrollo de algoritmos para GPU y sistemas híbridos (CPU+GPU)",
                 "Desarrollo de Hardware y Software para HPC"
             ],
-            "degree_centrality": 0.0096,
-            "betweenness_centrality": 0.0178
+            "degree_centrality": 0.0093,
+            "betweenness_centrality": 0.0001
         },
         {
             "id": "Rainer Spurzem",
@@ -4369,8 +4299,8 @@
                 "ingeniería de bioprocesos",
                 "mejora del proceso de electrodeposición de cobre utilizando soluciones libres de cianuro"
             ],
-            "degree_centrality": 0.0092,
-            "betweenness_centrality": 0.012
+            "degree_centrality": 0.0093,
+            "betweenness_centrality": 0.0112
         },
         {
             "id": "Ursula Rodriguez Zuñiga",
@@ -4389,8 +4319,8 @@
                 "Fermentación para producción de enzimas",
                 "Biocombustibles"
             ],
-            "degree_centrality": 0.0136,
-            "betweenness_centrality": 0.0208
+            "degree_centrality": 0.0138,
+            "betweenness_centrality": 0.0199
         },
         {
             "id": "Eduardo Torroja Institute (IETcc-CSIC)",
@@ -4509,7 +4439,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0142
+            "betweenness_centrality": 0.0138
         },
         {
             "id": "Luis Ernesto Flores Luyo",
@@ -4521,8 +4451,8 @@
             "photo_url": null,
             "bio": "",
             "areas": [],
-            "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0039
+            "degree_centrality": 0.002,
+            "betweenness_centrality": 0.0
         },
         {
             "id": "Rosa Figueiredo",
@@ -4583,8 +4513,8 @@
                 "Interfase Cerebro Computadora (BCI)",
                 "aprendizaje automático para clasificación y pronóstico en diversas aplicaciones"
             ],
-            "degree_centrality": 0.0161,
-            "betweenness_centrality": 0.0194
+            "degree_centrality": 0.0158,
+            "betweenness_centrality": 0.0187
         },
         {
             "id": "Eunice Villicaña Ortiz",
@@ -4600,8 +4530,8 @@
                 "Eficiencia energética",
                 "Ingeniería electrónica"
             ],
-            "degree_centrality": 0.0104,
-            "betweenness_centrality": 0.019
+            "degree_centrality": 0.0101,
+            "betweenness_centrality": 0.0176
         },
         {
             "id": "Jimmy Tarrillo Olano",
@@ -4620,8 +4550,8 @@
                 "adquisición de señales",
                 "sistemas embebidos"
             ],
-            "degree_centrality": 0.0185,
-            "betweenness_centrality": 0.0239
+            "degree_centrality": 0.0178,
+            "betweenness_centrality": 0.0176
         },
         {
             "id": "Deyby Huamanchahua Canchanya",
@@ -4633,8 +4563,8 @@
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170519/huamanchaua_canchanya_deyby.jpg?w=160&f=jpg",
             "bio": "Doctor en Ciencias de Ingeniería con especialidad en Mecatrónica y Materiales Avanzados en el Instituto Tecnológico de Estudios Superiores de Monterrey. Egresado del Postgrado de la Maestría en Ingeniería con mención en Automatización y Control del Instituto Tecnológico de Estudios Superiores de Monterrey con Mención Honorifica de Excelencia Académica. Egresado en Ingeniería Electrónica de la Escuela de Ingeniería Electrónica de la Universidad San Martín de Porres. Miembro actual de la sociedad de honor de la IEEE-Eta Kappa Nu. Especialista en Tecnologías de la Información enfocadas a la Educación mediante el uso de Tecnologías Emergentes y Visión Artificial 3D. Actualmente colaboro en proyectos con el Grupo de Investigación de Biomecatrónica en el Laboratorio Nacional de Robótica del Área Noreste y Centro de México. Docente e investigador en el Universidad de Ingeniería y Tecnología - UTEC en las líneas de investigación de visión artificial 3D y bioróbotica. Los temas de investigación que realizó son en el área de Exoesqueletos, Prótesis Robóticas y Háptica utilizando Realidad Aumentada y Realidad Virtual para las Terapias de Rehabilitación. Consultor externo experto en tecnologías e Industria 4.0 en CEPLAN.",
             "areas": [],
-            "degree_centrality": 0.0124,
-            "betweenness_centrality": 0.0111
+            "degree_centrality": 0.0113,
+            "betweenness_centrality": 0.0094
         },
         {
             "id": "University of Essex",
@@ -4676,7 +4606,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0006
+            "betweenness_centrality": 0.0008
         },
         {
             "id": "Division of Electronics Engineering",
@@ -4718,7 +4648,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0038
+            "betweenness_centrality": 0.0036
         },
         {
             "id": "Qinglan Project of Jiangsu Province of China",
@@ -4753,7 +4683,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.004,
-            "betweenness_centrality": 0.0023
+            "betweenness_centrality": 0.0022
         },
         {
             "id": "Natural Science Key Foundation of Jiangsu Education Department",
@@ -4791,7 +4721,7 @@
                 "dinámica no lineal y conexiones entre gravedad y termodinámica"
             ],
             "degree_centrality": 0.0526,
-            "betweenness_centrality": 0.0855
+            "betweenness_centrality": 0.0844
         },
         {
             "id": "Sashwat Tanay",
@@ -4872,7 +4802,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0055
+            "betweenness_centrality": 0.0056
         },
         {
             "id": "High Energy Accelerator Research Organization (KEK)",
@@ -4886,7 +4816,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0055
+            "betweenness_centrality": 0.0056
         },
         {
             "id": "University of KwaZulu-Natal",
@@ -4928,7 +4858,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0012
+            "betweenness_centrality": 0.0011
         },
         {
             "id": "NIST Quantum Sensors Group",
@@ -5005,7 +4935,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0023
+            "betweenness_centrality": 0.0021
         },
         {
             "id": "University of Pennsylvania School of Arts and Sciences",
@@ -5110,7 +5040,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0043
+            "betweenness_centrality": 0.0038
         },
         {
             "id": "Rutgers the State University of New Jersey",
@@ -5355,7 +5285,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0032
+            "betweenness_centrality": 0.003
         },
         {
             "id": "Pennsylvania State University",
@@ -5495,7 +5425,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0057
+            "betweenness_centrality": 0.0059
         },
         {
             "id": "University of Texas",
@@ -5530,21 +5460,21 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0096
+            "betweenness_centrality": 0.01
         },
         {
             "id": "Universidad de Concepción—UdeC",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0086
+            "betweenness_centrality": 0.0084
         },
         {
             "id": "Texas A and M University",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.002,
-            "betweenness_centrality": 0.0107
+            "betweenness_centrality": 0.0101
         },
         {
             "id": "San Diego Supercomputer Center",
@@ -5593,7 +5523,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0032
+            "betweenness_centrality": 0.0022
         },
         {
             "id": "Leiden University",
@@ -5614,13 +5544,6 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
-        },
-        {
-            "id": "Grupo de Investigación en Física Fundamental (GIFF)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0012,
             "betweenness_centrality": 0.0
         },
         {
@@ -5656,8 +5579,8 @@
                 "análisis espacio-temporales",
                 "computación aplicada a problemas sociales"
             ],
-            "degree_centrality": 0.0217,
-            "betweenness_centrality": 0.0309
+            "degree_centrality": 0.0214,
+            "betweenness_centrality": 0.0293
         },
         {
             "id": "Jorge Poco",
@@ -5974,8 +5897,8 @@
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170336/gonzales_reano_jorge.jpg?w=160&f=jpg",
             "bio": "Ingeniero Electrónico graduado por la Universidad Privada Antenor Orrego en 2008. Maestría en el área de Microelectrónica por la Universidad de São Paulo en 2013. Doctorado en Ciencia de la Computación por la Universidad de Campinas en 2021. Investigador colaborador del Lightwave Research Laboratory de Columbia University, NY. Sus áreas de interés son arquitectura de computadores, interconexiones ópticas integradas, sistemas de memoria y tráfico intra-chip.",
             "areas": [],
-            "degree_centrality": 0.0181,
-            "betweenness_centrality": 0.0241
+            "degree_centrality": 0.0182,
+            "betweenness_centrality": 0.0237
         },
         {
             "id": "Rodolfo Azevedo",
@@ -6183,7 +6106,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0031
+            "betweenness_centrality": 0.0032
         },
         {
             "id": "Sao Paulo Research Foundation",
@@ -6249,8 +6172,8 @@
                 "Farmacogenomica",
                 "Inmunogenomica"
             ],
-            "degree_centrality": 0.0754,
-            "betweenness_centrality": 0.1357
+            "degree_centrality": 0.0761,
+            "betweenness_centrality": 0.1341
         },
         {
             "id": "Instituto Nacional de Salud, Lima",
@@ -6264,7 +6187,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0045
+            "betweenness_centrality": 0.0039
         },
         {
             "id": "INBIOMEDIC Research and Technological Center",
@@ -6278,14 +6201,14 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0015
+            "betweenness_centrality": 0.0017
         },
         {
             "id": "Universidad Científica del Sur",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0185
+            "betweenness_centrality": 0.0174
         },
         {
             "id": "Asociación Latinoamericana de Biotecnología (NGO-ALBIOTEC)",
@@ -6362,7 +6285,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.017
+            "betweenness_centrality": 0.0161
         },
         {
             "id": "The Alan Turing Institute",
@@ -6551,7 +6474,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0055
+            "betweenness_centrality": 0.0056
         },
         {
             "id": "Instituto Nacional de Ciencias Neurológicas",
@@ -6656,7 +6579,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0193
+            "betweenness_centrality": 0.0192
         },
         {
             "id": "Icahn School of Medicine at Mount Sinai",
@@ -6733,7 +6656,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0055
+            "betweenness_centrality": 0.0056
         },
         {
             "id": "Laboratorio de Biología Molecular y Biotecnología - Instituto Nacional de Salud",
@@ -6754,7 +6677,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.009
+            "betweenness_centrality": 0.0091
         },
         {
             "id": "Sociedad de Genética Médica del Perú",
@@ -6845,14 +6768,14 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0014
         },
         {
             "id": "University of Zurich",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0245
+            "betweenness_centrality": 0.0248
         },
         {
             "id": "Queensland University of Technology",
@@ -6978,14 +6901,14 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0083
+            "betweenness_centrality": 0.0084
         },
         {
             "id": "University of Minnesota Twin Cities",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0055
+            "betweenness_centrality": 0.0056
         },
         {
             "id": "Keck School of Medicine of USC",
@@ -7020,7 +6943,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0055
+            "betweenness_centrality": 0.0056
         },
         {
             "id": "Clínica San Felipe",
@@ -7083,7 +7006,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0012
+            "betweenness_centrality": 0.0013
         },
         {
             "id": "Boston Children’s Hospital",
@@ -7397,8 +7320,8 @@
                 "desarrollo de software científico",
                 "investigación educativa en ingeniería"
             ],
-            "degree_centrality": 0.0457,
-            "betweenness_centrality": 0.0783
+            "degree_centrality": 0.0461,
+            "betweenness_centrality": 0.0767
         },
         {
             "id": "J. D. Abad",
@@ -8056,7 +7979,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0006
+            "betweenness_centrality": 0.0004
         },
         {
             "id": "Universidad Nacional del Litoral",
@@ -8189,7 +8112,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.002
+            "betweenness_centrality": 0.0019
         },
         {
             "id": "Red de Investigación en Ecohidrología y Ecohidráulica (REDECOHH)",
@@ -8231,7 +8154,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0028
+            "betweenness_centrality": 0.0026
         },
         {
             "id": "Juan Gabriel Gutierrez Alva",
@@ -8243,8 +8166,8 @@
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170355/gutierrez_alva_juan.jpg?w=160&f=jpg",
             "bio": "Magíster en Ciencia de la Computación y Ph.D. en Ciencia de la Computación del Instituto de Matemáticas y Estadística (IME) de la Universidad de Sao Paulo (USP). Sus áreas de interés son Teoría de Grafos, Algoritmos, Optimización Combinatoria y Teoría de la Computación.",
             "areas": [],
-            "degree_centrality": 0.0084,
-            "betweenness_centrality": 0.0119
+            "degree_centrality": 0.0081,
+            "betweenness_centrality": 0.0096
         },
         {
             "id": "C. G. Fernandes",
@@ -8307,7 +8230,7 @@
             "h_index": null,
             "citations": null,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0007
+            "betweenness_centrality": 0.0008
         },
         {
             "id": "Universidade Federal do Rio de Janeiro",
@@ -8335,14 +8258,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.004
-        },
-        {
-            "id": "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0016
+            "betweenness_centrality": 0.0034
         },
         {
             "id": "Julio Gutierrez Alva",
@@ -8354,7 +8270,7 @@
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170374/gutierrez_alva_julio.jpg?w=160&f=jpg",
             "bio": "Matemático con interés en geometría algebraica, geometría no conmutativa y topología algebraica.",
             "areas": [],
-            "degree_centrality": 0.0008,
+            "degree_centrality": 0.0004,
             "betweenness_centrality": 0.0
         },
         {
@@ -8368,7 +8284,7 @@
             "bio": "MBA, Marketing y Gestión de Tecnologías de la Información. Ha culminado el doctorado en Administración, con una investigación en estrategias de promoción de consumo sostenible, en estudiantes universitarios. Marketero de profesión, con más de 20 años de experiencia ocupando puestos gerenciales en empresas de innovación. Fue parte del equipo pionero que implementó el Internet en Perú, así como de la primera empresa latinoamericana en ofrecer servicios de Geo-Business Intelligence. Consultor nacional e internacional, cuenta con 15 años de experiencia académica, como docente y como director de carreras universitarias.",
             "areas": [],
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0016
+            "betweenness_centrality": 0.0015
         },
         {
             "id": "Niria Marleny Goñi Avila",
@@ -8401,8 +8317,8 @@
                 "neurociencia",
                 "amazonas y poblaciones nativas."
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "Daniel Vicente Horna Muñoz",
@@ -8422,8 +8338,8 @@
                 "inundaciones",
                 "Modelos computacionales tridimensionales y bidimensionales de dinámica de fluidos para estudiar una variedad de fluidos ambientales y problemas de ingeniería"
             ],
-            "degree_centrality": 0.0377,
-            "betweenness_centrality": 0.0751
+            "degree_centrality": 0.0372,
+            "betweenness_centrality": 0.0727
         },
         {
             "id": "S. G. Constantinescu",
@@ -8943,7 +8859,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0026
+            "betweenness_centrality": 0.0024
         },
         {
             "id": "Oak Ridge Leadership Computing Facility",
@@ -9016,13 +8932,6 @@
             "betweenness_centrality": 0.0
         },
         {
-            "id": "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0
-        },
-        {
             "id": "Rocío Hoyos Diaz",
             "type": "UTEC Faculty",
             "group": 1,
@@ -9047,7 +8956,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.001
+            "betweenness_centrality": 0.0011
         },
         {
             "id": "Universidad Tecnológica de Pereira",
@@ -9117,7 +9026,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0036
+            "betweenness_centrality": 0.0033
         },
         {
             "id": "Universidad Nacional de Trujillo",
@@ -9125,13 +9034,6 @@
             "group": 3,
             "degree_centrality": 0.0012,
             "betweenness_centrality": 0.0004
-        },
-        {
-            "id": "Grupo de Investigación en Innovación Educativa y Competencia Docente (INECOD)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
         },
         {
             "id": "Dante Inga Narvaez",
@@ -9143,8 +9045,8 @@
             "photo_url": "https://cris.utec.edu.pe/files-asset/19170535/inga_narvaez_dante.jpg?w=160&f=jpg",
             "bio": "Doctor en Ingeniería Eléctrica por la Universidade Estadual de Campinas (Brasil) e Ingeniero Electrónico por la Universidad Nacional de Ingeniería (Perú). Sus áreas de investigación incluyen: control inteligente, modelado y control de sistemas mecatrónicos, electrónica de potencia y sistemas de generación distribuida basados en energías renovables.",
             "areas": [],
-            "degree_centrality": 0.0116,
-            "betweenness_centrality": 0.0127
+            "degree_centrality": 0.0109,
+            "betweenness_centrality": 0.0122
         },
         {
             "id": "Elvis Jara Alegria",
@@ -9163,7 +9065,7 @@
                 "; inteligencia artificial",
                 "aprendizaje automático"
             ],
-            "degree_centrality": 0.0048,
+            "degree_centrality": 0.0045,
             "betweenness_centrality": 0.002
         },
         {
@@ -9281,8 +9183,8 @@
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171193/nunez_ochoa_moises.jpg?w=160&f=jpg",
             "bio": "Moisés Núñez Ochoa es Ingeniero de I+D+i en Telecomunicaciones e Informática. Doctor por la UGA-Francia (ex. Joseph Fourier), CEA-Leti, y Laboratorio de Informática de Grenoble. Soluciones LPWAN orientados a la industria IoT del futuro durante 3 años. Evaluación de la eficazidad energética de la tecnología LoRa para redes adaptativas. Proposición de protocolos de adaptación de redes LoRa. Desarrollo de un simulador de redes de captores WSNet. Ingeniero I+D en interacción ondas electromagnéticas-personas en la empresa Orange Labs durante 6 meses. Analizó la exposición electromagnética de los niños a los nuevos sistemas de comunicaciones inalámbricos. Núñez cuenta con una maestría en Sistemas de Telecomunicaciones por la gran escuela de ingenieros Telecom Bretagne (Francia) y grado de bachiller en Ingeniería de Telecomunicaciones por la UNI. Moisés Núñez se ha desempeñado como investigador en el INICTEL-UNI entre los años 2012 y 2013. Trabajó en el desarrollo de un aplicativo Android para salud móvil en zonas rurales. Trabajó en el proyecto de investigación Desarrollo de Sistema de Comunicación para el Monitoreo y Supervisión de la Bio-diversidad Peruana que se realizo en conjunto con diversas instituciones de Huancavelica. Sus áreas de interés son: la exposición electromagnética de los sistemas de telecomunicaciones inalámbricos y su impacto en las personas, las comunicaciones inalámbricos, redes de sensores, IoT, la 5G, eficiencia energética, smart city, protocoles de comunicaciones, interferencias. También se interesa a la gestión de proyectos innovadores con alto valor, startups, y la trasferencia tecnológica. Actualmente Moisés NUÑEZ es Full-Time Professor en el Departamento de Electrónica de la Universidad de Ingeniería y Tecnología - UTEC.",
             "areas": [],
-            "degree_centrality": 0.0144,
-            "betweenness_centrality": 0.0168
+            "degree_centrality": 0.0142,
+            "betweenness_centrality": 0.0162
         },
         {
             "id": "Federal University of Paraíba",
@@ -9609,6 +9511,13 @@
             "betweenness_centrality": 0.0
         },
         {
+            "id": "Grupo de investigación en energía y minas",
+            "type": "Internal Organization",
+            "group": 4,
+            "degree_centrality": 0.0004,
+            "betweenness_centrality": 0.0
+        },
+        {
             "id": "Jose Larco Martinelli",
             "type": "UTEC Faculty",
             "group": 1,
@@ -9623,8 +9532,8 @@
                 "sistemas logísticos alimentarios",
                 "sistemas de distribución del canal tradicional"
             ],
-            "degree_centrality": 0.0064,
-            "betweenness_centrality": 0.0098
+            "degree_centrality": 0.0061,
+            "betweenness_centrality": 0.0091
         },
         {
             "id": "Jan C. Fransoo",
@@ -9739,8 +9648,8 @@
                 "Procesamiento de imágenes",
                 "Data Mining"
             ],
-            "degree_centrality": 0.0197,
-            "betweenness_centrality": 0.0368
+            "degree_centrality": 0.0194,
+            "betweenness_centrality": 0.0348
         },
         {
             "id": "Luciano Arnaldo Romero Calla",
@@ -9778,7 +9687,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0002
+            "betweenness_centrality": 0.0001
         },
         {
             "id": "Prosus AI",
@@ -9939,7 +9848,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.002
+            "betweenness_centrality": 0.0019
         },
         {
             "id": "Banco Mundial, Concytec",
@@ -9960,7 +9869,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0088
+            "betweenness_centrality": 0.0084
         },
         {
             "id": "Vingroup Joint Stock Company",
@@ -10046,8 +9955,8 @@
                 "Centrales de Ciclo Combinado",
                 "Centrales Térmicas Convencionales"
             ],
-            "degree_centrality": 0.0152,
-            "betweenness_centrality": 0.0158
+            "degree_centrality": 0.0146,
+            "betweenness_centrality": 0.0152
         },
         {
             "id": "Instituto Superior Técnico",
@@ -10075,7 +9984,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0001
+            "betweenness_centrality": 0.0002
         },
         {
             "id": "Gebze Technical University",
@@ -10321,8 +10230,8 @@
                 "Patrimonio y su gestión participativa",
                 "antropología del movimiento e Interacciones interregionales"
             ],
-            "degree_centrality": 0.0213,
-            "betweenness_centrality": 0.0361
+            "degree_centrality": 0.021,
+            "betweenness_centrality": 0.0333
         },
         {
             "id": "Parker VanValkenburgh",
@@ -10527,7 +10436,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0023
+            "betweenness_centrality": 0.0021
         },
         {
             "id": "Vanderbilt University",
@@ -10663,17 +10572,17 @@
                 "Física de hadrones pesados",
                 "Física Computacional"
             ],
-            "degree_centrality": 0.2135,
-            "betweenness_centrality": 0.2819
+            "degree_centrality": 0.2149,
+            "betweenness_centrality": 0.2747
         },
         {
             "id": "Evgenii Vladimirovich Shmanin",
             "type": "UTEC Faculty",
             "group": 1,
             "dept": "Departamento de Física",
-            "h_index": null,
-            "citations": null,
-            "photo_url": null,
+            "h_index": 56,
+            "citations": 126673,
+            "photo_url": "https://cris.utec.edu.pe/files-asset/32445262/vladimirovich-shmanin-evgenii.jpg?w=320&f=jpg",
             "bio": "Docente de Enseñanza e Investigación Principal en UTEC. Doctor en Física por el Instituto de Física P.N. Lebedev de la Academia de Ciencias de Rusia, especialista en detectores e instrumentación para física de altas energías. Su investigación se enfoca en el desarrollo del calorímetro electromagnético PicoCal para el detector LHCb. Es miembro de la colaboración LHCb en la Organización Europea para la Investigación Nuclear (CERN). Cuenta con experiencia de investigación en instituciones científicas líderes de Rusia y Europa, como la Universidad Nacional de Investigación Nuclear MEPhI, la Universidad Nacional de Ciencia y Tecnología MISIS, el Instituto de Física P.N. Lebedev de la Academia de Ciencias de Rusia, la École Polytechnique Fédérale de Lausanne (EPFL) y el Instituto Nacional de Física Nuclear (INFN).",
             "areas": [
                 "Calorimetría electromagnética",
@@ -10682,8 +10591,8 @@
                 "Física Nuclear",
                 "Protección Radiológica"
             ],
-            "degree_centrality": 0.0791,
-            "betweenness_centrality": 0.078
+            "degree_centrality": 0.0797,
+            "betweenness_centrality": 0.0773
         },
         {
             "id": "University of Heidelberg",
@@ -10725,7 +10634,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0006
+            "betweenness_centrality": 0.0004
         },
         {
             "id": "Nikhef National Institute for Subatomic Physics",
@@ -10739,7 +10648,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0188
+            "betweenness_centrality": 0.0187
         },
         {
             "id": "University of Cincinnati",
@@ -10802,7 +10711,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0016,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.001
         },
         {
             "id": "Sezione INFN di Pisa",
@@ -11229,7 +11138,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Monash University",
@@ -11558,7 +11467,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Centro Federal De Educacão Tecnológica Celso Suckow Da Fonseca",
@@ -11754,7 +11663,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "French Atomic Energy Commission (CEA)",
@@ -12118,7 +12027,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Punjab Agricultural University",
@@ -12181,7 +12090,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0228
+            "betweenness_centrality": 0.0229
         },
         {
             "id": "University of Balgrade",
@@ -12195,7 +12104,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0026
+            "betweenness_centrality": 0.0025
         },
         {
             "id": "Chonbuk National University",
@@ -12265,7 +12174,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0052
+            "betweenness_centrality": 0.0048
         },
         {
             "id": "Universidad Michoacana de San Nicolás de Hidalgo",
@@ -12356,7 +12265,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "University of Maribor",
@@ -12377,7 +12286,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Isfahan University of Technology",
@@ -12412,7 +12321,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Centro de Investigaciones Energéticas Medioambientales y Tecnológicas (CIEMAT)",
@@ -12440,7 +12349,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0006
+            "betweenness_centrality": 0.0004
         },
         {
             "id": "Yonsei University",
@@ -12503,7 +12412,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Joint Institute for Nuclear Research, Dubna",
@@ -12573,7 +12482,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "University of Tehran",
@@ -12636,7 +12545,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Osaka City University",
@@ -12650,7 +12559,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "University of Seoul",
@@ -12692,7 +12601,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "National Kaohsiung Normal University",
@@ -12748,7 +12657,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Politecnico di Bari",
@@ -12783,7 +12692,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Purdue University Calumet",
@@ -12804,7 +12713,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "INFNSezione di Pavia",
@@ -12846,7 +12755,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0088
+            "betweenness_centrality": 0.0087
         },
         {
             "id": "University of Sydney",
@@ -12909,7 +12818,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0052
+            "betweenness_centrality": 0.0048
         },
         {
             "id": "University of Auckland",
@@ -12937,7 +12846,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Gyeongsang National University",
@@ -12986,7 +12895,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Brandenburg University of Technology",
@@ -13000,7 +12909,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Indian Institute of Technology Bhubaneswar",
@@ -13021,7 +12930,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "University of Kansas",
@@ -13084,14 +12993,14 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0048
+            "betweenness_centrality": 0.0049
         },
         {
             "id": "UMons",
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0044
+            "betweenness_centrality": 0.0043
         },
         {
             "id": "University of California, Davis",
@@ -13126,7 +13035,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0006
+            "betweenness_centrality": 0.0004
         },
         {
             "id": "Benemerita Universidad Autonoma de Puebla",
@@ -13189,7 +13098,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "School of Physics and Technology",
@@ -13203,7 +13112,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Chuo University",
@@ -13308,7 +13217,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0048
+            "betweenness_centrality": 0.0049
         },
         {
             "id": "St. Petersburg State Polytechnical University",
@@ -13392,7 +13301,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Northwestern University",
@@ -13434,7 +13343,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Ikerbasque, Basque Foundation for Science",
@@ -13448,7 +13357,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "University of Puerto Rico",
@@ -13462,7 +13371,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Now at Sultan Qaboos University",
@@ -13483,7 +13392,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Max-Planck-Institut für Physik",
@@ -13539,7 +13448,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "The Graduate University for Advanced Studies",
@@ -13567,7 +13476,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Beihang University",
@@ -13595,7 +13504,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0013
+            "betweenness_centrality": 0.0012
         },
         {
             "id": "Suez University",
@@ -13667,8 +13576,8 @@
                 "Aprendizaje automático",
                 "Series temporales"
             ],
-            "degree_centrality": 0.0189,
-            "betweenness_centrality": 0.0309
+            "degree_centrality": 0.019,
+            "betweenness_centrality": 0.0304
         },
         {
             "id": "William Robson Schwartz",
@@ -13994,8 +13903,8 @@
                 "Investigación de Operaciones",
                 "Matemáticas Discretas"
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "Leandro Neodini Remedio",
@@ -14013,8 +13922,8 @@
                 "Polímeros naturales comestibles y biodegradables",
                 "Caracterización de materiales poliméricos"
             ],
-            "degree_centrality": 0.0036,
-            "betweenness_centrality": 0.0016
+            "degree_centrality": 0.0032,
+            "betweenness_centrality": 0.0015
         },
         {
             "id": "Apis Flora Industrial e Comercial Ltda",
@@ -14157,13 +14066,6 @@
             "betweenness_centrality": 0.0
         },
         {
-            "id": "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0
-        },
-        {
             "id": "Vanessa Orihuela Munive",
             "type": "UTEC Faculty",
             "group": 1,
@@ -14194,8 +14096,8 @@
                 "Riesgos Climáticos",
                 "Ciencia de Datos"
             ],
-            "degree_centrality": 0.0048,
-            "betweenness_centrality": 0.0065
+            "degree_centrality": 0.0045,
+            "betweenness_centrality": 0.0061
         },
         {
             "id": "Matthew H. England",
@@ -14259,13 +14161,6 @@
             "betweenness_centrality": 0.0
         },
         {
-            "id": "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
-            "type": "Internal Organization",
-            "group": 4,
-            "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0008
-        },
-        {
             "id": "Maria Belén Ortiz García",
             "type": "UTEC Faculty",
             "group": 1,
@@ -14279,8 +14174,8 @@
                 "Gestión por Procesos y herramientas de Mejora Continua",
                 "Ingeniería Cognitiva/Factores Humanos."
             ],
-            "degree_centrality": 0.0044,
-            "betweenness_centrality": 0.004
+            "degree_centrality": 0.0045,
+            "betweenness_centrality": 0.0039
         },
         {
             "id": "Stanislav Karapetrovic",
@@ -14408,6 +14303,13 @@
             "betweenness_centrality": 0.0
         },
         {
+            "id": "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
+            "type": "Internal Organization",
+            "group": 4,
+            "degree_centrality": 0.0004,
+            "betweenness_centrality": 0.0
+        },
+        {
             "id": "Alexander Peña Nevado",
             "type": "UTEC Faculty",
             "group": 1,
@@ -14443,8 +14345,8 @@
             "photo_url": "https://cris.utec.edu.pe/files-asset/19171353/ramirez_quiroz_elmer.jpg?w=160&f=jpg",
             "bio": "Director del Centro de Investigación y Conservación del Patrimonio y Profesor de Ingeniería Química, ambos en la Universidad de Ingeniería y Tecnología (UTEC). Miembro del comité de asesores del International Mineral processing Council (IMPC) y fellow del International Institute of Conservation (IIC). Licenciado en Química (PUCP, 2000), Doctorado en Química en la Universidad de Delaware (2004 - 2010) y postdoctorado en la Universidad de Harvard (2010 - 2012). Ha recibido múltiples distinciones incluyendo el Premio Hackley 2008 a la excelencia en investigación en Química y el Premio Wolf 2011 a la mejor disertación doctoral en ciencias (Ambas en la universidad de Delaware), así como también el premio Hoffman 2009, máxima distinción a investigadores doctorales otorgada por la American Vacuum Society (AVS). En UTEC ha sido distinguido como mejor investigador en los años 2014, 2016, 2018 y 2019. Areas de interés: Conservación del Patrimonio, Nanomateriales, Procesamiento de minerales y Metalurgia extractiva.",
             "areas": [],
-            "degree_centrality": 0.0048,
-            "betweenness_centrality": 0.007
+            "degree_centrality": 0.0045,
+            "betweenness_centrality": 0.0069
         },
         {
             "id": "Jean Pieer Torres",
@@ -14730,8 +14632,8 @@
                 "ingeniería genética",
                 "Investigación e innovación en métodos de enseñanza y de evaluación en universidades"
             ],
-            "degree_centrality": 0.0024,
-            "betweenness_centrality": 0.0018
+            "degree_centrality": 0.002,
+            "betweenness_centrality": 0.0017
         },
         {
             "id": "Mauricio Power",
@@ -14760,8 +14662,8 @@
                 "ingeniería hidrológica",
                 "administracion del agua"
             ],
-            "degree_centrality": 0.073,
-            "betweenness_centrality": 0.1217
+            "degree_centrality": 0.0728,
+            "betweenness_centrality": 0.1189
         },
         {
             "id": "Luc Bourrel",
@@ -15868,7 +15770,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0023
+            "betweenness_centrality": 0.0021
         },
         {
             "id": "National Institute of Meteorology and Hydrology",
@@ -15938,7 +15840,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0012,
-            "betweenness_centrality": 0.0064
+            "betweenness_centrality": 0.0062
         },
         {
             "id": "Université of Savoie Mont-Blanc",
@@ -16018,8 +15920,8 @@
                 "Probabilidades",
                 "Simulación y análisis de datos"
             ],
-            "degree_centrality": 0.01,
-            "betweenness_centrality": 0.0203
+            "degree_centrality": 0.0101,
+            "betweenness_centrality": 0.0178
         },
         {
             "id": "Programa de Nuevas Tecnologlas",
@@ -16047,6 +15949,13 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
+            "betweenness_centrality": 0.0
+        },
+        {
+            "id": "Centro de Investigación y Tecnología del Agua - CITA",
+            "type": "Internal Organization",
+            "group": 4,
+            "degree_centrality": 0.0004,
             "betweenness_centrality": 0.0
         },
         {
@@ -16080,8 +15989,8 @@
                 "Biología marina y lacustre",
                 "Paleogenética"
             ],
-            "degree_centrality": 0.0072,
-            "betweenness_centrality": 0.0119
+            "degree_centrality": 0.0073,
+            "betweenness_centrality": 0.0117
         },
         {
             "id": "Marziyeh Eslamparasti",
@@ -16214,8 +16123,8 @@
                 "Procesamiento de minerales",
                 "Metalurgia extractiva"
             ],
-            "degree_centrality": 0.0313,
-            "betweenness_centrality": 0.041
+            "degree_centrality": 0.0308,
+            "betweenness_centrality": 0.0399
         },
         {
             "id": "Francisco Tarazona Vásquez",
@@ -16231,7 +16140,7 @@
                 "análisis termodinámicos",
                 "imulación e ingeniería de procesos"
             ],
-            "degree_centrality": 0.0064,
+            "degree_centrality": 0.0065,
             "betweenness_centrality": 0.0051
         },
         {
@@ -16484,7 +16393,7 @@
             "type": "External Organization",
             "group": 3,
             "degree_centrality": 0.0008,
-            "betweenness_centrality": 0.0029
+            "betweenness_centrality": 0.003
         },
         {
             "id": "University of Connecticut",
@@ -16675,8 +16584,8 @@
                 "sistemas biológicos para combatir enfermedades",
                 "Machine Learning"
             ],
-            "degree_centrality": 0.0377,
-            "betweenness_centrality": 0.0635
+            "degree_centrality": 0.0376,
+            "betweenness_centrality": 0.0623
         },
         {
             "id": "James O. Wrabl",
@@ -17449,8 +17358,8 @@
                 "Ciencias químicas",
                 "Electroquímica en particular baterías de ion litio y líquidos iónicos"
             ],
-            "degree_centrality": 0.0205,
-            "betweenness_centrality": 0.0344
+            "degree_centrality": 0.0206,
+            "betweenness_centrality": 0.0339
         },
         {
             "id": "Roberto M. Torresi",
@@ -18084,8 +17993,8 @@
                 "Ciencia de Datos",
                 "Proyectos relacionados con las áreas de Ciencia de Computación"
             ],
-            "degree_centrality": 0.0044,
-            "betweenness_centrality": 0.0066
+            "degree_centrality": 0.0036,
+            "betweenness_centrality": 0.0059
         },
         {
             "id": "Guoxin Su",
@@ -18138,6 +18047,13 @@
             "betweenness_centrality": 0.0
         },
         {
+            "id": "Grupo de Investigación en Física Fundamental (GIFF)",
+            "type": "Internal Organization",
+            "group": 4,
+            "degree_centrality": 0.0004,
+            "betweenness_centrality": 0.0
+        },
+        {
             "id": "Aurea Rossy Soriano Vargas",
             "type": "UTEC Faculty",
             "group": 1,
@@ -18154,8 +18070,8 @@
                 "aprendizaje automático",
                 "aprendizaje profundo"
             ],
-            "degree_centrality": 0.0289,
-            "betweenness_centrality": 0.0481
+            "degree_centrality": 0.0291,
+            "betweenness_centrality": 0.0472
         },
         {
             "id": "Anderson Rocha",
@@ -18735,8 +18651,8 @@
                 "planificación de infraestructura y transporte urbano",
                 "historia urbana contemporánea"
             ],
-            "degree_centrality": 0.0028,
-            "betweenness_centrality": 0.0025
+            "degree_centrality": 0.0024,
+            "betweenness_centrality": 0.0024
         },
         {
             "id": "Jessica Pineda-Zumaran",
@@ -18951,6 +18867,13 @@
             "betweenness_centrality": 0.0
         },
         {
+            "id": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+            "type": "Internal Organization",
+            "group": 4,
+            "degree_centrality": 0.0004,
+            "betweenness_centrality": 0.0
+        },
+        {
             "id": "Candy Veronica Tenorio Gonzales",
             "type": "UTEC Faculty",
             "group": 1,
@@ -19056,8 +18979,8 @@
                 "Estructuras Discretas",
                 "Conteo y Teoría de Grafos"
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "David Wilfredo Torres Escobar",
@@ -19075,8 +18998,8 @@
                 "capital natural",
                 "mercados ambientales"
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "NASA Ames Research Center",
@@ -19539,8 +19462,8 @@
                 "Desarrollo de cementos de bajo carbono",
                 "ingeniería metalúrgica"
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "Sensory Interfaces Laboratory (CEA)",
@@ -19738,8 +19661,8 @@
                 "sistemas eléctricos",
                 "electrotecnia industrial"
             ],
-            "degree_centrality": 0.0004,
-            "betweenness_centrality": 0.0
+            "degree_centrality": 0,
+            "betweenness_centrality": 0
         },
         {
             "id": "Universidad del Atlántico, Colombia",
@@ -19805,7 +19728,7 @@
                 "Biología de Conservación",
                 "Dinámica Forestal"
             ],
-            "degree_centrality": 0.0112,
+            "degree_centrality": 0.0113,
             "betweenness_centrality": 0.0001
         },
         {
@@ -20273,11 +20196,6 @@
             "weight": 1
         },
         {
-            "source": "José Manuel Aguilar Alfaro",
-            "target": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "weight": 2
-        },
-        {
             "source": "Grace Alexandrino Ocaña",
             "target": "Rafael Vega Centeno",
             "weight": 1
@@ -20453,16 +20371,6 @@
             "weight": 1
         },
         {
-            "source": "Helard Alvarez Sanchez",
-            "target": "Grupo de investigación en energía y minas",
-            "weight": 2
-        },
-        {
-            "source": "Helard Alvarez Sanchez",
-            "target": "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
-            "weight": 2
-        },
-        {
             "source": "Claudia Antonini Bova",
             "target": "Monica C. Santa-Maria",
             "weight": 1
@@ -20578,11 +20486,6 @@
             "weight": 1
         },
         {
-            "source": "Claudia Antonini Bova",
-            "target": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "weight": 2
-        },
-        {
             "source": "Sergio Aranda Egusquiza",
             "target": "Jhedmar Callupe-Luna",
             "weight": 2
@@ -20631,11 +20534,6 @@
             "source": "Sergio Aranda Egusquiza",
             "target": "Dirección de Investigación",
             "weight": 5
-        },
-        {
-            "source": "Sergio Aranda Egusquiza",
-            "target": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "weight": 2
         },
         {
             "source": "Patricia Araujo Pantoja",
@@ -20773,11 +20671,6 @@
             "weight": 1
         },
         {
-            "source": "Patricia Araujo Pantoja",
-            "target": "Grupo de investigación en energía y minas",
-            "weight": 2
-        },
-        {
             "source": "Andrés Julián Arias Moreno",
             "target": "Bert van Rietbergen",
             "weight": 4
@@ -20821,11 +20714,6 @@
             "source": "Andrés Julián Arias Moreno",
             "target": "Paul J. van Diest",
             "weight": 1
-        },
-        {
-            "source": "Andrés Julián Arias Moreno",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
         },
         {
             "source": "Walter Sebastian Barrutia Alta",
@@ -20963,31 +20851,6 @@
             "weight": 3
         },
         {
-            "source": "Luis Alberto Bedriñana Mera",
-            "target": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
-            "weight": 2
-        },
-        {
-            "source": "Luis Alberto Bedriñana Mera",
-            "target": "Centro de Investigación del Cemento y Concreto - CIC",
-            "weight": 2
-        },
-        {
-            "source": "Luis Alberto Bedriñana Mera",
-            "target": "Centro de Investigación y Conservación del Patrimonio",
-            "weight": 2
-        },
-        {
-            "source": "Omar Bejarano Grández",
-            "target": "Grupo de investigación en energía y minas",
-            "weight": 2
-        },
-        {
-            "source": "Omar Bejarano Grández",
-            "target": "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
-            "weight": 2
-        },
-        {
             "source": "Jesús Edwin Bellido Angulo",
             "target": "Rosa Alarcón",
             "weight": 6
@@ -21011,11 +20874,6 @@
             "source": "Jesús Edwin Bellido Angulo",
             "target": "Erik Wilde",
             "weight": 1
-        },
-        {
-            "source": "Jesús Edwin Bellido Angulo",
-            "target": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
-            "weight": 2
         },
         {
             "source": "Carlos Alberto Benedetty Torres",
@@ -21103,11 +20961,6 @@
             "weight": 6
         },
         {
-            "source": "Carlos Alberto Benedetty Torres",
-            "target": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
-            "weight": 2
-        },
-        {
             "source": "Jhedmar Jhonatan Callupe Luna",
             "target": "Yasuhisa Hirata",
             "weight": 4
@@ -21146,11 +20999,6 @@
             "source": "Jhedmar Jhonatan Callupe Luna",
             "target": "Lorentz Dutrievoz",
             "weight": 1
-        },
-        {
-            "source": "Jhedmar Jhonatan Callupe Luna",
-            "target": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "weight": 2
         },
         {
             "source": "Ruth Canahuire Cabello",
@@ -21271,16 +21119,6 @@
             "source": "Ruth Canahuire Cabello",
             "target": "Departamento de Bioingeniería e Ingeniería Química",
             "weight": 1
-        },
-        {
-            "source": "Ruth Canahuire Cabello",
-            "target": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "weight": 2
-        },
-        {
-            "source": "Ruth Canahuire Cabello",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
         },
         {
             "source": "Paul Cardenas Lizana",
@@ -21491,11 +21329,6 @@
             "source": "Paul Cardenas Lizana",
             "target": "Facultad de Ingeniería",
             "weight": 7
-        },
-        {
-            "source": "Paul Cardenas Lizana",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
         },
         {
             "source": "Ana Rocio Cardenas Maita",
@@ -22018,16 +21851,6 @@
             "weight": 2
         },
         {
-            "source": "Jose Javier Cerda Hernandez",
-            "target": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "weight": 2
-        },
-        {
-            "source": "Jose Javier Cerda Hernandez",
-            "target": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
-            "weight": 2
-        },
-        {
             "source": "Samuel Charca Mamani",
             "target": "Carmen Elena Flores Barreda",
             "weight": 6
@@ -22323,11 +22146,6 @@
             "weight": 3
         },
         {
-            "source": "Samuel Charca Mamani",
-            "target": "Centro de Investigación y Conservación del Patrimonio",
-            "weight": 2
-        },
-        {
             "source": "Sheyla Chero Osorio",
             "target": "John Kuhn",
             "weight": 1
@@ -22356,11 +22174,6 @@
             "source": "Sheyla Chero Osorio",
             "target": "Valerie Carson",
             "weight": 1
-        },
-        {
-            "source": "Sheyla Chero Osorio",
-            "target": "Centro de Investigación y Tecnología del Agua - CITA",
-            "weight": 2
         },
         {
             "source": "Fabien Cornillier",
@@ -22508,21 +22321,6 @@
             "weight": 1
         },
         {
-            "source": "Fabien Cornillier",
-            "target": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "weight": 2
-        },
-        {
-            "source": "Antuané De La Flor Basterrechea",
-            "target": "Centro de Impacto y Responsabilidad Social - CIRSO",
-            "weight": 2
-        },
-        {
-            "source": "Jose De La Puente Maldonado",
-            "target": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
-            "weight": 2
-        },
-        {
             "source": "José Andrés De Leo Martínez",
             "target": "Edwin Torres-Salazar",
             "weight": 2
@@ -22600,11 +22398,6 @@
         {
             "source": "José Andrés De Leo Martínez",
             "target": "Departamentos Académicos Transversales",
-            "weight": 2
-        },
-        {
-            "source": "José Andrés De Leo Martínez",
-            "target": "Centro de Investigación y Conservación del Patrimonio",
             "weight": 2
         },
         {
@@ -22848,11 +22641,6 @@
             "weight": 1
         },
         {
-            "source": "Manuel Arturo Deza Figueroa",
-            "target": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
-            "weight": 2
-        },
-        {
             "source": "Alberto Donayre Torres",
             "target": "Claudia Antonini Bova",
             "weight": 1
@@ -23068,11 +22856,6 @@
             "weight": 1
         },
         {
-            "source": "Alberto Donayre Torres",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
-        },
-        {
             "source": "Jose Fiestas Iquira",
             "target": "Rainer Spurzem",
             "weight": 12
@@ -23186,11 +22969,6 @@
             "source": "Jose Fiestas Iquira",
             "target": "P. Glaschke",
             "weight": 1
-        },
-        {
-            "source": "Jose Fiestas Iquira",
-            "target": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
-            "weight": 2
         },
         {
             "source": "Carmen Elena Flores Barreda",
@@ -23378,11 +23156,6 @@
             "weight": 6
         },
         {
-            "source": "Carmen Elena Flores Barreda",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
-        },
-        {
             "source": "Luis Ernesto Flores Luyo",
             "target": "Rosa Figueiredo",
             "weight": 4
@@ -23406,11 +23179,6 @@
             "source": "Luis Ernesto Flores Luyo",
             "target": "Eladio Ocaña Anaya",
             "weight": 1
-        },
-        {
-            "source": "Luis Ernesto Flores Luyo",
-            "target": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "weight": 2
         },
         {
             "source": "Christian Flores Vega",
@@ -23606,11 +23374,6 @@
             "source": "Christian Flores Vega",
             "target": "Departamento de Ingeniería Mecánica y de la Energía",
             "weight": 4
-        },
-        {
-            "source": "Christian Flores Vega",
-            "target": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "weight": 2
         },
         {
             "source": "José Tomás Gálvez Ghersi",
@@ -24263,11 +24026,6 @@
             "weight": 2
         },
         {
-            "source": "José Tomás Gálvez Ghersi",
-            "target": "Grupo de Investigación en Física Fundamental (GIFF)",
-            "weight": 2
-        },
-        {
             "source": "Germain García Zanabria",
             "target": "Jorge Poco",
             "weight": 8
@@ -24530,11 +24288,6 @@
         {
             "source": "Germain García Zanabria",
             "target": "Facultad de Computación",
-            "weight": 2
-        },
-        {
-            "source": "Germain García Zanabria",
-            "target": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
             "weight": 2
         },
         {
@@ -26408,19 +26161,9 @@
             "weight": 3
         },
         {
-            "source": "Juan Gabriel Gutierrez Alva",
-            "target": "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
-            "weight": 2
-        },
-        {
             "source": "Julio Gutierrez Alva",
             "target": "Christian Valqui",
             "weight": 1
-        },
-        {
-            "source": "Julio Gutierrez Alva",
-            "target": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "weight": 2
         },
         {
             "source": "Yuri Herrera Burstein",
@@ -26436,11 +26179,6 @@
             "source": "Yuri Herrera Burstein",
             "target": "Facultad de Negocios",
             "weight": 1
-        },
-        {
-            "source": "Oscar Hidalgo Wuest",
-            "target": "Centro de Impacto y Responsabilidad Social - CIRSO",
-            "weight": 2
         },
         {
             "source": "Daniel Vicente Horna Muñoz",
@@ -26903,16 +26641,6 @@
             "weight": 14
         },
         {
-            "source": "Daniel Vicente Horna Muñoz",
-            "target": "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)",
-            "weight": 2
-        },
-        {
-            "source": "Daniel Vicente Horna Muñoz",
-            "target": "Centro de Investigación y Tecnología del Agua - CITA",
-            "weight": 2
-        },
-        {
             "source": "Deyby Huamanchahua Canchanya",
             "target": "Christian Flores Vega",
             "weight": 1
@@ -27053,21 +26781,6 @@
             "weight": 8
         },
         {
-            "source": "Deyby Huamanchahua Canchanya",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
-        },
-        {
-            "source": "Deyby Huamanchahua Canchanya",
-            "target": "Grupo de Investigación en Innovación Educativa y Competencia Docente (INECOD)",
-            "weight": 2
-        },
-        {
-            "source": "Deyby Huamanchahua Canchanya",
-            "target": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "weight": 2
-        },
-        {
             "source": "Dante Inga Narvaez",
             "target": "Elvis Jara Alegria",
             "weight": 1
@@ -27203,16 +26916,6 @@
             "weight": 2
         },
         {
-            "source": "Dante Inga Narvaez",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
-        },
-        {
-            "source": "Dante Inga Narvaez",
-            "target": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "weight": 2
-        },
-        {
             "source": "Elvis Jara Alegria",
             "target": "Moises Nuñez Ochoa",
             "weight": 4
@@ -27266,11 +26969,6 @@
             "source": "Elvis Jara Alegria",
             "target": "Facultad de Ingeniería",
             "weight": 25
-        },
-        {
-            "source": "Elvis Jara Alegria",
-            "target": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "weight": 2
         },
         {
             "source": "Wangdo Kim",
@@ -27588,11 +27286,6 @@
             "weight": 1
         },
         {
-            "source": "Wangdo Kim",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
-        },
-        {
             "source": "Jose Larco Martinelli",
             "target": "Jan C. Fransoo",
             "weight": 3
@@ -27666,11 +27359,6 @@
             "source": "Jose Larco Martinelli",
             "target": "Facultad de Ingeniería",
             "weight": 3
-        },
-        {
-            "source": "Jose Larco Martinelli",
-            "target": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "weight": 2
         },
         {
             "source": "Cristian Lopez Del Alamo",
@@ -27911,11 +27599,6 @@
             "source": "Cristian Lopez Del Alamo",
             "target": "Dirección de Investigación",
             "weight": 1
-        },
-        {
-            "source": "Cristian Lopez Del Alamo",
-            "target": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
-            "weight": 2
         },
         {
             "source": "José Luis Mantari Laureano",
@@ -28303,11 +27986,6 @@
             "weight": 1
         },
         {
-            "source": "José Luis Mantari Laureano",
-            "target": "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
-            "weight": 2
-        },
-        {
             "source": "Giancarlo Marcone Flores",
             "target": "Parker VanValkenburgh",
             "weight": 2
@@ -28566,11 +28244,6 @@
             "source": "Giancarlo Marcone Flores",
             "target": "Departamentos Académicos Transversales",
             "weight": 11
-        },
-        {
-            "source": "Giancarlo Marcone Flores",
-            "target": "Centro de Impacto y Responsabilidad Social - CIRSO",
-            "weight": 2
         },
         {
             "source": "Diego Alejandro Milanés Carreño",
@@ -31268,11 +30941,6 @@
             "weight": 18
         },
         {
-            "source": "Diego Alejandro Milanés Carreño",
-            "target": "Grupo de Investigación en Física Fundamental (GIFF)",
-            "weight": 2
-        },
-        {
             "source": "Rensso Victor Hugo Mora Colque",
             "target": "William Robson Schwartz",
             "weight": 7
@@ -31508,11 +31176,6 @@
             "weight": 3
         },
         {
-            "source": "Angel Napa Bernuy",
-            "target": "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
-            "weight": 2
-        },
-        {
             "source": "Leandro Neodini Remedio",
             "target": "Carolina Parada Quinaya",
             "weight": 2
@@ -31550,11 +31213,6 @@
         {
             "source": "Leandro Neodini Remedio",
             "target": "Dirección de Investigación",
-            "weight": 2
-        },
-        {
-            "source": "Leandro Neodini Remedio",
-            "target": "Departamento de Bioingeniería e Ingeniería Química",
             "weight": 2
         },
         {
@@ -31733,11 +31391,6 @@
             "weight": 2
         },
         {
-            "source": "Moises Nuñez Ochoa",
-            "target": "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)",
-            "weight": 2
-        },
-        {
             "source": "Bryam Orihuela-Pinto",
             "target": "Matthew H. England",
             "weight": 3
@@ -31791,11 +31444,6 @@
             "source": "Bryam Orihuela-Pinto",
             "target": "Dirección de Investigación",
             "weight": 1
-        },
-        {
-            "source": "Bryam Orihuela-Pinto",
-            "target": "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
-            "weight": 2
         },
         {
             "source": "Maria Belén Ortiz García",
@@ -32053,11 +31701,6 @@
             "weight": 5
         },
         {
-            "source": "Elmer Ramirez Quiroz",
-            "target": "Grupo de investigación en energía y minas",
-            "weight": 2
-        },
-        {
             "source": "Oscar Ramos Ponce",
             "target": "Ruth Canahuire Cabello",
             "weight": 5
@@ -32191,11 +31834,6 @@
             "source": "Oscar Ramos Ponce",
             "target": "Dirección de Investigación",
             "weight": 1
-        },
-        {
-            "source": "Oscar Ramos Ponce",
-            "target": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
-            "weight": 2
         },
         {
             "source": "José Ramos Saravia",
@@ -32378,16 +32016,6 @@
             "weight": 1
         },
         {
-            "source": "José Ramos Saravia",
-            "target": "Grupo de investigación en energía y minas",
-            "weight": 2
-        },
-        {
-            "source": "José Ramos Saravia",
-            "target": "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
-            "weight": 2
-        },
-        {
             "source": "Alejandra Ratti Parandelli",
             "target": "Mauricio Power",
             "weight": 1
@@ -32411,11 +32039,6 @@
             "source": "Alejandra Ratti Parandelli",
             "target": "Departamento de Ciencias",
             "weight": 1
-        },
-        {
-            "source": "Alejandra Ratti Parandelli",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
         },
         {
             "source": "Pedro Rau Lavado",
@@ -33323,16 +32946,6 @@
             "weight": 19
         },
         {
-            "source": "Pedro Rau Lavado",
-            "target": "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)",
-            "weight": 2
-        },
-        {
-            "source": "Pedro Rau Lavado",
-            "target": "Centro de Investigación y Tecnología del Agua - CITA",
-            "weight": 2
-        },
-        {
             "source": "Jose Renom Andara",
             "target": "Monica C. Santa-Maria",
             "weight": 1
@@ -33926,16 +33539,6 @@
             "source": "Juan Carlos Rodríguez Reyes",
             "target": "Dirección de Investigación",
             "weight": 3
-        },
-        {
-            "source": "Juan Carlos Rodríguez Reyes",
-            "target": "Grupo de investigación en energía y minas",
-            "weight": 2
-        },
-        {
-            "source": "Juan Carlos Rodríguez Reyes",
-            "target": "Centro de Investigación y Conservación del Patrimonio",
-            "weight": 2
         },
         {
             "source": "Ursula Rodriguez Zuñiga",
@@ -34580,11 +34183,6 @@
         {
             "source": "Harry Gustavo Saavedra Espinoza",
             "target": "Facultad de Ingeniería",
-            "weight": 2
-        },
-        {
-            "source": "Harry Gustavo Saavedra Espinoza",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
             "weight": 2
         },
         {
@@ -35358,11 +34956,6 @@
             "weight": 1
         },
         {
-            "source": "Monica C. Santa-Maria",
-            "target": "Centro de Investigación y Tecnología del Agua - CITA",
-            "weight": 2
-        },
-        {
             "source": "Yamilet Rosario Serrano Llerena",
             "target": "Guoxin Su",
             "weight": 2
@@ -35406,16 +34999,6 @@
             "source": "Yamilet Rosario Serrano Llerena",
             "target": "Facultad de Computación",
             "weight": 1
-        },
-        {
-            "source": "Yamilet Rosario Serrano Llerena",
-            "target": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
-            "weight": 2
-        },
-        {
-            "source": "Yamilet Rosario Serrano Llerena",
-            "target": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
-            "weight": 2
         },
         {
             "source": "Evgenii Vladimirovich Shmanin",
@@ -36813,11 +36396,6 @@
             "weight": 2
         },
         {
-            "source": "Matteo Stiglich Labarthe",
-            "target": "Centro de Impacto y Responsabilidad Social - CIRSO",
-            "weight": 2
-        },
-        {
             "source": "Sashwat Tanay",
             "target": "José Tomás Gálvez Ghersi",
             "weight": 1
@@ -37158,16 +36736,6 @@
             "weight": 1
         },
         {
-            "source": "Jimmy Tarrillo Olano",
-            "target": "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)",
-            "weight": 2
-        },
-        {
-            "source": "Jimmy Tarrillo Olano",
-            "target": "Departamento de Ingeniería Electrónica y Mecatrónica",
-            "weight": 2
-        },
-        {
             "source": "Candy Veronica Tenorio Gonzales",
             "target": "Carlos H. Morimoto",
             "weight": 4
@@ -37206,16 +36774,6 @@
             "source": "Candy Veronica Tenorio Gonzales",
             "target": "Flavio L. Coutinho",
             "weight": 1
-        },
-        {
-            "source": "Jorge Tipe Villanueva",
-            "target": "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
-            "weight": 2
-        },
-        {
-            "source": "David Wilfredo Torres Escobar",
-            "target": "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
-            "weight": 2
         },
         {
             "source": "Julio Ernesto Valdivia Silva",
@@ -37843,16 +37401,6 @@
             "weight": 1
         },
         {
-            "source": "Julio Ernesto Valdivia Silva",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
-        },
-        {
-            "source": "Elba Rosaura Vazques Arrieta",
-            "target": "Centro de Investigación del Cemento y Concreto - CIC",
-            "weight": 2
-        },
-        {
             "source": "Emir Augusto Vela Saavedra",
             "target": "Wangdo Kim",
             "weight": 5
@@ -38218,21 +37766,6 @@
             "weight": 1
         },
         {
-            "source": "Emir Augusto Vela Saavedra",
-            "target": "Centro de Investigación en Bioingeniería - BIO",
-            "weight": 2
-        },
-        {
-            "source": "Emir Augusto Vela Saavedra",
-            "target": "Escuela de Posgrado",
-            "weight": 2
-        },
-        {
-            "source": "Rafael Vera Pomalaza",
-            "target": "Grupo de investigación en energía y minas",
-            "weight": 2
-        },
-        {
             "source": "Eunice Villicaña Ortiz",
             "target": "Wangdo Kim",
             "weight": 1
@@ -38356,11 +37889,6 @@
             "source": "Eunice Villicaña Ortiz",
             "target": "Departamento de Ingeniería Electrónica y Mecatrónica",
             "weight": 1
-        },
-        {
-            "source": "Eunice Villicaña Ortiz",
-            "target": "Grupo de investigación en energía y minas",
-            "weight": 2
         },
         {
             "source": "Akira Armando Wong Sato",
